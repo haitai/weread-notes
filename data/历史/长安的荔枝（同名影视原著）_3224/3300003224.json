@@ -12,23 +12,23 @@
     "isbn": "9787572608582",
     "wordCount": 0,
     "newRating": 930,
-    "newRatingCount": 259816,
+    "newRatingCount": 259817,
     "newRatingDetail": {
-      "good": 247040,
+      "good": 247041,
       "fair": 10941,
       "poor": 1835,
-      "recent": 507,
+      "recent": 508,
       "deepV": 20354,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=3300003224",
-    "lastSync": "2026-05-18T04:25:26Z",
+    "lastSync": "2026-05-18T04:50:49Z",
     "readingProgress": "0%",
     "readingTime": "0分钟",
     "finishedDate": "",
-    "noteCount": 1,
-    "reviewCount": 1,
+    "noteCount": 2,
+    "reviewCount": 0,
     "bookmarkCount": 0
   },
   "chapters": [
@@ -155,41 +155,36 @@
   ],
   "content": [
     {
-      "chapterUid": 23,
-      "chapterTitle": "第四章",
-      "items": [
-        {
-          "type": "highlight",
-          "bookmarkId": "3300003224_23_927-1005",
-          "range": "927-1005",
-          "rangeStart": 927,
-          "rangeEnd": 1005,
-          "markText": "江南西道南边有一处大庾县，正南即是五岭之一的大庾岭。从梅关道北上，这里是必经之地。县内群山耸峙，三道岭壁封住了三面方向，只留一条狭长的驿路可以向东通去虔州。",
-          "colorStyle": 5,
-          "colorLabel": "",
-          "createTime": 1779074321,
-          "createTimeFormatted": "2026-05-18 11:18:41",
-          "chapterUid": 23,
-          "appLink": "weread://bestbookmark?bookId=3300003224&chapterUid=23&rangeStart=927&rangeEnd=1005"
-        }
-      ]
-    },
-    {
       "chapterUid": 22,
       "chapterTitle": "第三章",
       "items": [
         {
-          "type": "review",
-          "reviewId": "933739075_89bC7VZBY",
-          "range": "934-936",
-          "chapterName": "第三章",
-          "content": "xún yánɡ\n\n区名。在江西省九江市北部，北靠长江，与湖北省隔江相望。市人民政府驻地。面积50平方千米。人口43万（2020年）。区人民政府驻甘棠街道。西汉始置柴桑县，三国置江州。民国时期地属九江县。1949年属九江市。1980年设浔阳区。区内水网密布，有长江和甘棠湖、南门湖、白水湖、琵琶湖一江四湖。工业基础雄厚，以数字经济、石油化工、文化旅游、口岸产业和商贸物流等产业为主。京九铁路经此。名胜古迹和纪念地有能仁寺、烟水亭、思贤桥、锁江楼塔、浔阳楼、琵琶亭和国民革命军第二十四师叶挺指挥部旧址等。\n古江名。指长江流经浔阳县境一段，在今江西九江市北。唐白居易《琵琶行》“浔阳江头夜送客”，即此。\n古县名。唐武德四年（621年）改湓城县置。治今江西九江市。江州及浔阳郡先后治此。五代南唐改德化县。\n郡名。唐天宝元年（742年）改江州置。治浔阳（今江西九江）。辖境相当今江西都昌、德安二县以北地区。乾元元年（758年）又改江州。",
-          "abstract": "浔阳",
-          "star": -1,
-          "createTime": 1779075109,
-          "createTimeFormatted": "2026-05-18 11:31:49",
-          "isFinish": false,
-          "chapterUid": 22
+          "type": "highlight",
+          "bookmarkId": "3300003224_22_1334-1361",
+          "range": "1334-1361",
+          "rangeStart": 1334,
+          "rangeEnd": 1361,
+          "markText": "如此一来，每队人马奔出多远，荔枝变化如何，便一目了然。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1779079809,
+          "createTimeFormatted": "2026-05-18 12:50:09",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=3300003224&chapterUid=22&rangeStart=1334&rangeEnd=1361"
+        },
+        {
+          "type": "highlight",
+          "bookmarkId": "3300003224_22_1059-1151",
+          "range": "1059-1151",
+          "rangeStart": 1059,
+          "rangeEnd": 1151,
+          "markText": "这面土墙上贴的，是一张硕大的格眼簿子。那格眼簿子顶上左起一列，从上至下分别写的是一路、二路、三路、四路；顶上一排，自左至右写着百里、二百里、三百里……彼此交错，形成一片密密麻麻的格子。",
+          "colorStyle": 3,
+          "colorLabel": "",
+          "createTime": 1779079805,
+          "createTimeFormatted": "2026-05-18 12:50:05",
+          "chapterUid": 22,
+          "appLink": "weread://bestbookmark?bookId=3300003224&chapterUid=22&rangeStart=1059&rangeEnd=1151"
         }
       ]
     }
@@ -359,9 +354,9 @@
   ],
   "readProgress": {
     "chapterUid": 22,
-    "chapterOffset": 895,
+    "chapterOffset": 1211,
     "progress": 0,
-    "updateTime": 1779075624,
+    "updateTime": 1779079811,
     "recordReadingTime": 0,
     "finishTime": ""
   }
