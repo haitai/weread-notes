@@ -896,7 +896,7 @@ def build_shelf_book_data(shelf_book: dict, book_info: dict | None, progress: di
     return book_data
 
 
-def sync_shelf(client: WeReadClient):
+def sync_shelf(client: WeReadClient, no_notion: bool = False):
     """书架全量同步 — 同步书架上所有书籍（含无笔记的）
 
     1. 获取 /shelf/sync 所有书籍
@@ -904,7 +904,7 @@ def sync_shelf(client: WeReadClient):
     3. 如果有笔记（在 /user/notebooks 中），获取完整笔记数据
     4. 下载封面到本地书籍目录
     5. 保存 JSON + Markdown
-    6. 推送 Notion
+    6. 推送 Notion（如果 no_notion=False）
     """
     logger.info("开始书架同步...")
     index = load_index()
@@ -918,14 +918,16 @@ def sync_shelf(client: WeReadClient):
     notebook_ids = {nb.get("bookId") for nb in notebooks}
     logger.info("其中有笔记的 %d 本", len(notebook_ids))
 
-    # 初始化 Notion 客户端
+    # 初始化 Notion 客户端（如果未禁用）
     from notion_push import push_single_book, _get_notion_client
-    try:
-        notion_client = _get_notion_client()
-        logger.info("Notion 客户端已初始化")
-    except Exception as e:
-        logger.warning("Notion 初始化失败，将跳过 Notion 推送: %s", e)
-        notion_client = None
+    notion_client = None
+    if not no_notion:
+        try:
+            notion_client = _get_notion_client()
+            logger.info("Notion 客户端已初始化")
+        except Exception as e:
+            logger.warning("Notion 初始化失败，将跳过 Notion 推送: %s", e)
+            notion_client = None
 
     synced = 0
     failed = 0
@@ -1056,7 +1058,7 @@ def main():
 
     try:
         if args.mode == "shelf":
-            sync_shelf(client)
+            sync_shelf(client, args.no_notion)
         elif args.mode == "full":
             sync_full(client, resume=args.resume)
         elif args.mode == "incremental":
