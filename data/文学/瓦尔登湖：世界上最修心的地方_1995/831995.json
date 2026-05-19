@@ -1,0 +1,1009 @@
+{
+  "meta": {
+    "bookId": "831995",
+    "title": "瓦尔登湖：世界上最修心的地方",
+    "author": "梭罗",
+    "translator": "穆秋月",
+    "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/995/831995/t6_831995.jpg",
+    "intro": "    《瓦尔登湖》以春天开始，历经了夏天、秋天和冬天，又以春天结束，这正是一个生命的轮回。在那木屋里，那湖光山色中，他观察着，倾听着，感受着，沉思着，并且梦想着。他通过自己的生活实验，告诉世人不要因纷繁复杂的生活而失去了生活的方向和意义。他认为人们只有淳朴地生活，才能摒弃内心的焦虑，才能享受到内心的平静、轻松和愉悦。不得不提的是，尽管当时中西文化交流匮乏，梭罗却翻译阅读了不少儒学著作，并将对儒家思想的理解融入了自己的思想中，因此他的作品中也散发着中国古典文学特有的气质。\n",
+    "category": "文学-散文杂著",
+    "publisher": "中国华侨出版社",
+    "publishTime": "2013-09-01 00:00:00",
+    "isbn": "9787511338402",
+    "wordCount": 0,
+    "newRating": 821,
+    "newRatingCount": 913,
+    "newRatingDetail": {
+      "good": 742,
+      "fair": 135,
+      "poor": 36,
+      "recent": 11,
+      "deepV": 123,
+      "myRating": "",
+      "title": "脍炙人口"
+    },
+    "appLink": "weread://reading?bId=831995",
+    "lastSync": "2026-05-19T03:19:24Z",
+    "readingProgress": "25%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "bookmarkCount": 0
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "封面",
+      "level": 1,
+      "wordCount": 1,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 138,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 1325,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "题记",
+      "level": 1,
+      "wordCount": 840,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "第一章 节俭有道",
+      "level": 1,
+      "wordCount": 9330,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "对生活的理解",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "衣着的用途",
+      "level": 2,
+      "wordCount": 3434,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "庇荫之处",
+      "level": 2,
+      "wordCount": 2895,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "生活不要被物质所奴役",
+      "level": 2,
+      "wordCount": 4650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "我的简朴实验",
+      "level": 2,
+      "wordCount": 7651,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "自给自足的生活",
+      "level": 2,
+      "wordCount": 2458,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "晒晒我的账簿",
+      "level": 2,
+      "wordCount": 5637,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "生活的感悟",
+      "level": 2,
+      "wordCount": 5802,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "补充诗篇",
+      "level": 2,
+      "wordCount": 459,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第二章 我生活在何处；我为何而生",
+      "level": 1,
+      "wordCount": 2055,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "栖息之地",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "露宿森林",
+      "level": 2,
+      "wordCount": 6446,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "生活的真谛",
+      "level": 2,
+      "wordCount": 1817,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "第三章 真正的阅读",
+      "level": 1,
+      "wordCount": 2862,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "最好的读本",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "如何阅读",
+      "level": 2,
+      "wordCount": 2146,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "让文明充盈乡村",
+      "level": 2,
+      "wordCount": 1136,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "第四章 闻籁—康科德夏天的声响",
+      "level": 1,
+      "wordCount": 2403,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "独坐静思",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "康科德的汽笛声",
+      "level": 2,
+      "wordCount": 2018,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "熙熙攘攘的货运",
+      "level": 2,
+      "wordCount": 2221,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "大自然的交响乐",
+      "level": 2,
+      "wordCount": 2516,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "第五章 阡陌独居",
+      "level": 1,
+      "wordCount": 1940,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "一个人的风景",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "道不孤，必有邻",
+      "level": 2,
+      "wordCount": 3582,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "第六章 形形色色的访客",
+      "level": 1,
+      "wordCount": 2390,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "陋室铭",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=26"
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "title": "瓦尔登湖的赤子",
+      "level": 2,
+      "wordCount": 3538,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=27"
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "title": "不受欢迎的人",
+      "level": 2,
+      "wordCount": 1947,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=28"
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "title": "第七章 种豆",
+      "level": 1,
+      "wordCount": 3407,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "种植的魔力",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=29"
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "title": "种植的收获",
+      "level": 2,
+      "wordCount": 3171,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=30"
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "title": "第八章 村落",
+      "level": 1,
+      "wordCount": 1326,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "溜达溜达",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=31"
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "title": "夜行",
+      "level": 2,
+      "wordCount": 1968,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=32"
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "title": "第九章 湖",
+      "level": 1,
+      "wordCount": 1303,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "湖边垂钓",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=33"
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "title": "神奇的湖水",
+      "level": 2,
+      "wordCount": 5405,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=34"
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "title": "瓦尔登湖的秋天",
+      "level": 2,
+      "wordCount": 2331,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=35"
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "title": "被玷污的圣地",
+      "level": 2,
+      "wordCount": 4072,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=36"
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "title": "第十章 贝克田庄",
+      "level": 1,
+      "wordCount": 1650,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "差一点居住的地方",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=37"
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "title": "农场中的爱尔兰人",
+      "level": 2,
+      "wordCount": 2271,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=38"
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "title": "第十一章 更高的规律",
+      "level": 1,
+      "wordCount": 2992,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "内心追求的生活",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=39"
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "title": "控制内心的贪欲",
+      "level": 2,
+      "wordCount": 3725,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=40"
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "title": "第十二章 与鸟兽比邻",
+      "level": 1,
+      "wordCount": 1235,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "对白",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=41"
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "title": "热闹的邻居",
+      "level": 2,
+      "wordCount": 4725,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=42"
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "title": "第十三章 储备过冬",
+      "level": 1,
+      "wordCount": 1525,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "采摘",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=43"
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "title": "修葺",
+      "level": 2,
+      "wordCount": 2863,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=44"
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "title": "弄冰",
+      "level": 2,
+      "wordCount": 1233,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=45"
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "title": "砍柴",
+      "level": 2,
+      "wordCount": 3445,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=46"
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "title": "第十四章 原住民和冬天的访客",
+      "level": 1,
+      "wordCount": 5110,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "林中居民",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=47"
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "title": "难得的来客",
+      "level": 2,
+      "wordCount": 2115,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=48"
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "title": "第十五章 冬天的鸟兽",
+      "level": 1,
+      "wordCount": 2987,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "冬日的精灵",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=49"
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "title": "狩猎者",
+      "level": 2,
+      "wordCount": 2902,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=50"
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "title": "第十六章 冬日的瓦尔登湖",
+      "level": 1,
+      "wordCount": 5822,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "测量",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=51"
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "title": "凿冰",
+      "level": 2,
+      "wordCount": 2013,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=52"
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "title": "第十七章 春天",
+      "level": 1,
+      "wordCount": 2944,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "融冰",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=53"
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "title": "流沙",
+      "level": 2,
+      "wordCount": 3111,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=54"
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "title": "春的脚步",
+      "level": 2,
+      "wordCount": 4810,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=831995&chapterUid=55"
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "title": "结束语",
+      "level": 1,
+      "wordCount": 5812,
+      "price": -1,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "淡定心安，生活处处皆欢愉",
+          "anchor": "bw1",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=831995&chapterUid=56"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 4,
+      "chapterTitle": "题记",
+      "items": [
+        {
+          "type": "highlight",
+          "bookmarkId": "831995_4_1326-1356",
+          "range": "1326-1356",
+          "rangeStart": 1326,
+          "rangeEnd": 1356,
+          "markText": "我觉得一个人若诚恳地生活过，那他一定是生活在一个遥远的地方。",
+          "colorStyle": 1,
+          "colorLabel": "",
+          "createTime": 1695023552,
+          "createTimeFormatted": "2023-09-18 15:52:32",
+          "chapterUid": 4,
+          "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1326&rangeEnd=1356"
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [
+    {
+      "bookmarkId": "831995_4_1324-1356",
+      "chapterUid": 4,
+      "range": "1324-1356",
+      "markText": "因为我觉得一个人若诚恳地生活过，那他一定是生活在一个遥远的地方。",
+      "totalCount": 2329,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1324&rangeEnd=1356"
+    },
+    {
+      "bookmarkId": "831995_14_1227-1245",
+      "chapterUid": 14,
+      "range": "1227-1245",
+      "markText": "因为一个人放下的事情越多，他越富有。",
+      "totalCount": 1568,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=14&rangeStart=1227&rangeEnd=1245"
+    },
+    {
+      "bookmarkId": "831995_4_485-553",
+      "chapterUid": 4,
+      "range": "485-553",
+      "markText": "我步入丛林，因为我希望活得从容不迫，希望活得深刻，汲取生命中的所有精华，把非生命的一切都击溃，以免在我临终的时候，发现自己从没有活过……",
+      "totalCount": 1428,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=485&rangeEnd=553"
+    },
+    {
+      "bookmarkId": "831995_5_10430-10476",
+      "chapterUid": 5,
+      "range": "10430-10476",
+      "markText": "人们羡慕的那种成功者的生活，只不过是生活方式中的一种。为什么我们要夸耀这一种，贬低别一种呢？",
+      "totalCount": 1292,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=10430&rangeEnd=10476"
+    },
+    {
+      "bookmarkId": "831995_9_9015-9053",
+      "chapterUid": 9,
+      "range": "9015-9053",
+      "markText": "耗费生命中最宝贵的时间来赚钱，只是为了在最不宝贵的时间里享受一点可怜的自由，",
+      "totalCount": 1173,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=9&rangeStart=9015&rangeEnd=9053"
+    },
+    {
+      "bookmarkId": "831995_5_5761-5813",
+      "chapterUid": 5,
+      "range": "5761-5813",
+      "markText": "当一个人把他想象的事实提炼为自己所理解的事实时，我敢预言说，所有的人最终都会在那个基础上建筑他们的生活。",
+      "totalCount": 1152,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=5761&rangeEnd=5813"
+    },
+    {
+      "bookmarkId": "831995_3_1468-1546",
+      "chapterUid": 3,
+      "range": "1468-1546",
+      "markText": "他通过自己的生活实验，告诉世人不要因纷繁复杂的生活而失去了生活的方向和意义。他认为人们只有淳朴地生活，才能摒弃内心的焦虑，才能享受到内心的平静、轻松和愉悦。",
+      "totalCount": 1136,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=3&rangeStart=1468&rangeEnd=1546"
+    },
+    {
+      "bookmarkId": "831995_5_4238-4273",
+      "chapterUid": 5,
+      "range": "4238-4273",
+      "markText": "生活不过是一场试验，老年人只不过先于我体验过了而已，但却于我丝毫无益。",
+      "totalCount": 1065,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=4238&rangeEnd=4273"
+    },
+    {
+      "bookmarkId": "831995_21_2712-2731",
+      "chapterUid": 21,
+      "range": "2712-2731",
+      "markText": "命运之路无数条，那么，走你自己的路吧。",
+      "totalCount": 1050,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=21&rangeStart=2712&rangeEnd=2731"
+    },
+    {
+      "bookmarkId": "831995_5_4459-4517",
+      "chapterUid": 5,
+      "range": "4459-4517",
+      "markText": "有些东西，在特定的情况下确实是生活的必需品，而换了一个场合，就变成了奢侈品，再换了别的场合，又可能是闻所未闻的东西。",
+      "totalCount": 980,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=4459&rangeEnd=4517"
+    },
+    {
+      "bookmarkId": "831995_5_2498-2559",
+      "chapterUid": 5,
+      "range": "2498-2559",
+      "markText": "我们天性中最美好的品格，好似果实上的粉霜一样，只有精心呵护才能使之完好保存。然而，我们对待自己和他人都缺乏这份温柔的情意。",
+      "totalCount": 960,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=2498&rangeEnd=2559"
+    },
+    {
+      "bookmarkId": "831995_5_1198-1270",
+      "chapterUid": 5,
+      "range": "1198-1270",
+      "markText": "是谁让自己变成了土地的奴隶？半亩方塘已足以，为何还要贪恋更多？为什么人们要自掘坟墓？他们本应该轻松地活着，摆脱一切包袱，尽可能地把日子过得好些。",
+      "totalCount": 952,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=1198&rangeEnd=1270"
+    },
+    {
+      "bookmarkId": "831995_5_1606-1646",
+      "chapterUid": 5,
+      "range": "1606-1646",
+      "markText": "人们是在误导下辛勤劳作的啊。人的一生中最美好的年华大半被犁头耕入泥土，化为肥料。",
+      "totalCount": 918,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=1606&rangeEnd=1646"
+    },
+    {
+      "bookmarkId": "831995_4_1432-1467",
+      "chapterUid": 4,
+      "range": "1432-1467",
+      "markText": "我相信，没有人会削足适履，只有合乎尺寸的衣履才能给予恰到好处的舒适感。",
+      "totalCount": 868,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1432&rangeEnd=1467"
+    },
+    {
+      "bookmarkId": "831995_8_3007-3063",
+      "chapterUid": 8,
+      "range": "3007-3063",
+      "markText": "我桌上有3块石灰石，每天都需要拂拭，真让我震惊，我头脑中的灰尘还来不及拂拭呢，于是我毫不犹豫地把它们扔出了窗子。",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=8&rangeStart=3007&rangeEnd=3063"
+    },
+    {
+      "bookmarkId": "831995_5_3428-3479",
+      "chapterUid": 5,
+      "range": "3428-3479",
+      "markText": "和我们的自知之明相比较，公众舆论只不过是一个懦弱的暴君。正是一个人如何看待自己，往往决定了此人的命运。",
+      "totalCount": 790,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=3428&rangeEnd=3479"
+    },
+    {
+      "bookmarkId": "831995_12_2499-2546",
+      "chapterUid": 12,
+      "range": "2499-2546",
+      "markText": "一个单独旅行的人随时都能出发；而如果结伴而行的话就得等同行准备就绪，也许等很长的时间才能动身。",
+      "totalCount": 705,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=12&rangeStart=2499&rangeEnd=2546"
+    },
+    {
+      "bookmarkId": "831995_5_2371-2450",
+      "chapterUid": 5,
+      "range": "2371-2450",
+      "markText": "除了做一台机器之外，他没时间来做别的。他怎能意识到自己的无知呢，而他也正是在无知中成长——尽管他偶尔也会动动脑子，但是最后也不得不放弃，老老实实地做一个白痴。",
+      "totalCount": 700,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=2371&rangeEnd=2450"
+    },
+    {
+      "bookmarkId": "831995_5_7347-7419",
+      "chapterUid": 5,
+      "range": "7347-7419",
+      "markText": "其实大部分的奢侈品和所谓使生活舒适的物质，非但没有必要，而且还会阻碍人类进步。就于奢侈与舒适来说，智慧的人的生活实际上过得比穷人更加简单和朴素。",
+      "totalCount": 624,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=7347&rangeEnd=7419"
+    },
+    {
+      "bookmarkId": "831995_5_9241-9287",
+      "chapterUid": 5,
+      "range": "9241-9287",
+      "markText": "说真的，对于日出我虽然没有助之一臂之力，但不要怀疑，日出之时有人在场就是一件非常重要的事了。",
+      "totalCount": 610,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=9241&rangeEnd=9287"
+    }
+  ],
+  "readProgress": {
+    "chapterUid": 5,
+    "chapterOffset": 381,
+    "progress": 25,
+    "updateTime": 1778719223,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}

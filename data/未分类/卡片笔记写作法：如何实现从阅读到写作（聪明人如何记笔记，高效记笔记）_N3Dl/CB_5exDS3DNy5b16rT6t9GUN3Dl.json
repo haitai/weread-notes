@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "bookId": "CB_5exDS3DNy5b16rT6t9GUN3Dl",
+    "title": "卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）",
+    "author": "申克·阿伦斯",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_9dABQeBQK8Cr6k16ke6EX8Sa_parsecover",
+    "intro": "",
+    "category": "",
+    "publisher": "人民邮电出版社",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl",
+    "lastSync": "2026-05-19T03:18:18Z",
+    "readingProgress": "52%",
+    "readingTime": "0分钟",
+    "finishedDate": "",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "bookmarkCount": 0
+  },
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "title": "扉页",
+      "level": 1,
+      "wordCount": 175,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=1"
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "title": "版权信息",
+      "level": 1,
+      "wordCount": 752,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=2"
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "title": "目录",
+      "level": 1,
+      "wordCount": 266,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=3"
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "title": "中文版序",
+      "level": 1,
+      "wordCount": 1013,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=4"
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "title": "推荐序一 像卢曼一样写卡片",
+      "level": 1,
+      "wordCount": 3282,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=5"
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "title": "推荐序二 外脑思考，突破思维局限的写作法",
+      "level": 1,
+      "wordCount": 1105,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=6"
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "title": "推荐序三 用卡片笔记积累你的知识复利",
+      "level": 1,
+      "wordCount": 866,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=7"
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "title": "译者序",
+      "level": 1,
+      "wordCount": 3213,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=8"
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "title": "导论",
+      "level": 1,
+      "wordCount": 2942,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=9"
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "title": "第一章 绪论",
+      "level": 1,
+      "wordCount": 10269,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "关于写作，你需要知道的",
+          "anchor": "sigil_toc_id_28",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=10"
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "title": "关于写作，你需要做的",
+      "level": 2,
+      "wordCount": 4643,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=11"
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "title": "关于写作，你需要具备的能力",
+      "level": 2,
+      "wordCount": 2336,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=12"
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "title": "关于写作，你需要注意的几个问题",
+      "level": 2,
+      "wordCount": 1253,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=13"
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "title": "第二章 有效写作的四个基本原则",
+      "level": 1,
+      "wordCount": 2075,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "写作是唯一重要的事情",
+          "anchor": "sigil_toc_id_33",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=14"
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "title": "简洁是最重要的",
+      "level": 2,
+      "wordCount": 5381,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=15"
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "title": "没有人完全从零开始写作",
+      "level": 2,
+      "wordCount": 2802,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=16"
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "title": "让工作推动你前进",
+      "level": 2,
+      "wordCount": 3397,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=17"
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "title": "第三章 成功写作的六个步骤",
+      "level": 1,
+      "wordCount": 10594,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [
+        {
+          "title": "明确区分独立而又相关联的任务",
+          "anchor": "sigil_toc_id_38",
+          "level": 2
+        }
+      ],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=18"
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "title": "阅读和理解",
+      "level": 2,
+      "wordCount": 10835,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=19"
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "title": "记卡片盒笔记",
+      "level": 2,
+      "wordCount": 10900,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=20"
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "title": "发展想法",
+      "level": 2,
+      "wordCount": 16222,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=21"
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "title": "分享你的洞见",
+      "level": 2,
+      "wordCount": 8291,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=22"
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "title": "养成习惯",
+      "level": 2,
+      "wordCount": 3136,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=23"
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "title": "后记",
+      "level": 1,
+      "wordCount": 1537,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=24"
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "title": "参考文献",
+      "level": 1,
+      "wordCount": 21182,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=25"
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "title": "卡片笔记写作法实践",
+      "level": 1,
+      "wordCount": 4103,
+      "price": 0,
+      "paid": 0,
+      "isMPChapter": 0,
+      "anchors": [],
+      "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl&chapterUid=26"
+    }
+  ],
+  "content": [
+    {
+      "chapterUid": 3,
+      "chapterTitle": "目录",
+      "items": [
+        {
+          "type": "review",
+          "reviewId": "341822379_7UUWUv8uW",
+          "range": "5146-5168",
+          "chapterName": "",
+          "content": "是吧？",
+          "abstract": "“不写，就无法思考。”（卢曼1992,53）",
+          "star": -1,
+          "createTime": 1728825941,
+          "createTimeFormatted": "2024-10-13 21:25:41",
+          "isFinish": false,
+          "chapterUid": 3
+        }
+      ]
+    }
+  ],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 13,
+    "chapterOffset": 597,
+    "progress": 52,
+    "updateTime": 1734510603,
+    "recordReadingTime": 0,
+    "finishTime": ""
+  }
+}
