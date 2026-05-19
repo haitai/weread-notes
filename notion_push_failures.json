@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-05-19T19:00:50Z",
+    "book_id": "935536",
+    "title": "百年孤独",
+    "operation": "push_single_book",
+    "error": {
+      "type": "NotionAPIError",
+      "message": "Notion API POST /databases/362e809a4d8b80f89245e3582fded80a/query 失败 | status=401 | body={\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"d8d74351-23d9-467f-a340-39df86b8c42a\"}",
+      "status_code": 401,
+      "response_body": "{\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"d8d74351-23d9-467f-a340-39df86b8c42a\"}"
+    }
+  },
+  {
+    "timestamp": "2026-05-19T19:00:51Z",
+    "book_id": "853116",
+    "title": "杀死一只知更鸟（同名电影原著）",
+    "operation": "push_single_book",
+    "error": {
+      "type": "NotionAPIError",
+      "message": "Notion API POST /databases/362e809a4d8b80f89245e3582fded80a/query 失败 | status=401 | body={\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"3339f6b7-04e9-47ce-aaf3-2c2ddfda24a1\"}",
+      "status_code": 401,
+      "response_body": "{\"object\":\"error\",\"status\":401,\"code\":\"unauthorized\",\"message\":\"API token is invalid.\",\"request_id\":\"3339f6b7-04e9-47ce-aaf3-2c2ddfda24a1\"}"
+    }
+  }
+]

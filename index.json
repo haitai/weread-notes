@@ -1,5 +1,5 @@
 {
-  "lastGlobalSync": "2026-05-18T04:51:40Z",
+  "lastGlobalSync": "2026-05-19T19:00:51Z",
   "books": {
     "812443": {
       "title": "白鹿原",
@@ -24,12 +24,22 @@
     "853116": {
       "title": "杀死一只知更鸟（同名电影原著）",
       "category": "精品小说",
-      "path": "/home/runner/work/weread-notes/weread-notes/data/精品小说/杀死一只知更鸟（同名电影原著）_3116/853116.json",
+      "path": "精品小说/杀死一只知更鸟（同名电影原著）_3116/853116.json",
       "sort": 1779075081,
-      "noteCount": 2,
+      "noteCount": 1,
       "reviewCount": 0,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-18T04:51:40Z"
+      "lastSync": "2026-05-19T19:00:51Z"
+    },
+    "935536": {
+      "title": "百年孤独",
+      "category": "文学",
+      "path": "文学/百年孤独_5536/935536.json",
+      "sort": 1779085750,
+      "noteCount": 1,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T19:00:50Z"
     }
   }
 }
