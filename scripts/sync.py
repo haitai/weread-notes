@@ -1,14 +1,16 @@
 """主同步脚本 — 微信读书笔记同步至 GitHub 仓库
 
 支持模式：
-  full         首次全量同步
-  incremental  日常增量同步（默认）
+  full         首次全量同步（仅含笔记的书籍）
+  incremental  日常增量同步（默认，仅含笔记的书籍）
   full-compare 全量比对（兜底）
+  shelf        书架全量同步（所有书籍，含无笔记的）
   rebuild      手动重建目录结构
 
 用法：
   python scripts/sync.py --mode full
   python scripts/sync.py --mode incremental
+  python scripts/sync.py --mode shelf
   python scripts/sync.py --mode full --resume
   python scripts/sync.py --mode rebuild
 """
@@ -19,12 +21,15 @@ import logging
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
+
+import requests
 
 # 将 scripts 目录加入 Python 路径
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from api import WeReadClient, UpgradeRequiredError
-from config import load_env, load_config, get_data_dir, get_index_path
+from config import load_env, load_config, get_data_dir, get_index_path, get_covers_dir, PROJECT_ROOT
 from utils import (
     atomic_write_json,
     atomic_write_text,
@@ -484,6 +489,14 @@ def sync_full(client: WeReadClient, resume: bool = False, force: bool = True):
         try:
             book_data = fetch_book_data(client, book_id)
             json_path = save_book_data(book_data, title, category)
+            book_dir = json_path.parent
+
+            # 下载封面到书籍目录
+            cover_url = book_data["meta"].get("cover", "")
+            local_cover = download_cover(cover_url, book_id, book_dir)
+            if local_cover:
+                book_data["meta"]["coverDownloaded"] = True
+                book_data["meta"]["localCover"] = str(local_cover.relative_to(PROJECT_ROOT))
 
             # 推送 Notion（直接覆盖）
             if notion_client and json_path:
@@ -580,17 +593,25 @@ def sync_incremental(client: WeReadClient):
 
             # 2. 写入 JSON（原子写入）
             json_path = save_book_data(book_data, title, category)
+            book_dir = json_path.parent
 
-            # 3. 渲染 Markdown（save_book_data 内部已调用）
+            # 3. 下载封面到书籍目录
+            cover_url = book_data["meta"].get("cover", "")
+            local_cover = download_cover(cover_url, book_id, book_dir)
+            if local_cover:
+                book_data["meta"]["coverDownloaded"] = True
+                book_data["meta"]["localCover"] = str(local_cover.relative_to(PROJECT_ROOT))
 
-            # 4. 推送 Notion（直接覆盖）
+            # 4. 渲染 Markdown（save_book_data 内部已调用）
+
+            # 5. 推送 Notion（直接覆盖）
             if notion_client and json_path:
                 if push_single_book(notion_client, book_data, json_path):
                     notion_ok += 1
                 else:
                     notion_fail += 1
 
-            # 5. 更新 index.json（使用相对路径，避免不同环境路径不一致）
+            # 6. 更新 index.json（使用相对路径，避免不同环境路径不一致）
             now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             book_dir_rel = Path(extract_category(category)) / get_folder_name(title, book_id)
             index["books"][book_id] = {
@@ -736,11 +757,268 @@ def rebuild_markdown():
     logger.info("重建完成: 共 %d 个文件", count)
 
 
+def download_cover(cover_url: str, book_id: str, book_dir=None) -> Path | None:
+    """下载书籍封面到本地 covers/ 目录
+
+    Args:
+        cover_url: 封面图片 URL
+        book_id: 书籍 ID
+
+    Returns:
+        本地封面文件路径，失败返回 None
+    """
+    if not cover_url or not cover_url.startswith("http"):
+        return None
+
+    # 从 URL 推断文件扩展名
+    parsed = urlparse(cover_url)
+    path = parsed.path.lower()
+    if path.endswith(".png"):
+        ext = ".png"
+    elif path.endswith(".webp"):
+        ext = ".webp"
+    elif path.endswith(".gif"):
+        ext = ".gif"
+    else:
+        ext = ".jpg"
+
+    if book_dir:
+        book_dir.mkdir(parents=True, exist_ok=True)
+        cover_path = book_dir / f"{book_id}_cover{ext}"
+    else:
+        covers_dir = get_covers_dir()
+        covers_dir.mkdir(parents=True, exist_ok=True)
+        cover_path = covers_dir / f"{book_id}{ext}"
+
+    # 如果文件已存在且大小 > 0，跳过下载
+    if cover_path.exists() and cover_path.stat().st_size > 0:
+        logger.debug("封面已存在，跳过: %s", cover_path.name)
+        return cover_path
+
+    try:
+        resp = requests.get(
+            cover_url, timeout=30,
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        resp.raise_for_status()
+        with open(cover_path, "wb") as f:
+            f.write(resp.content)
+        logger.info("封面已下载: %s (%d bytes)", cover_path.name, len(resp.content))
+        return cover_path
+    except Exception as e:
+        logger.warning("下载封面失败 [%s]: %s", book_id, e)
+        return None
+
+
+def build_shelf_book_data(shelf_book: dict, book_info: dict | None, progress: dict | None, book_dir=None) -> dict:
+    """从书架数据构建书籍 JSON 数据（适用于无笔记的书籍）
+
+    Args:
+        shelf_book: /shelf/sync 返回的书架条目
+        book_info: /book/info 返回的详细数据（可能为 None）
+        progress: /book/getprogress 返回的进度数据（可能为 None）
+
+    Returns:
+        完整的书籍 JSON 数据
+    """
+    book_id = shelf_book.get("bookId", "")
+    now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    # 优先使用 book_info，fallback 到 shelf_book
+    info = book_info or {}
+    title = info.get("title", "") or shelf_book.get("title", "")
+    author = info.get("author", "") or shelf_book.get("author", "")
+    cover = info.get("cover", "") or shelf_book.get("cover", "")
+    category = info.get("category", "") or shelf_book.get("category", "")
+
+    # 进度
+    progress_val = (progress or {}).get("progress", 0)
+    reading_progress = f"{progress_val}%"
+    record_reading_time = (progress or {}).get("recordReadingTime", 0)
+    reading_time = seconds_to_reading_time(record_reading_time)
+    finish_time = (progress or {}).get("finishTime", "")
+    finished_date = ""
+    if finish_time:
+        try:
+            if isinstance(finish_time, (int, float)):
+                finished_date = timestamp_to_str(int(finish_time), "%Y-%m-%d")
+            else:
+                finished_date = str(finish_time)[:10]
+        except Exception:
+            finished_date = str(finish_time)[:10] if finish_time else ""
+
+    # 封面状态
+    cover_downloaded = False
+    local_cover = download_cover(cover, book_id, book_dir)
+    if local_cover:
+        cover_downloaded = True
+
+    book_data = {
+        "meta": {
+            "bookId": book_id,
+            "title": title,
+            "author": author,
+            "translator": info.get("translator", ""),
+            "cover": cover,
+            "coverDownloaded": cover_downloaded,
+            "localCover": local_cover.name if local_cover else "",
+            "intro": info.get("intro", ""),
+            "category": category,
+            "publisher": info.get("publisher", ""),
+            "publishTime": info.get("publishTime", ""),
+            "isbn": info.get("isbn", ""),
+            "wordCount": info.get("wordCount", 0),
+            "newRating": info.get("newRating", 0),
+            "newRatingCount": info.get("newRatingCount", 0),
+            "newRatingDetail": info.get("newRatingDetail", {}),
+            "appLink": f"weread://reading?bId={book_id}",
+            "lastSync": now_utc,
+            "readingProgress": reading_progress,
+            "readingTime": reading_time,
+            "finishedDate": finished_date,
+            "noteCount": 0,
+            "reviewCount": 0,
+            "bookmarkCount": 0,
+        },
+        "chapters": [],
+        "content": [],
+        "bookReviews": [],
+        "hotBookmarks": [],
+        "readProgress": {
+            "chapterUid": (progress or {}).get("chapterUid", 0),
+            "chapterOffset": (progress or {}).get("chapterOffset", 0),
+            "progress": progress_val,
+            "updateTime": (progress or {}).get("updateTime", ""),
+            "recordReadingTime": record_reading_time,
+            "finishTime": finish_time,
+        },
+    }
+    return book_data
+
+
+def sync_shelf(client: WeReadClient):
+    """书架全量同步 — 同步书架上所有书籍（含无笔记的）
+
+    1. 获取 /shelf/sync 所有书籍
+    2. 对每本书获取 /book/info 和 /book/getprogress
+    3. 如果有笔记（在 /user/notebooks 中），获取完整笔记数据
+    4. 下载封面到本地书籍目录
+    5. 保存 JSON + Markdown
+    6. 推送 Notion
+    """
+    logger.info("开始书架同步...")
+    index = load_index()
+
+    # 获取书架所有书籍
+    shelf_books = client.get_shelf()
+    logger.info("书架共 %d 本书", len(shelf_books))
+
+    # 获取有笔记的书籍 ID 集合
+    notebooks = client.get_all_notebooks()
+    notebook_ids = {nb.get("bookId") for nb in notebooks}
+    logger.info("其中有笔记的 %d 本", len(notebook_ids))
+
+    # 初始化 Notion 客户端
+    from notion_push import push_single_book, _get_notion_client
+    try:
+        notion_client = _get_notion_client()
+        logger.info("Notion 客户端已初始化")
+    except Exception as e:
+        logger.warning("Notion 初始化失败，将跳过 Notion 推送: %s", e)
+        notion_client = None
+
+    synced = 0
+    failed = 0
+    skipped = 0
+    notion_ok = 0
+    notion_fail = 0
+
+    for idx, sb in enumerate(shelf_books):
+        book_id = sb.get("bookId", "")
+        title = sb.get("title", f"未知_{book_id}")
+        category = sb.get("category", "")
+
+        logger.info("[%d/%d] 处理: %s (%s)", idx + 1, len(shelf_books), title, book_id)
+
+        try:
+            # 先计算书籍目录
+            cat = extract_category(category) or "未分类"
+            book_title = title
+            book_dir = get_data_dir() / cat / get_folder_name(book_title, book_id)
+
+            if book_id in notebook_ids:
+                # 有笔记：使用完整的 fetch_book_data
+                book_data = fetch_book_data(client, book_id)
+                # 下载封面到书籍目录
+                cover_url = book_data["meta"].get("cover", "")
+                local_cover = download_cover(cover_url, book_id, book_dir)
+            else:
+                # 无笔记：获取基本信息
+                try:
+                    info_resp = client.get_book_info(book_id)
+                    book_info = info_resp.get("book", info_resp)
+                except Exception:
+                    book_info = None
+
+                try:
+                    progress_resp = client.get_book_progress(book_id)
+                    progress = progress_resp.get("book", {})
+                except Exception:
+                    progress = None
+
+                book_data = build_shelf_book_data(sb, book_info, progress, book_dir)
+                # 下载封面
+                cover_url = book_data["meta"].get("cover", "")
+                local_cover = download_cover(cover_url, book_id, book_dir)
+
+            # 更新封面信息（使用相对路径）
+            if local_cover:
+                book_data["meta"]["coverDownloaded"] = True
+                book_data["meta"]["localCover"] = str(local_cover.relative_to(PROJECT_ROOT))
+
+            # 保存 JSON + Markdown
+            json_path = save_book_data(book_data, book_title, cat)
+
+            # 推送 Notion
+            if notion_client and json_path:
+                if push_single_book(notion_client, book_data, json_path):
+                    notion_ok += 1
+                else:
+                    notion_fail += 1
+
+            # 更新索引
+            now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            book_dir_rel = Path(cat) / get_folder_name(book_title, book_id)
+            index["books"][book_id] = {
+                "title": book_title,
+                "category": cat,
+                "path": str(book_dir_rel / f"{book_id}.json"),
+                "sort": sb.get("readUpdateTime", 0),
+                "noteCount": book_data["meta"].get("noteCount", 0),
+                "reviewCount": book_data["meta"].get("reviewCount", 0),
+                "bookmarkCount": book_data["meta"].get("bookmarkCount", 0),
+                "lastSync": now_utc,
+            }
+            index["lastGlobalSync"] = now_utc
+            save_index(index)
+
+            synced += 1
+
+        except Exception as e:
+            failed += 1
+            logger.error("书架同步失败: %s (%s) - %s", title, book_id, e)
+            continue
+
+    logger.info(
+        "书架同步完成: 成功 %d, 失败 %d | Notion: 成功 %d, 失败 %d",
+        synced, failed, notion_ok, notion_fail,
+    )
+
 def main():
     parser = argparse.ArgumentParser(description="微信读书笔记同步工具")
     parser.add_argument(
         "--mode",
-        choices=["full", "incremental", "full-compare", "rebuild"],
+        choices=["full", "incremental", "full-compare", "shelf", "rebuild"],
         default="incremental",
         help="同步模式 (默认: incremental)",
     )
@@ -748,6 +1026,17 @@ def main():
         "--resume",
         action="store_true",
         help="断点续传（仅 full 模式有效）",
+    )
+    parser.add_argument(
+        "--sync-notion",
+        action="store_true",
+        default=True,
+        help="是否同步到 Notion（默认开启）",
+    )
+    parser.add_argument(
+        "--no-notion",
+        action="store_true",
+        help="跳过 Notion 推送",
     )
     args = parser.parse_args()
 
@@ -766,7 +1055,9 @@ def main():
         sys.exit(1)
 
     try:
-        if args.mode == "full":
+        if args.mode == "shelf":
+            sync_shelf(client)
+        elif args.mode == "full":
             sync_full(client, resume=args.resume)
         elif args.mode == "incremental":
             sync_incremental(client)

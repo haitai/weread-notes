@@ -51,6 +51,7 @@ jobs:
         WEREAD_API_KEY: ${{ secrets.WEREAD_API_KEY }}
         NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
         NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
       run: |
         echo "Starting incremental sync..."
         python scripts/sync.py --mode incremental

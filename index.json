@@ -1,5 +1,5 @@
 {
-  "lastGlobalSync": "2026-05-19T03:19:29Z",
+  "lastGlobalSync": "2026-05-19T10:23:23Z",
   "books": {
     "812443": {
       "title": "白鹿原",
@@ -34,12 +34,12 @@
     "3300184004": {
       "title": "水浒传（金圣叹点评经典版）",
       "category": "文学",
-      "path": "文学/水浒传（金圣叹点评经典版）_4004/3300184004.json",
-      "sort": 1769500945,
+      "path": "文学\\水浒传（金圣叹点评经典版）_4004\\3300184004.json",
+      "sort": 1770824884,
       "noteCount": 0,
       "reviewCount": 1,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-19T03:17:59Z"
+      "lastSync": "2026-05-19T09:18:51Z"
     },
     "3300045992": {
       "title": "文白对照全译资治通鉴（套装共7册）",
@@ -64,22 +64,22 @@
     "CB_5exDS3DNy5b16rT6t9GUN3Dl": {
       "title": "卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）",
       "category": "未分类",
-      "path": "未分类/卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）_N3Dl/CB_5exDS3DNy5b16rT6t9GUN3Dl.json",
-      "sort": 1728825941,
+      "path": "未分类\\卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）_N3Dl\\CB_5exDS3DNy5b16rT6t9GUN3Dl.json",
+      "sort": 1734510603,
       "noteCount": 0,
       "reviewCount": 1,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-19T03:18:26Z"
+      "lastSync": "2026-05-19T09:27:20Z"
     },
     "CB_9Oo60E61xBFf6r96p0BTf0Ed": {
       "title": "千脑智能",
       "category": "未分类",
-      "path": "未分类/千脑智能_f0Ed/CB_9Oo60E61xBFf6r96p0BTf0Ed.json",
-      "sort": 1727576298,
+      "path": "未分类\\千脑智能_f0Ed\\CB_9Oo60E61xBFf6r96p0BTf0Ed.json",
+      "sort": 1729743957,
       "noteCount": 14,
-      "reviewCount": 33,
+      "reviewCount": 20,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-19T03:19:23Z"
+      "lastSync": "2026-05-19T09:22:38Z"
     },
     "831995": {
       "title": "瓦尔登湖：世界上最修心的地方",
@@ -90,6 +90,1206 @@
       "reviewCount": 0,
       "bookmarkCount": 0,
       "lastSync": "2026-05-19T03:19:29Z"
+    },
+    "849878": {
+      "title": "冰与火之歌（全五卷｜美剧《权力的游戏》原著）",
+      "category": "精品小说",
+      "path": "精品小说\\冰与火之歌（全五卷｜美剧《权力的游戏》原著）_9878\\849878.json",
+      "sort": 1775701383,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:21:18Z"
+    },
+    "821606": {
+      "title": "清明上河图密码（全6册 | 张颂文、白百何主演同名电视剧原著）",
+      "category": "精品小说",
+      "path": "精品小说\\清明上河图密码（全6册  张颂文、白百何主演同名电视剧原著）_1606\\821606.json",
+      "sort": 1775700319,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:21:23Z"
+    },
+    "44143066": {
+      "title": "法医秦明烧脑大合集（套装15册）",
+      "category": "精品小说",
+      "path": "精品小说\\法医秦明烧脑大合集（套装15册）_3066\\44143066.json",
+      "sort": 1775700782,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:21:29Z"
+    },
+    "30472761": {
+      "title": "通鉴纪事本末（注译本·全42卷）（全本全注全译）",
+      "category": "历史",
+      "path": "历史\\通鉴纪事本末（注译本·全42卷）（全本全注全译）_2761\\30472761.json",
+      "sort": 1775273325,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:21:43Z"
+    },
+    "35138879": {
+      "title": "命运的囚徒：“金匕首奖”之心理悬疑小说集（共4册）",
+      "category": "精品小说",
+      "path": "精品小说\\命运的囚徒：“金匕首奖”之心理悬疑小说集（共4册）_8879\\35138879.json",
+      "sort": 1767969754,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:21:49Z"
+    },
+    "3300158189": {
+      "title": "史记（张大可全本全注全译版）",
+      "category": "历史",
+      "path": "历史\\史记（张大可全本全注全译版）_8189\\3300158189.json",
+      "sort": 1772758864,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:21:57Z"
+    },
+    "26318970": {
+      "title": "追忆似水年华（全集）",
+      "category": "精品小说",
+      "path": "精品小说\\追忆似水年华（全集）_8970\\26318970.json",
+      "sort": 1778120253,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:22:03Z"
+    },
+    "41545555": {
+      "title": "江户川乱步推理小说集（共六册）",
+      "category": "精品小说",
+      "path": "精品小说\\江户川乱步推理小说集（共六册）_5555\\41545555.json",
+      "sort": 1775273271,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:22:10Z"
+    },
+    "26631437": {
+      "title": "资治通鉴·横排版（胡三省注）294卷全",
+      "category": "历史",
+      "path": "历史\\资治通鉴·横排版（胡三省注）294卷全_1437\\26631437.json",
+      "sort": 1770862310,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:22:20Z"
+    },
+    "24924979": {
+      "title": "雷蒙德·钱德勒典藏版全集（共十册）",
+      "category": "精品小说",
+      "path": "精品小说\\雷蒙德·钱德勒典藏版全集（共十册）_4979\\24924979.json",
+      "sort": 1772527101,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:22:26Z"
+    },
+    "CB_GnvFs7FrJAil6SV6QG": {
+      "title": "经典密室杀人推理小说合集（不可能实现的杀人手法，只有“密室”永远不会令人厌倦，《唐探3》都在致敬的经典推理，囊括全球顶级密室推理小说，全11册）",
+      "category": "未分类",
+      "path": "未分类\\经典密室杀人推理小说合集（不可能实现的杀人手法，只有“密室”永远不会令人厌倦，《唐探3》都在致敬的经典推理，囊括全球顶级密室推理小说，全11册）_V6QG\\CB_GnvFs7FrJAil6SV6QG.json",
+      "sort": 1725348185,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:22:34Z"
+    },
+    "24136431": {
+      "title": "周作人经典作品合集（全集）",
+      "category": "文学",
+      "path": "文学\\周作人经典作品合集（全集）_6431\\24136431.json",
+      "sort": 1778720864,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:22:43Z"
+    },
+    "31697557": {
+      "title": "有间文库：三言二拍",
+      "category": "文学",
+      "path": "文学\\有间文库：三言二拍_7557\\31697557.json",
+      "sort": 1771750106,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:22:59Z"
+    },
+    "CB_7F97i37hoFtZ6u96t90ZTAOv": {
+      "title": "迷雾之子珍藏版套装（全三卷）【全文经过重新修订、排版，大幅提升了阅读体验，新时代奇幻小说代表作震撼来袭！】",
+      "category": "未分类",
+      "path": "未分类\\迷雾之子珍藏版套装（全三卷）【全文经过重新修订、排版，大幅提升了阅读体验，新时代奇幻小说代表作震撼来袭！】_TAOv\\CB_7F97i37hoFtZ6u96t90ZTAOv.json",
+      "sort": 1747238913,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:23:06Z"
+    },
+    "834525": {
+      "title": "雪中悍刀行（全20册｜同名电视剧原著）",
+      "category": "精品小说",
+      "path": "精品小说\\雪中悍刀行（全20册｜同名电视剧原著）_4525\\834525.json",
+      "sort": 1768307616,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:23:12Z"
+    },
+    "28276918": {
+      "title": "世界推理名家代表作：高阶必读合集（20全册）",
+      "category": "精品小说",
+      "path": "精品小说\\世界推理名家代表作：高阶必读合集（20全册）_6918\\28276918.json",
+      "sort": 1736932037,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T10:23:23Z"
+    },
+    "35280892": {
+      "title": "罗辑思维（全5册）：认知篇、历史篇、商业篇、人物篇、人文篇",
+      "category": "个人成长",
+      "path": "个人成长\\罗辑思维（全5册）：认知篇、历史篇、商业篇、人物篇、人文篇_0892\\35280892.json",
+      "sort": 1774401783,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:15:29Z"
+    },
+    "859169": {
+      "title": "世纪三部曲（全9册）",
+      "category": "历史",
+      "path": "历史\\世纪三部曲（全9册）_9169\\859169.json",
+      "sort": 1769441705,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:15:35Z"
+    },
+    "3300121110": {
+      "title": "金匕首奖得主史蒂夫·卡瓦纳法庭推理神作（套装3册）",
+      "category": "精品小说",
+      "path": "精品小说\\金匕首奖得主史蒂夫·卡瓦纳法庭推理神作（套装3册）_1110\\3300121110.json",
+      "sort": 1777263040,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:15:43Z"
+    },
+    "3300010434": {
+      "title": "教父三部曲",
+      "category": "文学",
+      "path": "文学\\教父三部曲_0434\\3300010434.json",
+      "sort": 1771807749,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:15:55Z"
+    },
+    "855370": {
+      "title": "卡夫卡全集",
+      "category": "文学",
+      "path": "文学\\卡夫卡全集_5370\\855370.json",
+      "sort": 1769824804,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:00Z"
+    },
+    "812778": {
+      "title": "金庸作品集（全集共36册）",
+      "category": "精品小说",
+      "path": "精品小说\\金庸作品集（全集共36册）_2778\\812778.json",
+      "sort": 1739372083,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:07Z"
+    },
+    "34631923": {
+      "title": "堂吉诃德（全集）（人文社外国文学名著经典·网格本）",
+      "category": "文学",
+      "path": "文学\\堂吉诃德（全集）（人文社外国文学名著经典·网格本）_1923\\34631923.json",
+      "sort": 1778946134,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:14Z"
+    },
+    "31283837": {
+      "title": "莎士比亚全集：纪念版（全11册）",
+      "category": "文学",
+      "path": "文学\\莎士比亚全集：纪念版（全11册）_3837\\31283837.json",
+      "sort": 1769791004,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:19Z"
+    },
+    "3300082455": {
+      "title": "莫言长篇代表作（全7册）【中国诺奖得主代表作】",
+      "category": "精品小说",
+      "path": "精品小说\\莫言长篇代表作（全7册）【中国诺奖得主代表作】_2455\\3300082455.json",
+      "sort": 1773555304,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:30Z"
+    },
+    "41497413": {
+      "title": "阿西莫夫：机器人短篇全集",
+      "category": "精品小说",
+      "path": "精品小说\\阿西莫夫：机器人短篇全集_7413\\41497413.json",
+      "sort": 1725688522,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:37Z"
+    },
+    "3300185483": {
+      "title": "蜀山剑侠传（大全集）",
+      "category": "精品小说",
+      "path": "精品小说\\蜀山剑侠传（大全集）_5483\\3300185483.json",
+      "sort": 1774797528,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:42Z"
+    },
+    "25890841": {
+      "title": "毛姆人生三部曲（套装共3册）",
+      "category": "文学",
+      "path": "文学\\毛姆人生三部曲（套装共3册）_0841\\25890841.json",
+      "sort": 1769097569,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:49Z"
+    },
+    "29963761": {
+      "title": "厚黑学全集（足本典藏版）",
+      "category": "历史",
+      "path": "历史\\厚黑学全集（足本典藏版）_3761\\29963761.json",
+      "sort": 1772123867,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:16:57Z"
+    },
+    "926346": {
+      "title": "海伯利安四部曲",
+      "category": "精品小说",
+      "path": "精品小说\\海伯利安四部曲_6346\\926346.json",
+      "sort": 1724891459,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:07Z"
+    },
+    "CB_A0LAjlAkU4Dg6gS6giBo31pR": {
+      "title": "羊毛战记三部曲",
+      "category": "未分类",
+      "path": "未分类\\羊毛战记三部曲_31pR\\CB_A0LAjlAkU4Dg6gS6giBo31pR.json",
+      "sort": 1687443107,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:11Z"
+    },
+    "31131759": {
+      "title": "剑来（1-54 完结精校版）",
+      "category": "精品小说",
+      "path": "精品小说\\剑来（1-54 完结精校版）_1759\\31131759.json",
+      "sort": 1775092763,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:19Z"
+    },
+    "26859515": {
+      "title": "沙丘六部曲（电影《沙丘2》原著小说）",
+      "category": "精品小说",
+      "path": "精品小说\\沙丘六部曲（电影《沙丘2》原著小说）_9515\\26859515.json",
+      "sort": 1724891477,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:34Z"
+    },
+    "44487437": {
+      "title": "二十六史：完本精校大全集",
+      "category": "历史",
+      "path": "历史\\二十六史：完本精校大全集_7437\\44487437.json",
+      "sort": 1775273608,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:41Z"
+    },
+    "35564889": {
+      "title": "当代心理惊悚大师杰夫里·迪弗侦探小说精选集（全11册）",
+      "category": "精品小说",
+      "path": "精品小说\\当代心理惊悚大师杰夫里·迪弗侦探小说精选集（全11册）_4889\\35564889.json",
+      "sort": 1690954692,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:47Z"
+    },
+    "31532653": {
+      "title": "地球编年史（套装全七册）",
+      "category": "社会文化",
+      "path": "社会文化\\地球编年史（套装全七册）_2653\\31532653.json",
+      "sort": 1724894077,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:52Z"
+    },
+    "23187021": {
+      "title": "鲁迅文学全集（共7册）",
+      "category": "文学",
+      "path": "文学\\鲁迅文学全集（共7册）_7021\\23187021.json",
+      "sort": 1775144985,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:17:57Z"
+    },
+    "3300053602": {
+      "title": "约瑟芬·铁伊推理全集",
+      "category": "精品小说",
+      "path": "精品小说\\约瑟芬·铁伊推理全集_3602\\3300053602.json",
+      "sort": 1775232969,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:18:05Z"
+    },
+    "24952969": {
+      "title": "鲁迅全集（全十八卷）",
+      "category": "文学",
+      "path": "文学\\鲁迅全集（全十八卷）_2969\\24952969.json",
+      "sort": 1778948056,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:18:11Z"
+    },
+    "695233": {
+      "title": "三体全集（全三册）",
+      "category": "精品小说",
+      "path": "精品小说\\三体全集（全三册）_5233\\695233.json",
+      "sort": 1773411183,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:18:23Z"
+    },
+    "CB_3R25hQ5hWFd772T71Z8cI08P": {
+      "title": "阿加莎·克里斯蒂侦探小说大全集（全85册）",
+      "category": "未分类",
+      "path": "未分类\\阿加莎·克里斯蒂侦探小说大全集（全85册）_I08P\\CB_3R25hQ5hWFd772T71Z8cI08P.json",
+      "sort": 1773491905,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:18:29Z"
+    },
+    "372967": {
+      "title": "封神演义",
+      "category": "文学",
+      "path": "文学\\封神演义_2967\\372967.json",
+      "sort": 1777359027,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:18:34Z"
+    },
+    "CB_Gnv6cB6dUEgV71f71ZGJVDRV": {
+      "title": "19年间谋杀小叙",
+      "category": "未分类",
+      "path": "未分类\\19年间谋杀小叙_VDRV\\CB_Gnv6cB6dUEgV71f71ZGJVDRV.json",
+      "sort": 1770293827,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:18:56Z"
+    },
+    "CB_EXx4cj4dC7P670K71ZGeT6E1": {
+      "title": "七侠五义",
+      "category": "未分类",
+      "path": "未分类\\七侠五义_T6E1\\CB_EXx4cj4dC7P670K71ZGeT6E1.json",
+      "sort": 1765608050,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:01Z"
+    },
+    "25615385": {
+      "title": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课",
+      "category": "心理",
+      "path": "心理\\被讨厌的勇气：“自我启发之父”阿德勒的哲学课_5385\\25615385.json",
+      "sort": 1725077916,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:07Z"
+    },
+    "758957": {
+      "title": "这书能让你戒烟",
+      "category": "医学健康",
+      "path": "医学健康\\这书能让你戒烟_8957\\758957.json",
+      "sort": 1775064604,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:13Z"
+    },
+    "533425": {
+      "title": "间谍先生：复仇者",
+      "category": "精品小说",
+      "path": "精品小说\\间谍先生：复仇者_3425\\533425.json",
+      "sort": 1772978836,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:25Z"
+    },
+    "CB_7F91yx1zCD5n72371Z1Fc61n": {
+      "title": "迷枭",
+      "category": "未分类",
+      "path": "未分类\\迷枭_c61n\\CB_7F91yx1zCD5n72371Z1Fc61n.json",
+      "sort": 1771827006,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:32Z"
+    },
+    "3300061674": {
+      "title": "替身",
+      "category": "精品小说",
+      "path": "精品小说\\替身_1674\\3300061674.json",
+      "sort": 1690181423,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:40Z"
+    },
+    "32203548": {
+      "title": "流浪地球",
+      "category": "精品小说",
+      "path": "精品小说\\流浪地球_3548\\32203548.json",
+      "sort": 1674556086,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:44Z"
+    },
+    "33628204": {
+      "title": "认知觉醒：开启自我改变的原动力",
+      "category": "心理",
+      "path": "心理\\认知觉醒：开启自我改变的原动力_8204\\33628204.json",
+      "sort": 1772873560,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:49Z"
+    },
+    "CB_8RhGAfG890t06wk6xQ8lgGB9": {
+      "title": "七根凶简",
+      "category": "未分类",
+      "path": "未分类\\七根凶简_gGB9\\CB_8RhGAfG890t06wk6xQ8lgGB9.json",
+      "sort": 1750409979,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:19:54Z"
+    },
+    "25984691": {
+      "title": "梦幻花（东野圭吾构思十年嫌疑力作）",
+      "category": "精品小说",
+      "path": "精品小说\\梦幻花（东野圭吾构思十年嫌疑力作）_4691\\25984691.json",
+      "sort": 1656923282,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:01Z"
+    },
+    "CB_3EhBMRBLV41L71971Z6QIAVZ": {
+      "title": "破绽＋前传《接头》 (刘天壮) (Z-Library)",
+      "category": "未分类",
+      "path": "未分类\\破绽＋前传《接头》 (刘天壮) (Z-Library)_IAVZ\\CB_3EhBMRBLV41L71971Z6QIAVZ.json",
+      "sort": 1768308247,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:09Z"
+    },
+    "614310": {
+      "title": "奇谭怪事录",
+      "category": "文学",
+      "path": "文学\\奇谭怪事录_4310\\614310.json",
+      "sort": 1766883817,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:14Z"
+    },
+    "3300202444": {
+      "title": "三国演义（毛评本· 无删减版）",
+      "category": "文学",
+      "path": "文学\\三国演义（毛评本· 无删减版）_2444\\3300202444.json",
+      "sort": 1778889482,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:21Z"
+    },
+    "31747526": {
+      "title": "局外人 鼠疫（经典译林）",
+      "category": "文学",
+      "path": "文学\\局外人 鼠疫（经典译林）_7526\\31747526.json",
+      "sort": 1777795831,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:30Z"
+    },
+    "3300181368": {
+      "title": "1984",
+      "category": "文学",
+      "path": "文学\\1984_1368\\3300181368.json",
+      "sort": 1777514881,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:40Z"
+    },
+    "27027534": {
+      "title": "乌合之众",
+      "category": "心理",
+      "path": "心理\\乌合之众_7534\\27027534.json",
+      "sort": 1765258672,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:47Z"
+    },
+    "CB_0uM9Qs9PKD9u72271Z5TIFGr": {
+      "title": "金钱心理学：财富、人性和幸福的永恒真相",
+      "category": "未分类",
+      "path": "未分类\\金钱心理学：财富、人性和幸福的永恒真相_IFGr\\CB_0uM9Qs9PKD9u72271Z5TIFGr.json",
+      "sort": 1778720212,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:20:53Z"
+    },
+    "3300180734": {
+      "title": "长安英雄录之危情九日",
+      "category": "精品小说",
+      "path": "精品小说\\长安英雄录之危情九日_0734\\3300180734.json",
+      "sort": 1778945248,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:21:00Z"
+    },
+    "823535": {
+      "title": "血酬定律：中国历史中的生存游戏",
+      "category": "历史",
+      "path": "历史\\血酬定律：中国历史中的生存游戏_3535\\823535.json",
+      "sort": 1773933237,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:21:07Z"
+    },
+    "3300144884": {
+      "title": "六祖坛经（白话版）",
+      "category": "哲学宗教",
+      "path": "哲学宗教\\六祖坛经（白话版）_4884\\3300144884.json",
+      "sort": 1770200834,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:21:17Z"
+    },
+    "CB_Dbz9cF9c3Ail6zX6xQ6Bs2iB": {
+      "title": "成功，动机与目标",
+      "category": "未分类",
+      "path": "未分类\\成功，动机与目标_s2iB\\CB_Dbz9cF9c3Ail6zX6xQ6Bs2iB.json",
+      "sort": 1761579291,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:21:23Z"
+    },
+    "44183072": {
+      "title": "文化苦旅（2014版）",
+      "category": "文学",
+      "path": "文学\\文化苦旅（2014版）_3072\\44183072.json",
+      "sort": 1768871419,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:21:30Z"
+    },
+    "CB_ELk8gm8fx41L6st6t96X00mI": {
+      "title": "我的人生样样稀松照样赢_呆伯特_的逆袭人生_美_史考特亚当斯著_Z_Library",
+      "category": "未分类",
+      "path": "未分类\\我的人生样样稀松照样赢_呆伯特_的逆袭人生_美_史考特亚当斯著_Z_Library_00mI\\CB_ELk8gm8fx41L6st6t96X00mI.json",
+      "sort": 1736394747,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:22:50Z"
+    },
+    "43993718": {
+      "title": "白色巨塔（日本“国民级小说”，日剧巅峰之作）",
+      "category": "文学",
+      "path": "文学\\白色巨塔（日本“国民级小说”，日剧巅峰之作）_3718\\43993718.json",
+      "sort": 1776994773,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:22:57Z"
+    },
+    "33091531": {
+      "title": "彼得林奇点评版《股票作手回忆录》",
+      "category": "经济理财",
+      "path": "经济理财\\彼得林奇点评版《股票作手回忆录》_1531\\33091531.json",
+      "sort": 1773384540,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:03Z"
+    },
+    "27423331": {
+      "title": "刘慈欣短篇科幻小说合集（28册）",
+      "category": "精品小说",
+      "path": "精品小说\\刘慈欣短篇科幻小说合集（28册）_3331\\27423331.json",
+      "sort": 1724891522,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:08Z"
+    },
+    "34631978": {
+      "title": "红楼梦：纪念版（全4册）",
+      "category": "文学",
+      "path": "文学\\红楼梦：纪念版（全4册）_1978\\34631978.json",
+      "sort": 1777512552,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:16Z"
+    },
+    "CB_8JTDJ9DFsC786qw6p02mzCMU": {
+      "title": "108回吴氏石头记（2020版）简体版宋体(0325)-1",
+      "category": "未分类",
+      "path": "未分类\\108回吴氏石头记（2020版）简体版宋体(0325)-1_zCMU\\CB_8JTDJ9DFsC786qw6p02mzCMU.json",
+      "sort": 1726662840,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:21Z"
+    },
+    "3300188169": {
+      "title": "白羽武侠小说全集（经典版）",
+      "category": "精品小说",
+      "path": "精品小说\\白羽武侠小说全集（经典版）_8169\\3300188169.json",
+      "sort": 1776412940,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:28Z"
+    },
+    "34538505": {
+      "title": "项塔兰（2025版）",
+      "category": "精品小说",
+      "path": "精品小说\\项塔兰（2025版）_8505\\34538505.json",
+      "sort": 1768401909,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:33Z"
+    },
+    "3300060349": {
+      "title": "周四推理俱乐部：活了两次的男人",
+      "category": "精品小说",
+      "path": "精品小说\\周四推理俱乐部：活了两次的男人_0349\\3300060349.json",
+      "sort": 1696754674,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:42Z"
+    },
+    "CB_EkQ7Hy7IkELw71k71Z19w517": {
+      "title": "圣经（中英双语版）",
+      "category": "未分类",
+      "path": "未分类\\圣经（中英双语版）_w517\\CB_EkQ7Hy7IkELw71k71Z19w517.json",
+      "sort": 1770548669,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:49Z"
+    },
+    "3300185112": {
+      "title": "江湖奇侠传（未删节经典版）",
+      "category": "精品小说",
+      "path": "精品小说\\江湖奇侠传（未删节经典版）_5112\\3300185112.json",
+      "sort": 1777535508,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:23:56Z"
+    },
+    "852182": {
+      "title": "查拉图斯特拉如是说",
+      "category": "哲学宗教",
+      "path": "哲学宗教\\查拉图斯特拉如是说_2182\\852182.json",
+      "sort": 1645178737,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:04Z"
+    },
+    "CB_0Zf2uB2vA5476rb6t95RDB0v": {
+      "title": "How to Live",
+      "category": "未分类",
+      "path": "未分类\\How to Live_DB0v\\CB_0Zf2uB2vA5476rb6t95RDB0v.json",
+      "sort": 1770685608,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:20Z"
+    },
+    "CB_D0q2MC2OG20v6wT6xQ5OaCNw": {
+      "title": "金刚经·心经（阅读无障碍本）",
+      "category": "未分类",
+      "path": "未分类\\金刚经·心经（阅读无障碍本）_aCNw\\CB_D0q2MC2OG20v6wT6xQ5OaCNw.json",
+      "sort": 1779030108,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:28Z"
+    },
+    "CB_GPFELFEKCC786qw6p02ZOBGU": {
+      "title": "癸酉本石头记后28回",
+      "category": "未分类",
+      "path": "未分类\\癸酉本石头记后28回_OBGU\\CB_GPFELFEKCC786qw6p02ZOBGU.json",
+      "sort": 1747240093,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:34Z"
+    },
+    "33362462": {
+      "title": "紫与黑：K.J.帕克短篇小说集",
+      "category": "文学",
+      "path": "文学\\紫与黑：K.J.帕克短篇小说集_2462\\33362462.json",
+      "sort": 1776995770,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:40Z"
+    },
+    "CB_908BzwC1HF6D6uL6t9CiPAHK": {
+      "title": "创富",
+      "category": "未分类",
+      "path": "未分类\\创富_PAHK\\CB_908BzwC1HF6D6uL6t9CiPAHK.json",
+      "sort": 1746604846,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:47Z"
+    },
+    "CB_GXL2x12zPBNt6vF6t93sQGzK": {
+      "title": "中年觉醒",
+      "category": "未分类",
+      "path": "未分类\\中年觉醒_QGzK\\CB_GXL2x12zPBNt6vF6t93sQGzK.json",
+      "sort": 1747294916,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:53Z"
+    },
+    "CB_Dbz3t93vN0QD6wr6xQG73F37": {
+      "title": "目的与利润",
+      "category": "未分类",
+      "path": "未分类\\目的与利润_3F37\\CB_Dbz3t93vN0QD6wr6xQG73F37.json",
+      "sort": 1750678234,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:24:58Z"
+    },
+    "38154744": {
+      "title": "凶年（经典美剧《火线》原著）",
+      "category": "精品小说",
+      "path": "精品小说\\凶年（经典美剧《火线》原著）_4744\\38154744.json",
+      "sort": 1777447571,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:05Z"
+    },
+    "3300111091": {
+      "title": "输出力",
+      "category": "个人成长",
+      "path": "个人成长\\输出力_1091\\3300111091.json",
+      "sort": 1778889640,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:16Z"
+    },
+    "CB_8nnBGZBHOCZv6eR6chDhY4Jl": {
+      "title": "喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）",
+      "category": "未分类",
+      "path": "未分类\\喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）_Y4Jl\\CB_8nnBGZBHOCZv6eR6chDhY4Jl.json",
+      "sort": 1689130825,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:23Z"
+    },
+    "3300006690": {
+      "title": "万卷楼国学经典（珍藏版）：庄子",
+      "category": "社会文化",
+      "path": "社会文化\\万卷楼国学经典（珍藏版）：庄子_6690\\3300006690.json",
+      "sort": 1771081174,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:29Z"
+    },
+    "CB_Cer8vd8wX6o570T71ZE0p48q": {
+      "title": "80/20法则",
+      "category": "未分类",
+      "path": "未分类\\8020法则_p48q\\CB_Cer8vd8wX6o570T71ZE0p48q.json",
+      "sort": 1765785780,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:36Z"
+    },
+    "924449": {
+      "title": "蜂麻燕雀",
+      "category": "精品小说",
+      "path": "精品小说\\蜂麻燕雀_4449\\924449.json",
+      "sort": 1704359280,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:43Z"
+    },
+    "811769": {
+      "title": "动物农场",
+      "category": "精品小说",
+      "path": "精品小说\\动物农场_1769\\811769.json",
+      "sort": 1755044398,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:48Z"
+    },
+    "3300138327": {
+      "title": "金瓶梅（张竹坡批评本）",
+      "category": "文学",
+      "path": "文学\\金瓶梅（张竹坡批评本）_8327\\3300138327.json",
+      "sort": 1770949289,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:25:54Z"
+    },
+    "3300089715": {
+      "title": "金刚经",
+      "category": "哲学宗教",
+      "path": "哲学宗教\\金刚经_9715\\3300089715.json",
+      "sort": 1771263220,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:00Z"
+    },
+    "CB_1JQEhMEelBaE6eg6chCqNDnB": {
+      "title": "无限可能：快速唤醒你的学习脑【硅谷钢铁侠马斯克大脑教练作品、高达数亿点击量的快速阅读、学习和记忆方法！实操性强！】",
+      "category": "未分类",
+      "path": "未分类\\无限可能：快速唤醒你的学习脑【硅谷钢铁侠马斯克大脑教练作品、高达数亿点击量的快速阅读、学习和记忆方法！实操性强！】_NDnB\\CB_1JQEhMEelBaE6eg6chCqNDnB.json",
+      "sort": 1724898367,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:07Z"
+    },
+    "24953415": {
+      "title": "树上的男爵",
+      "category": "文学",
+      "path": "文学\\树上的男爵_3415\\24953415.json",
+      "sort": 1724891503,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:15Z"
+    },
+    "859643": {
+      "title": "你不可不知的法律常识",
+      "category": "社会文化",
+      "path": "社会文化\\你不可不知的法律常识_9643\\859643.json",
+      "sort": 1705643031,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:25Z"
+    },
+    "843464": {
+      "title": "刻意练习：如何从新手到大师",
+      "category": "个人成长",
+      "path": "个人成长\\刻意练习：如何从新手到大师_3464\\843464.json",
+      "sort": 1774487596,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:32Z"
+    },
+    "3300015108": {
+      "title": "神嫖",
+      "category": "精品小说",
+      "path": "精品小说\\神嫖_5108\\3300015108.json",
+      "sort": 1769474228,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:39Z"
+    },
+    "3300007946": {
+      "title": "金刚经（国学典藏）",
+      "category": "哲学宗教",
+      "path": "哲学宗教\\金刚经（国学典藏）_7946\\3300007946.json",
+      "sort": 1771263262,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:47Z"
+    },
+    "915639": {
+      "title": "学会学习",
+      "category": "个人成长",
+      "path": "个人成长\\学会学习_5639\\915639.json",
+      "sort": 1725349996,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:54Z"
+    },
+    "CB_CKA28Q2BvF266hy6gi6UMDwy": {
+      "title": "毛批三国演义[彩插典藏版3.05]",
+      "category": "未分类",
+      "path": "未分类\\毛批三国演义[彩插典藏版3.05]_MDwy\\CB_CKA28Q2BvF266hy6gi6UMDwy.json",
+      "sort": 1778889580,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:26:59Z"
+    },
+    "CB_6Vm8mA8k467v6nD6p0Dyr4sL": {
+      "title": "与社会学同游",
+      "category": "未分类",
+      "path": "未分类\\与社会学同游_r4sL\\CB_6Vm8mA8k467v6nD6p0Dyr4sL.json",
+      "sort": 1717743293,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:27:07Z"
+    },
+    "41931048": {
+      "title": "朗达·拜恩：身心灵实修指南系列（全7册）",
+      "category": "个人成长",
+      "path": "个人成长\\朗达·拜恩：身心灵实修指南系列（全7册）_1048\\41931048.json",
+      "sort": 1779177300,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:27:25Z"
+    },
+    "3300037347": {
+      "title": "草坪的复仇",
+      "category": "文学",
+      "path": "文学\\草坪的复仇_7347\\3300037347.json",
+      "sort": 1737809661,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:27:31Z"
+    },
+    "CB_AKm2oC2r3BaE6r46p03sJ2M7": {
+      "title": "打造第二大脑",
+      "category": "未分类",
+      "path": "未分类\\打造第二大脑_J2M7\\CB_AKm2oC2r3BaE6r46p03sJ2M7.json",
+      "sort": 1747239691,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:27:42Z"
+    },
+    "629424": {
+      "title": "思考致富",
+      "category": "经济理财",
+      "path": "经济理财\\思考致富_9424\\629424.json",
+      "sort": 1749733593,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:27:48Z"
+    },
+    "26542108": {
+      "title": "儒林外史（全集）",
+      "category": "文学",
+      "path": "文学\\儒林外史（全集）_2108\\26542108.json",
+      "sort": 1769788490,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:27:53Z"
+    },
+    "36235305": {
+      "title": "红楼梦脂评汇校本（BookDNA典藏书系）",
+      "category": "文学",
+      "path": "文学\\红楼梦脂评汇校本（BookDNA典藏书系）_5305\\36235305.json",
+      "sort": 1773921526,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:27:58Z"
+    },
+    "CB_3IoFI2FGIEoj6pF6p01jjDQL": {
+      "title": "老实人启蒙",
+      "category": "未分类",
+      "path": "未分类\\老实人启蒙_jDQL\\CB_3IoFI2FGIEoj6pF6p01jjDQL.json",
+      "sort": 1724890673,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:28:05Z"
+    },
+    "3300025954": {
+      "title": "一个燃尽自我的病人",
+      "category": "文学",
+      "path": "文学\\一个燃尽自我的病人_5954\\3300025954.json",
+      "sort": 1774515484,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:28:18Z"
+    },
+    "3300164601": {
+      "title": "资治通鉴（张大可全本全注全译版）",
+      "category": "历史",
+      "path": "历史\\资治通鉴（张大可全本全注全译版）_4601\\3300164601.json",
+      "sort": 1778063511,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:28:27Z"
+    },
+    "CB_1VtBMzBLV67v6nD6p05TzAUA": {
+      "title": "暗访十年（全五册）",
+      "category": "未分类",
+      "path": "未分类\\暗访十年（全五册）_zAUA\\CB_1VtBMzBLV67v6nD6p05TzAUA.json",
+      "sort": 1711517142,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:28:31Z"
+    },
+    "CB_1yg5F05ED5GS6vg6xQ31ZE5e": {
+      "title": "新编历史小丛书大套装（60本）",
+      "category": "未分类",
+      "path": "未分类\\新编历史小丛书大套装（60本）_ZE5e\\CB_1yg5F05ED5GS6vg6xQ31ZE5e.json",
+      "sort": 1768023561,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:28:38Z"
+    },
+    "44026191": {
+      "title": "纳瓦尔宝典",
+      "category": "经济理财",
+      "path": "经济理财\\纳瓦尔宝典_6191\\44026191.json",
+      "sort": 1778774233,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:28:44Z"
+    },
+    "3300146674": {
+      "title": "悉达多（知书经典）",
+      "category": "文学",
+      "path": "文学\\悉达多（知书经典）_6674\\3300146674.json",
+      "sort": 1769440147,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:28:52Z"
+    },
+    "CB_1RmBR8BPc7w06w46xQ2Bc98u": {
+      "title": "与神对话",
+      "category": "未分类",
+      "path": "未分类\\与神对话_c98u\\CB_1RmBR8BPc7w06w46xQ2Bc98u.json",
+      "sort": 1747638854,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:29:00Z"
+    },
+    "3300037382": {
+      "title": "暗影",
+      "category": "精品小说",
+      "path": "精品小说\\暗影_7382\\3300037382.json",
+      "sort": 1778315789,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:29:05Z"
+    },
+    "3300043704": {
+      "title": "瓦尔登湖",
+      "category": "文学",
+      "path": "文学\\瓦尔登湖_3704\\3300043704.json",
+      "sort": 1770085520,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:29:13Z"
+    },
+    "3300058808": {
+      "title": "推理群星闪耀时（果麦经典）",
+      "category": "精品小说",
+      "path": "精品小说\\推理群星闪耀时（果麦经典）_8808\\3300058808.json",
+      "sort": 1775273361,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:29:23Z"
+    },
+    "CB_7eDANVALIEHp71l71Z3CFD8X": {
+      "title": "穷查理宝典：查理·芒格智慧箴言录（巴菲特的导师与人生合伙人，当今伟大的投资思想家！巴菲特推崇的10本书之一！）",
+      "category": "未分类",
+      "path": "未分类\\穷查理宝典：查理·芒格智慧箴言录（巴菲特的导师与人生合伙人，当今伟大的投资思想家！巴菲特推崇的10本书之一！）_FD8X\\CB_7eDANVALIEHp71l71Z3CFD8X.json",
+      "sort": 1770627065,
+      "noteCount": 0,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-05-19T09:29:28Z"
     }
   }
 }

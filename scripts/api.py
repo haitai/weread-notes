@@ -160,6 +160,17 @@ class WeReadClient:
 
         return all_books
 
+    # ── 书架 ──────────────────────────────────────────────
+
+    def get_shelf(self) -> list:
+        """获取书架上的所有书籍（含无笔记的书籍）
+
+        Returns:
+            书架书籍列表，每本书含 bookId, title, author, cover, category, finishReading 等字段
+        """
+        data = self._request("/shelf/sync")
+        return data.get("books", [])
+
     # ── 书籍信息 ──────────────────────────────────────────────
 
     def get_book_info(self, book_id: str) -> dict:

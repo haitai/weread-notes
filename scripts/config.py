@@ -50,6 +50,13 @@ def get_data_dir() -> Path:
     return PROJECT_ROOT / data_dir
 
 
+def get_covers_dir() -> Path:
+    """获取封面目录路径"""
+    config = load_config()
+    covers_dir = config.get("output", {}).get("covers_dir", "covers")
+    return PROJECT_ROOT / covers_dir
+
+
 def get_index_path() -> Path:
     """获取全局索引文件路径"""
     config = load_config()

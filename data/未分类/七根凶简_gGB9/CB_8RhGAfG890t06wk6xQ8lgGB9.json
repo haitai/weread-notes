@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "bookId": "CB_8RhGAfG890t06wk6xQ8lgGB9",
+    "title": "七根凶简",
+    "author": "尾鱼",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_DPBEGrEGD6jU6rk6t819S7L7_parsecover",
+    "coverDownloaded": true,
+    "localCover": "CB_8RhGAfG890t06wk6xQ8lgGB9.jpg",
+    "intro": "",
+    "category": "",
+    "publisher": "",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_8RhGAfG890t06wk6xQ8lgGB9",
+    "lastSync": "2026-05-19T09:19:49Z",
+    "readingProgress": "100%",
+    "readingTime": "0分钟",
+    "finishedDate": "2025-06-20",
+    "noteCount": 0,
+    "reviewCount": 0,
+    "bookmarkCount": 0
+  },
+  "chapters": [],
+  "content": [],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 259,
+    "chapterOffset": 378,
+    "progress": 100,
+    "updateTime": 1750409979,
+    "recordReadingTime": 0,
+    "finishTime": 1750409856
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "bookId": "CB_EXx4cj4dC7P670K71ZGeT6E1",
+    "title": "七侠五义",
+    "author": "石玉昆",
+    "translator": "",
+    "cover": "https://res.weread.qq.com/wrepub/CB_B9F5kn5jTAvl6w16ww4ud6GT_parsecover",
+    "coverDownloaded": true,
+    "localCover": "CB_EXx4cj4dC7P670K71ZGeT6E1.jpg",
+    "intro": "",
+    "category": "",
+    "publisher": "岳麓书社",
+    "publishTime": "",
+    "isbn": "",
+    "wordCount": 0,
+    "newRating": 0,
+    "newRatingCount": 0,
+    "newRatingDetail": {
+      "good": 0,
+      "fair": 0,
+      "poor": 0,
+      "recent": 0,
+      "deepV": 0,
+      "myRating": "",
+      "title": "待评分"
+    },
+    "appLink": "weread://reading?bId=CB_EXx4cj4dC7P670K71ZGeT6E1",
+    "lastSync": "2026-05-19T09:18:57Z",
+    "readingProgress": "100%",
+    "readingTime": "0分钟",
+    "finishedDate": "2025-12-13",
+    "noteCount": 0,
+    "reviewCount": 0,
+    "bookmarkCount": 0
+  },
+  "chapters": [],
+  "content": [],
+  "bookReviews": [],
+  "hotBookmarks": [],
+  "readProgress": {
+    "chapterUid": 124,
+    "chapterOffset": 5010,
+    "progress": 100,
+    "updateTime": 1765608050,
+    "recordReadingTime": 0,
+    "finishTime": 1765607462
+  }
+}

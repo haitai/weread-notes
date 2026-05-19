@@ -23,13 +23,15 @@
       "title": "待评分"
     },
     "appLink": "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl",
-    "lastSync": "2026-05-19T03:18:18Z",
+    "lastSync": "2026-05-19T09:27:08Z",
     "readingProgress": "52%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 0,
     "reviewCount": 1,
-    "bookmarkCount": 0
+    "bookmarkCount": 0,
+    "coverDownloaded": true,
+    "localCover": "CB_5exDS3DNy5b16rT6t9GUN3Dl.jpg"
   },
   "chapters": [
     {

@@ -15,6 +15,7 @@
 
 import json
 import logging
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -249,10 +250,24 @@ def build_page_properties(book_data: dict) -> dict:
     # 清理 None 值
     properties = {k: v for k, v in properties.items() if v is not None}
 
-    # 封面（仅在有有效 URL 时添加）
-    if cover and cover.startswith("http"):
+    # 封面（优先使用本地封面文件，通过 raw GitHub URL 引用）
+    local_cover_name = meta.get("localCover", "")
+    cover_url = cover
+    if local_cover_name:
+        repo_url = os.environ.get("GITHUB_REPOSITORY", "")
+        if repo_url:
+            # localCover 现在是相对仓库根目录的路径，如 data/小说/天幕_849878/849878_cover.jpg
+            # 向后兼容：如果不含 /，说明是旧格式（covers/ 目录）
+            if "/" in local_cover_name:
+                cover_url = f"https://raw.githubusercontent.com/{repo_url}/main/{local_cover_name}"
+            else:
+                cover_url = f"https://raw.githubusercontent.com/{repo_url}/main/covers/{local_cover_name}"
+        else:
+            # 本地运行时直接使用 WeRead CDN URL（本地文件无法被 Notion 访问）
+            cover_url = cover
+    if cover_url and cover_url.startswith("http"):
         properties["封面"] = {
-            "files": [{"name": f"{title}_cover", "external": {"url": cover}}]
+            "files": [{"name": f"{book_id}_cover", "external": {"url": cover_url}}]
         }
 
     # App 链接（仅作为属性，不写入页面内容）
