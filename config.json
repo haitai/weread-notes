@@ -15,6 +15,7 @@
   },
   "output": {
     "data_dir": "data",
+    "covers_dir": "covers",
     "index_file": "index.json"
   }
 }

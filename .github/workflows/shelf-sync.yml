@@ -2,8 +2,8 @@ name: Shelf Sync - All Books to Notion
 
 on:
   schedule:
-    # 每周一北京时间 02:00 运行
-    - cron: '0 18 * * 1'
+    # 每天北京时间 01:00 运行（UTC 17:00）
+    - cron: '0 17 * * *'
   workflow_dispatch:
     inputs:
       sync_notion:
