@@ -25,7 +25,7 @@
       "title": ""
     },
     "appLink": "weread://reading?bId=3300043704",
-    "lastSync": "2026-05-19T11:11:20Z",
+    "lastSync": "2026-05-19T19:07:50Z",
     "readingProgress": "6%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -39,9 +39,9 @@
   "hotBookmarks": [],
   "readProgress": {
     "chapterUid": 5,
-    "chapterOffset": 6892,
+    "chapterOffset": 6841,
     "progress": 6,
-    "updateTime": 1770085520,
+    "updateTime": 1779216032,
     "recordReadingTime": 0,
     "finishTime": ""
   }
