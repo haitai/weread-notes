@@ -11,7 +11,7 @@ cover: "https://res.weread.qq.com/wrepub/CB_COpA8RAAI8ue6iO6ga9dJ5pt_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-19T10:37:17Z"
+lastSync: "2026-05-19T11:10:38Z"
 readingProgress: "0%"
 readingTime: "0分钟"
 finishedDate: ""

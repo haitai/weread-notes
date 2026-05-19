@@ -11,7 +11,7 @@ cover: "https://weread-1258476243.file.myqcloud.com/app/assets/bookcover/book_co
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-19T10:32:05Z"
+lastSync: "2026-05-19T11:05:04Z"
 readingProgress: "2%"
 readingTime: "0分钟"
 finishedDate: ""
