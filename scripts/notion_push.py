@@ -16,13 +16,14 @@
 import json
 import logging
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from config import load_env, get_data_dir, get_index_path
-from utils import load_json
-from notion_client import NotionClient
+from config import load_env, get_data_dir, get_index_path, PROJECT_ROOT
+from utils import load_json, save_json
+from notion_client import NotionClient, NotionAPIError
 from md_to_notion import md_to_blocks
 
 logging.basicConfig(
@@ -35,6 +36,85 @@ logger = logging.getLogger("notion_push")
 # 模块级 Notion 客户端（延迟初始化）
 _notion_client: NotionClient | None = None
 
+# 推送失败日志文件路径（项目根目录下）
+_PUSH_FAIL_LOG_PATH: Path = PROJECT_ROOT / "notion_push_failures.json"
+_LOG_RETENTION_DAYS: int = 7
+
+
+def _load_failure_log() -> list[dict]:
+    """加载现有的推送失败日志"""
+    if not _PUSH_FAIL_LOG_PATH.exists():
+        return []
+    data = load_json(_PUSH_FAIL_LOG_PATH)
+    if isinstance(data, list):
+        return data
+    return []
+
+
+def _save_failure_log(entries: list[dict]):
+    """保存推送失败日志"""
+    save_json(_PUSH_FAIL_LOG_PATH, entries)
+
+
+def _cleanup_old_entries(entries: list[dict]) -> list[dict]:
+    """清理超过保留期限的旧日志条目"""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=_LOG_RETENTION_DAYS)
+    kept = []
+    for entry in entries:
+        ts_str = entry.get("timestamp", "")
+        if not ts_str:
+            continue
+        try:
+            ts = datetime.fromisoformat(ts_str.replace("Z", "+00:00"))
+            if ts >= cutoff:
+                kept.append(entry)
+        except (ValueError, TypeError):
+            kept.append(entry)
+    removed = len(entries) - len(kept)
+    if removed > 0:
+        logger.info("清理了 %d 条超过 %d 天的推送失败日志", removed, _LOG_RETENTION_DAYS)
+    return kept
+
+
+def record_push_failure(
+    book_id: str,
+    title: str,
+    exception: Exception,
+    operation: str = "",
+):
+    """记录一次推送失败到日志文件
+
+    Args:
+        book_id: 书籍 ID
+        title: 书籍名称
+        exception: 捕获到的异常
+        operation: 失败时正在进行的操作（如 create_page / update_page 等）
+    """
+    try:
+        entries = _load_failure_log()
+        entries = _cleanup_old_entries(entries)
+
+        error_info = {
+            "type": exception.__class__.__name__,
+            "message": str(exception),
+        }
+        if isinstance(exception, NotionAPIError):
+            error_info["status_code"] = exception.status_code
+            error_info["response_body"] = exception.response_body
+
+        entry = {
+            "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "book_id": book_id,
+            "title": title,
+            "operation": operation,
+            "error": error_info,
+        }
+        entries.append(entry)
+        _save_failure_log(entries)
+        logger.info("已记录推送失败日志: %s (%s)", title, book_id)
+    except Exception as log_err:
+        logger.error("记录推送失败日志时出错: %s", log_err)
+
 
 def _get_notion_client() -> NotionClient:
     """获取或初始化 Notion 客户端（单例）"""
@@ -43,6 +123,77 @@ def _get_notion_client() -> NotionClient:
         load_env()
         _notion_client = NotionClient()
     return _notion_client
+
+
+# 必需的数据库属性定义（属性名 -> schema）
+_REQUIRED_PROPERTIES: dict[str, dict] = {
+    "书名": {"title": {}},
+    "bookId": {"rich_text": {}},
+    "阅读进度": {"select": {"options": [
+        {"name": "已读完", "color": "green"},
+        {"name": "在读", "color": "yellow"},
+        {"name": "未读", "color": "gray"},
+    ]}},
+    "笔记数": {"number": {"format": "number"}},
+}
+
+_OPTIONAL_PROPERTIES: dict[str, dict] = {
+    "作者": {"rich_text": {}},
+    "译者": {"rich_text": {}},
+    "出版社": {"rich_text": {}},
+    "分类": {"select": {}},
+    "封面": {"files": {}},
+    "App链接": {"url": {}},
+}
+
+
+def _ensure_database_properties(client: NotionClient, book_data: dict):
+    """检查并自动创建缺失的数据库属性
+
+    Args:
+        client: Notion 客户端
+        book_data: 书籍 JSON 数据（用于判断需要哪些可选属性）
+    """
+    try:
+        existing = client.get_database_properties()
+    except Exception as e:
+        logger.warning("获取数据库属性失败，跳过自动创建: %s", e)
+        return
+
+    # 合并必需和可选属性
+    meta = book_data.get("meta", {})
+    required = dict(_REQUIRED_PROPERTIES)
+    optional = dict(_OPTIONAL_PROPERTIES)
+
+    # 根据数据内容决定需要哪些可选属性
+    if meta.get("author"):
+        required["作者"] = optional.pop("作者")
+    if meta.get("translator"):
+        required["译者"] = optional.pop("译者")
+    if meta.get("publisher"):
+        required["出版社"] = optional.pop("出版社")
+    if meta.get("category"):
+        required["分类"] = optional.pop("分类")
+    if meta.get("cover", "").startswith("http"):
+        required["封面"] = optional.pop("封面")
+    if meta.get("appLink"):
+        required["App链接"] = optional.pop("App链接")
+
+    missing = []
+    for name, schema in required.items():
+        if name not in existing:
+            missing.append((name, schema))
+
+    if not missing:
+        return
+
+    logger.info("检测到 %d 个缺失的数据库属性，正在自动创建...", len(missing))
+    for name, schema in missing:
+        try:
+            client.add_database_property(name, schema)
+        except Exception as e:
+            logger.error("创建属性失败 [%s]: %s", name, e)
+            raise
 
 
 def build_page_properties(book_data: dict) -> dict:
@@ -131,6 +282,9 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
     title = meta.get("title", f"未知_{book_id}")
 
     try:
+        # 检查并自动创建缺失的数据库属性
+        _ensure_database_properties(client, book_data)
+
         # 查询 Notion 是否已存在
         page = client.find_page_by_book_id(book_id)
 
@@ -147,17 +301,14 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
         if page is None:
             # 不存在 → 创建新页面
             first_batch = children[:100] if len(children) > 100 else children
-            client.create_page(properties, children=first_batch)
+            new_page = client.create_page(properties, children=first_batch)
 
             # 追加剩余 blocks
-            if len(children) > 100:
-                page_id = None  # create_page 返回的 id
-                # 重新查询获取 page_id
-                new_page = client.find_page_by_book_id(book_id)
-                if new_page:
-                    for i in range(100, len(children), 100):
-                        batch = children[i:i + 100]
-                        client.append_blocks(new_page["id"], batch)
+            if len(children) > 100 and new_page:
+                page_id = new_page["id"]
+                for i in range(100, len(children), 100):
+                    batch = children[i:i + 100]
+                    client.append_blocks(page_id, batch)
 
             logger.info("Notion 新建: %s", title)
         else:
@@ -190,6 +341,12 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
 
     except Exception as e:
         logger.error("Notion 推送失败: %s - %s", title, e)
+        record_push_failure(
+            book_id=book_id,
+            title=title,
+            exception=e,
+            operation="push_single_book",
+        )
         return False
 
 
