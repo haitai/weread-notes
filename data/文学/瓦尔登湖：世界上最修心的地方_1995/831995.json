@@ -12,18 +12,18 @@
     "isbn": "9787511338402",
     "wordCount": 0,
     "newRating": 821,
-    "newRatingCount": 910,
+    "newRatingCount": 913,
     "newRatingDetail": {
-      "good": 740,
-      "fair": 134,
+      "good": 742,
+      "fair": 135,
       "poor": 36,
-      "recent": 8,
+      "recent": 11,
       "deepV": 123,
       "myRating": "",
       "title": "脍炙人口"
     },
     "appLink": "weread://reading?bId=831995",
-    "lastSync": "2026-05-18T05:01:46Z",
+    "lastSync": "2026-05-19T03:19:24Z",
     "readingProgress": "25%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -842,7 +842,7 @@
       "chapterUid": 4,
       "range": "1324-1356",
       "markText": "因为我觉得一个人若诚恳地生活过，那他一定是生活在一个遥远的地方。",
-      "totalCount": 2312,
+      "totalCount": 2329,
       "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1324&rangeEnd=1356"
     },
     {
@@ -994,7 +994,7 @@
       "chapterUid": 5,
       "range": "9241-9287",
       "markText": "说真的，对于日出我虽然没有助之一臂之力，但不要怀疑，日出之时有人在场就是一件非常重要的事了。",
-      "totalCount": 600,
+      "totalCount": 610,
       "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=9241&rangeEnd=9287"
     }
   ],
