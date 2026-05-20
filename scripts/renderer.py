@@ -7,6 +7,7 @@ import logging
 from typing import Optional
 
 from utils import (
+    get_weread_web_url,
     parse_range,
     star_to_emoji,
     timestamp_to_str,
@@ -53,6 +54,7 @@ def render_markdown(book_data: dict) -> str:
     lines.append(f'reviewCount: {meta.get("reviewCount", 0)}')
     lines.append(f'bookmarkCount: {meta.get("bookmarkCount", 0)}')
     lines.append(f'appLink: "{meta.get("appLink", "")}"')
+    lines.append(f'webLink: "{meta.get("webLink", "")}"')
     lines.append("---")
     lines.append("")
 
@@ -78,7 +80,14 @@ def render_markdown(book_data: dict) -> str:
     # 元信息表格
     lines.append("| 项目 | 内容 |")
     lines.append("|------|------|")
-    lines.append(f"| 书名 | {title} |")
+
+    # 书名带网页链接
+    web_link = meta.get("webLink", "")
+    if web_link:
+        lines.append(f"| 书名 | [{title}]({web_link}) |")
+    else:
+        lines.append(f"| 书名 | {title} |")
+
     if author:
         lines.append(f"| 作者 | {author} |")
     if publish_time:
