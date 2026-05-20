@@ -30,6 +30,9 @@ from utils import (
     atomic_write_text,
     extract_category,
     get_folder_name,
+    get_weread_web_url,
+    get_weread_web_chapter_url,
+    get_weread_web_bookmark_url,
     load_json,
     parse_range,
     save_json,
@@ -154,6 +157,10 @@ def fetch_book_data(client: WeReadClient, book_id: str) -> dict:
                 f"&rangeStart={range_start}&rangeEnd={range_end}"
                 if range_start and range_end and chapter_uid else ""
             ),
+            "webLink": (
+                get_weread_web_bookmark_url(book_id, chapter_uid, range_start, range_end)
+                if range_start and range_end and chapter_uid else ""
+            ),
         })
 
     # ── 处理想法/点评数据 ──────────────────────────────────
@@ -251,6 +258,10 @@ def fetch_book_data(client: WeReadClient, book_id: str) -> dict:
                 f"&rangeStart={hb_range_start}&rangeEnd={hb_range_end}"
                 if hb_range_start and hb_range_end and hb_chapter_uid else ""
             ),
+            "webLink": (
+                get_weread_web_bookmark_url(book_id, hb_chapter_uid, hb_range_start, hb_range_end)
+                if hb_range_start and hb_range_end and hb_chapter_uid else ""
+            ),
         })
 
     # ── 处理进度数据 ──────────────────────────────────────
@@ -296,6 +307,7 @@ def fetch_book_data(client: WeReadClient, book_id: str) -> dict:
             "newRatingCount": book_info.get("newRatingCount", 0),
             "newRatingDetail": book_info.get("newRatingDetail", {}),
             "appLink": f"weread://reading?bId={book_id}",
+            "webLink": get_weread_web_url(book_id),
             "lastSync": now_utc,
             "readingProgress": reading_progress,
             "readingTime": reading_time,
@@ -318,6 +330,7 @@ def fetch_book_data(client: WeReadClient, book_id: str) -> dict:
                 "appLink": (
                     f"weread://reading?bId={book_id}&chapterUid={ch.get('chapterUid', 0)}"
                 ),
+                "webLink": get_weread_web_chapter_url(book_id, ch.get("chapterUid", 0)),
             }
             for ch in chapters
         ],

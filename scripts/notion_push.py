@@ -143,6 +143,7 @@ _OPTIONAL_PROPERTIES: dict[str, dict] = {
     "出版社": {"rich_text": {}},
     "分类": {"select": {}},
     "封面": {"files": {}},
+    "网页链接": {"url": {}},
 }
 
 
@@ -175,6 +176,8 @@ def _ensure_database_properties(client: NotionClient, book_data: dict):
         required["分类"] = optional.pop("分类")
     if meta.get("cover", "").startswith("http"):
         required["封面"] = optional.pop("封面")
+    if meta.get("webLink", "").startswith("http"):
+        required["网页链接"] = optional.pop("网页链接")
 
     missing = []
     for name, schema in required.items():
@@ -250,6 +253,11 @@ def build_page_properties(book_data: dict) -> dict:
         properties["封面"] = {
             "files": [{"name": f"{title}_cover", "external": {"url": cover}}]
         }
+
+    # 网页链接（仅在有有效 URL 时添加）
+    web_link = meta.get("webLink", "")
+    if web_link and web_link.startswith("http"):
+        properties["网页链接"] = {"url": web_link}
 
     return properties
 
