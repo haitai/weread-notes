@@ -14,9 +14,9 @@
     "isbn": "9787229118259",
     "wordCount": 0,
     "newRating": 916,
-    "newRatingCount": 6991,
+    "newRatingCount": 6992,
     "newRatingDetail": {
-      "good": 6492,
+      "good": 6493,
       "fair": 400,
       "poor": 99,
       "recent": 39,
@@ -25,7 +25,7 @@
       "title": "神作"
     },
     "appLink": "weread://reading?bId=849878",
-    "lastSync": "2026-05-19T18:53:36Z",
+    "lastSync": "2026-05-20T19:14:16Z",
     "readingProgress": "0%",
     "readingTime": "0分钟",
     "finishedDate": "",

@@ -23,13 +23,15 @@
       "title": "待评分"
     },
     "appLink": "weread://reading?bId=CB_9Oo60E61xBFf6r96p0BTf0Ed",
-    "lastSync": "2026-05-20T19:12:36Z",
+    "lastSync": "2026-05-20T19:21:17Z",
     "readingProgress": "21%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 14,
     "reviewCount": 20,
-    "bookmarkCount": 0
+    "bookmarkCount": 0,
+    "coverDownloaded": true,
+    "localCover": "data/未分类/千脑智能_f0Ed/CB_9Oo60E61xBFf6r96p0BTf0Ed_cover.jpg"
   },
   "chapters": [
     {
