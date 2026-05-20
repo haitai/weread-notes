@@ -11,27 +11,25 @@
     "publishTime": "2025-10-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 831,
-    "newRatingCount": 31,
+    "newRating": 832,
+    "newRatingCount": 32,
     "newRatingDetail": {
-      "good": 24,
+      "good": 25,
       "fair": 5,
       "poor": 2,
-      "recent": 1,
+      "recent": 2,
       "deepV": 4,
       "myRating": "",
       "title": ""
     },
     "appLink": "weread://reading?bId=3300184004",
-    "lastSync": "2026-05-19T18:58:20Z",
+    "lastSync": "2026-05-20T19:12:12Z",
     "readingProgress": "100%",
     "readingTime": "0分钟",
     "finishedDate": "2026-02-11",
     "noteCount": 0,
     "reviewCount": 1,
-    "bookmarkCount": 0,
-    "coverDownloaded": true,
-    "localCover": "data/文学/水浒传（金圣叹点评经典版）_4004/3300184004_cover.jpg"
+    "bookmarkCount": 0
   },
   "chapters": [
     {
