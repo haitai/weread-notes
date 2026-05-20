@@ -81,10 +81,6 @@ def render_markdown(book_data: dict) -> str:
     lines.append(f"| 书名 | {title} |")
     if author:
         lines.append(f"| 作者 | {author} |")
-    if intro:
-        # 截取简介前200字
-        intro_short = intro[:200] + ("..." if len(intro) > 200 else "")
-        lines.append(f"| 简介 | {intro_short} |")
     if publish_time:
         lines.append(f"| 出版时间 | {publish_time} |")
     if isbn:
@@ -93,9 +89,15 @@ def render_markdown(book_data: dict) -> str:
         lines.append(f"| 分类 | {category} |")
     if publisher:
         lines.append(f"| 出版社 | {publisher} |")
-    if app_link:
-        lines.append(f"| App链接 | [在 App 中打开]({app_link}) |")
     lines.append("")
+
+    # 书籍简介（独立区块，放在表格下方、笔记上方）
+    if intro:
+        lines.append("## 简介")
+        lines.append("")
+        lines.append(intro)
+        lines.append("")
+
     lines.append("---")
     lines.append("")
 

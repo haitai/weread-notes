@@ -143,7 +143,6 @@ _OPTIONAL_PROPERTIES: dict[str, dict] = {
     "出版社": {"rich_text": {}},
     "分类": {"select": {}},
     "封面": {"files": {}},
-    "App链接": {"url": {}},
 }
 
 
@@ -176,8 +175,6 @@ def _ensure_database_properties(client: NotionClient, book_data: dict):
         required["分类"] = optional.pop("分类")
     if meta.get("cover", "").startswith("http"):
         required["封面"] = optional.pop("封面")
-    if meta.get("appLink"):
-        required["App链接"] = optional.pop("App链接")
 
     missing = []
     for name, schema in required.items():
@@ -218,7 +215,6 @@ def build_page_properties(book_data: dict) -> dict:
     review_count = meta.get("reviewCount", 0)
     bookmark_count = meta.get("bookmarkCount", 0)
     total_notes = note_count + review_count + bookmark_count
-    app_link = meta.get("appLink", "")
 
     # 阅读进度映射
     progress_val = meta.get("readingProgress", "")
@@ -254,10 +250,6 @@ def build_page_properties(book_data: dict) -> dict:
         properties["封面"] = {
             "files": [{"name": f"{title}_cover", "external": {"url": cover}}]
         }
-
-    # App 链接（仅作为属性，不写入页面内容）
-    if app_link:
-        properties["App链接"] = {"url": app_link}
 
     return properties
 
