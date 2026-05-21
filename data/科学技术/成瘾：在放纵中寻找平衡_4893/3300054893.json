@@ -17,22 +17,20 @@
       "good": 2965,
       "fair": 750,
       "poor": 139,
-      "recent": 56,
+      "recent": 55,
       "deepV": 1072,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-05-21T11:07:19Z",
+    "lastSync": "2026-05-21T18:50:41Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 2,
-    "bookmarkCount": 0,
-    "coverDownloaded": true,
-    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
+    "bookmarkCount": 0
   },
   "chapters": [
     {
@@ -409,7 +407,7 @@
       "chapterUid": 7,
       "range": "9749-9814",
       "markText": "成瘾的最大风险因素之一是成瘾物质容易获取。当某一种东西更容易获得时，我们也更有可能使用这种东西。在使用的过程中，我们很可能会上瘾。",
-      "totalCount": 2464,
+      "totalCount": 2478,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=9749&rangeEnd=9814",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=9749&rangeEnd=9814"
     },
