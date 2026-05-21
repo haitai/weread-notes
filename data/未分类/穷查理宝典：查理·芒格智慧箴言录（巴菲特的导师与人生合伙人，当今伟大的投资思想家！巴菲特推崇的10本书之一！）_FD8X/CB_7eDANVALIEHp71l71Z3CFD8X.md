@@ -7,11 +7,12 @@ category: ""
 publisher: "中信出版社"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/穷查理宝典：查理·芒格智慧箴言录（巴菲特的导师与人生合伙人，当今伟大的投资思想家！巴菲特推崇的10本书之一！）_FD8X/CB_7eDANVALIEHp71l71Z3CFD8X.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_7eDANVALIEHp71l71Z3CFD8X_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:25:28Z"
+lastSync: "2026-05-21T11:13:48Z"
 readingProgress: "5%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_7eDANVALIEHp71l71Z3CFD8X"
 webLink: ""
 ---
 
-![穷查理宝典：查理·芒格智慧箴言录（巴菲特的导师与人生合伙人，当今伟大的投资思想家！巴菲特推崇的10本书之一！）](https://res.weread.qq.com/wrepub/CB_7eDANVALIEHp71l71Z3CFD8X_parsecover)
+![穷查理宝典：查理·芒格智慧箴言录（巴菲特的导师与人生合伙人，当今伟大的投资思想家！巴菲特推崇的10本书之一！）](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/穷查理宝典：查理·芒格智慧箴言录（巴菲特的导师与人生合伙人，当今伟大的投资思想家！巴菲特推崇的10本书之一！）_FD8X/CB_7eDANVALIEHp71l71Z3CFD8X.jpg)
 
 # 元数据
 

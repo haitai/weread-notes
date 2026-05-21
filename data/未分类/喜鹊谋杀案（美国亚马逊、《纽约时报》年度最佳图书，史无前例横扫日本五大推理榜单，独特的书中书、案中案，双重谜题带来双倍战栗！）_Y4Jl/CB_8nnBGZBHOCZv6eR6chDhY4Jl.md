@@ -7,11 +7,12 @@ category: ""
 publisher: "新星出版社"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）_Y4Jl/CB_8nnBGZBHOCZv6eR6chDhY4Jl.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_ADoFcGFbkEtU6dU6ch_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:21:32Z"
+lastSync: "2026-05-21T11:09:07Z"
 readingProgress: "9%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_8nnBGZBHOCZv6eR6chDhY4Jl"
 webLink: ""
 ---
 
-![喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）](https://res.weread.qq.com/wrepub/CB_ADoFcGFbkEtU6dU6ch_parsecover)
+![喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/喜鹊谋杀案（美国亚马逊、《纽约时报》年度最佳图书，史无前例横扫日本五大推理榜单，独特的书中书、案中案，双重谜题带来双倍战栗！）_Y4Jl/CB_8nnBGZBHOCZv6eR6chDhY4Jl.jpg)
 
 # 元数据
 

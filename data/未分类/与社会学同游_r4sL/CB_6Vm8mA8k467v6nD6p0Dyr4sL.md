@@ -7,11 +7,12 @@ category: ""
 publisher: ""
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/与社会学同游_r4sL/CB_6Vm8mA8k467v6nD6p0Dyr4sL.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_F4tCDLCBhBFm6j06gk2eyBrl_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:23:42Z"
+lastSync: "2026-05-21T11:11:25Z"
 readingProgress: "17%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_6Vm8mA8k467v6nD6p0Dyr4sL"
 webLink: ""
 ---
 
-![与社会学同游](https://res.weread.qq.com/wrepub/CB_F4tCDLCBhBFm6j06gk2eyBrl_parsecover)
+![与社会学同游](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/与社会学同游_r4sL/CB_6Vm8mA8k467v6nD6p0Dyr4sL.jpg)
 
 # 元数据
 

@@ -7,11 +7,12 @@ category: ""
 publisher: "民主与建设出版社"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/创富_PAHK/CB_908BzwC1HF6D6uL6t9CiPAHK.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_6AuBZMBYw0fP6j96kfCYa2jX_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:21:39Z"
+lastSync: "2026-05-21T11:09:16Z"
 readingProgress: "22%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_908BzwC1HF6D6uL6t9CiPAHK"
 webLink: ""
 ---
 
-![创富](https://res.weread.qq.com/wrepub/CB_6AuBZMBYw0fP6j96kfCYa2jX_parsecover)
+![创富](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/创富_PAHK/CB_908BzwC1HF6D6uL6t9CiPAHK.jpg)
 
 # 元数据
 

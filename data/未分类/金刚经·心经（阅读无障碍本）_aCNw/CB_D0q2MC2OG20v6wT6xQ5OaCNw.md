@@ -7,11 +7,12 @@ category: ""
 publisher: "岳麓书社"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/金刚经·心经（阅读无障碍本）_aCNw/CB_D0q2MC2OG20v6wT6xQ5OaCNw.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_92b3Nd3NUBEB6pf6oz33VBdm_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:22:04Z"
+lastSync: "2026-05-21T11:09:45Z"
 readingProgress: "87%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_D0q2MC2OG20v6wT6xQ5OaCNw"
 webLink: ""
 ---
 
-![金刚经·心经（阅读无障碍本）](https://res.weread.qq.com/wrepub/CB_92b3Nd3NUBEB6pf6oz33VBdm_parsecover)
+![金刚经·心经（阅读无障碍本）](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/金刚经·心经（阅读无障碍本）_aCNw/CB_D0q2MC2OG20v6wT6xQ5OaCNw.jpg)
 
 # 元数据
 

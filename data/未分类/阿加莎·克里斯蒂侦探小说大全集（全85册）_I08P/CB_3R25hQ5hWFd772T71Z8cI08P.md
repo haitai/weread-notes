@@ -7,11 +7,12 @@ category: ""
 publisher: "新星出版社"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/阿加莎·克里斯蒂侦探小说大全集（全85册）_I08P/CB_3R25hQ5hWFd772T71Z8cI08P.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_3R25hQ5hWFd772T71Z8cI08P_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:16:39Z"
+lastSync: "2026-05-21T11:03:48Z"
 readingProgress: "0%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_3R25hQ5hWFd772T71Z8cI08P"
 webLink: ""
 ---
 
-![阿加莎·克里斯蒂侦探小说大全集（全85册）](https://res.weread.qq.com/wrepub/CB_3R25hQ5hWFd772T71Z8cI08P_parsecover)
+![阿加莎·克里斯蒂侦探小说大全集（全85册）](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/阿加莎·克里斯蒂侦探小说大全集（全85册）_I08P/CB_3R25hQ5hWFd772T71Z8cI08P.jpg)
 
 # 元数据
 

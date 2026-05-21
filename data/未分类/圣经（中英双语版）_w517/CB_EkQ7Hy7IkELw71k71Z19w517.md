@@ -7,11 +7,12 @@ category: ""
 publisher: "epub掌上书苑"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/圣经（中英双语版）_w517/CB_EkQ7Hy7IkELw71k71Z19w517.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_9Mx46l46O2IW71g71MH2s7by_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:29:35Z"
+lastSync: "2026-05-21T11:18:03Z"
 readingProgress: "0%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_EkQ7Hy7IkELw71k71Z19w517"
 webLink: ""
 ---
 
-![圣经（中英双语版）](https://res.weread.qq.com/wrepub/CB_9Mx46l46O2IW71g71MH2s7by_parsecover)
+![圣经（中英双语版）](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/圣经（中英双语版）_w517/CB_EkQ7Hy7IkELw71k71Z19w517.jpg)
 
 # 元数据
 

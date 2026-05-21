@@ -7,11 +7,12 @@ category: ""
 publisher: "Hit Media"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/How to Live_DB0v/CB_0Zf2uB2vA5476rb6t95RDB0v.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_0Ri6NC6MAGNZ6r76oo1KgDua_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:22:10Z"
+lastSync: "2026-05-21T11:09:53Z"
 readingProgress: "20%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_0Zf2uB2vA5476rb6t95RDB0v"
 webLink: ""
 ---
 
-![How to Live](https://res.weread.qq.com/wrepub/CB_0Ri6NC6MAGNZ6r76oo1KgDua_parsecover)
+![How to Live](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/How to Live_DB0v/CB_0Zf2uB2vA5476rb6t95RDB0v.jpg)
 
 # 元数据
 

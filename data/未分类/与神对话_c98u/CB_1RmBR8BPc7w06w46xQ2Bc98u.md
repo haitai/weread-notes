@@ -7,11 +7,12 @@ category: ""
 publisher: "epub掌上书苑"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/与神对话_c98u/CB_1RmBR8BPc7w06w46xQ2Bc98u.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_BHD7wl7wXF3w6nw6op29J1eo_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:27:16Z"
+lastSync: "2026-05-21T11:15:47Z"
 readingProgress: "5%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_1RmBR8BPc7w06w46xQ2Bc98u"
 webLink: ""
 ---
 
-![与神对话](https://res.weread.qq.com/wrepub/CB_BHD7wl7wXF3w6nw6op29J1eo_parsecover)
+![与神对话](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/与神对话_c98u/CB_1RmBR8BPc7w06w46xQ2Bc98u.jpg)
 
 # 元数据
 

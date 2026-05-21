@@ -7,11 +7,12 @@ category: ""
 publisher: "译林出版社"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/破绽＋前传《接头》 (刘天壮) (Z-Library)_IAVZ/CB_3EhBMRBLV41L71971Z6QIAVZ.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_0JT4m74lA3Cw6nu6os1WW2JR_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:18:53Z"
+lastSync: "2026-05-21T11:06:15Z"
 readingProgress: "100%"
 readingTime: "0分钟"
 finishedDate: "2026-01-13"
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_3EhBMRBLV41L71971Z6QIAVZ"
 webLink: ""
 ---
 
-![破绽＋前传《接头》 (刘天壮) (Z-Library)](https://res.weread.qq.com/wrepub/CB_0JT4m74lA3Cw6nu6os1WW2JR_parsecover)
+![破绽＋前传《接头》 (刘天壮) (Z-Library)](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/破绽＋前传《接头》 (刘天壮) (Z-Library)_IAVZ/CB_3EhBMRBLV41L71971Z6QIAVZ.jpg)
 
 # 元数据
 

@@ -7,11 +7,12 @@ category: ""
 publisher: "北京出版社"
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/新编历史小丛书大套装（60本）_ZE5e/CB_1yg5F05ED5GS6vg6xQ31ZE5e.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_GMGGI8GIZAqC6ua6t14ZPFmY_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:26:12Z"
+lastSync: "2026-05-21T11:14:42Z"
 readingProgress: "5%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_1yg5F05ED5GS6vg6xQ31ZE5e"
 webLink: ""
 ---
 
-![新编历史小丛书大套装（60本）](https://res.weread.qq.com/wrepub/CB_GMGGI8GIZAqC6ua6t14ZPFmY_parsecover)
+![新编历史小丛书大套装（60本）](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/新编历史小丛书大套装（60本）_ZE5e/CB_1yg5F05ED5GS6vg6xQ31ZE5e.jpg)
 
 # 元数据
 

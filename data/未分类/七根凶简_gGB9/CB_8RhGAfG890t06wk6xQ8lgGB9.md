@@ -7,11 +7,12 @@ category: ""
 publisher: ""
 publishTime: ""
 isbn: ""
+localCover: "data/未分类/七根凶简_gGB9/CB_8RhGAfG890t06wk6xQ8lgGB9.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_DPBEGrEGD6jU6rk6t819S7L7_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-21T09:18:36Z"
+lastSync: "2026-05-21T11:05:48Z"
 readingProgress: "100%"
 readingTime: "0分钟"
 finishedDate: "2025-06-20"
@@ -22,7 +23,7 @@ appLink: "weread://reading?bId=CB_8RhGAfG890t06wk6xQ8lgGB9"
 webLink: ""
 ---
 
-![七根凶简](https://res.weread.qq.com/wrepub/CB_DPBEGrEGD6jU6rk6t819S7L7_parsecover)
+![七根凶简](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/七根凶简_gGB9/CB_8RhGAfG890t06wk6xQ8lgGB9.jpg)
 
 # 元数据
 
