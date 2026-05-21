@@ -144,7 +144,7 @@ _OPTIONAL_PROPERTIES: dict[str, dict] = {
     "出版社": {"rich_text": {}},
     "分类": {"select": {}},
     "封面": {"files": {}},
-    "App链接": {"url": {}},
+    "网页链接": {"url": {}},
 }
 
 
@@ -177,8 +177,8 @@ def _ensure_database_properties(client: NotionClient, book_data: dict):
         required["分类"] = optional.pop("分类")
     if meta.get("cover", "").startswith("http"):
         required["封面"] = optional.pop("封面")
-    if meta.get("appLink"):
-        required["App链接"] = optional.pop("App链接")
+    if meta.get("webLink", "").startswith("http"):
+        required["网页链接"] = optional.pop("网页链接")
 
     missing = []
     for name, schema in required.items():
@@ -219,7 +219,6 @@ def build_page_properties(book_data: dict) -> dict:
     review_count = meta.get("reviewCount", 0)
     bookmark_count = meta.get("bookmarkCount", 0)
     total_notes = note_count + review_count + bookmark_count
-    app_link = meta.get("appLink", "")
 
     # 阅读进度映射
     progress_val = meta.get("readingProgress", "")
@@ -270,11 +269,26 @@ def build_page_properties(book_data: dict) -> dict:
             "files": [{"name": f"{book_id}_cover", "external": {"url": cover_url}}]
         }
 
-    # App 链接（仅作为属性，不写入页面内容）
-    if app_link:
-        properties["App链接"] = {"url": app_link}
+    # 网页链接（仅在有有效 URL 时添加）
+    web_link = meta.get("webLink", "")
+    if web_link and web_link.startswith("http"):
+        properties["网页链接"] = {"url": web_link}
 
     return properties
+
+
+def _get_icon(cover_url: str) -> dict | None:
+    """构建 Notion 图标对象
+
+    Args:
+        cover_url: 封面图片 URL
+
+    Returns:
+        Notion 图标对象，或 None（如果 URL 无效）
+    """
+    if cover_url and cover_url.startswith("http"):
+        return {"type": "external", "external": {"url": cover_url}}
+    return None
 
 
 def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> bool:
@@ -295,6 +309,7 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
     meta = book_data.get("meta", {})
     book_id = meta.get("bookId", "")
     title = meta.get("title", f"未知_{book_id}")
+    cover = meta.get("cover", "")
 
     try:
         # 检查并自动创建缺失的数据库属性
@@ -313,10 +328,13 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
                 md_content = f.read()
             children = md_to_blocks(md_content)
 
+        # 构建图标（使用封面作为页面图标）
+        icon = _get_icon(cover)
+
         if page is None:
-            # 不存在 → 创建新页面
+            # 不存在 → 创建新页面（带图标）
             first_batch = children[:100] if len(children) > 100 else children
-            new_page = client.create_page(properties, children=first_batch)
+            new_page = client.create_page(properties, children=first_batch, icon=icon)
 
             # 追加剩余 blocks
             if len(children) > 100 and new_page:
@@ -327,9 +345,16 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
 
             logger.info("Notion 新建: %s", title)
         else:
-            # 存在 → 更新属性 + 全量替换内容
+            # 存在 → 更新属性 + 全量替换内容 + 更新图标
             page_id = page["id"]
             client.update_page_properties(page_id, properties)
+
+            # 更新页面图标（如果封面有效）
+            if icon:
+                try:
+                    client._request("PATCH", f"/pages/{page_id}", json={"icon": icon})
+                except Exception as e:
+                    logger.warning("更新页面图标失败: %s - %s", title, e)
 
             if children:
                 # 删除旧 blocks

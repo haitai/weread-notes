@@ -7,6 +7,7 @@ import logging
 from typing import Optional
 
 from utils import (
+    get_weread_web_url,
     parse_range,
     star_to_emoji,
     timestamp_to_str,
@@ -53,6 +54,7 @@ def render_markdown(book_data: dict) -> str:
     lines.append(f'reviewCount: {meta.get("reviewCount", 0)}')
     lines.append(f'bookmarkCount: {meta.get("bookmarkCount", 0)}')
     lines.append(f'appLink: "{meta.get("appLink", "")}"')
+    lines.append(f'webLink: "{meta.get("webLink", "")}"')
     lines.append("---")
     lines.append("")
 
@@ -69,27 +71,42 @@ def render_markdown(book_data: dict) -> str:
 
     lines.append("# 元数据")
     lines.append("")
-    lines.append(f'> [!abstract] {title}')
+
+    # 封面图片（使用标准 Markdown 图片语法）
     if cover:
-        lines.append(f'> - ![{title}|200]({cover})')
-    lines.append(f'> - 书名：{title}')
+        lines.append(f"![{title}]({cover})")
+        lines.append("")
+
+    # 元信息表格
+    lines.append("| 项目 | 内容 |")
+    lines.append("|------|------|")
+
+    # 书名带网页链接
+    web_link = meta.get("webLink", "")
+    if web_link:
+        lines.append(f"| 书名 | [{title}]({web_link}) |")
+    else:
+        lines.append(f"| 书名 | {title} |")
+
     if author:
-        lines.append(f'> - 作者：{author}')
-    if intro:
-        # 截取简介前200字
-        intro_short = intro[:200] + ("..." if len(intro) > 200 else "")
-        lines.append(f'> - 简介：{intro_short}')
+        lines.append(f"| 作者 | {author} |")
     if publish_time:
-        lines.append(f'> - 出版时间：{publish_time}')
+        lines.append(f"| 出版时间 | {publish_time} |")
     if isbn:
-        lines.append(f'> - ISBN：{isbn}')
+        lines.append(f"| ISBN | {isbn} |")
     if category:
-        lines.append(f'> - 分类：{category}')
+        lines.append(f"| 分类 | {category} |")
     if publisher:
-        lines.append(f'> - 出版社：{publisher}')
-    if app_link:
-        lines.append(f'> - [在 App 中打开]({app_link})')
+        lines.append(f"| 出版社 | {publisher} |")
     lines.append("")
+
+    # 书籍简介（独立区块，放在表格下方、笔记上方）
+    if intro:
+        lines.append("## 简介")
+        lines.append("")
+        lines.append(intro)
+        lines.append("")
+
     lines.append("---")
     lines.append("")
 
@@ -151,9 +168,10 @@ def render_markdown(book_data: dict) -> str:
             mark_text = hl.get("markText", "")
             create_time = hl.get("createTimeFormatted", "")
 
-            # 渲染划线
+            # 渲染划线（使用引用块）
             lines.append(f"> 📌 {mark_text}")
-            lines.append(f"> ⏱ {create_time}")
+            if create_time:
+                lines.append(f"> ⏱ {create_time}")
             lines.append("")
 
             # 渲染对应想法（想法前必须贴原文）
@@ -161,7 +179,8 @@ def render_markdown(book_data: dict) -> str:
             for rv in matched:
                 # 想法前引用原文
                 lines.append(f"> 📌 {mark_text}")
-                lines.append(f"> ⏱ {create_time}")
+                if create_time:
+                    lines.append(f"> ⏱ {create_time}")
                 lines.append("")
                 # 想法内容
                 lines.append(_render_review(rv))
@@ -181,12 +200,14 @@ def render_markdown(book_data: dict) -> str:
                     mark_text = highlight_map[rv_range]
                     hl_create_time = highlight_time_map.get(rv_range, create_time)
                     lines.append(f"> 📌 {mark_text}")
-                    lines.append(f"> ⏱ {hl_create_time}")
+                    if hl_create_time:
+                        lines.append(f"> ⏱ {hl_create_time}")
                     lines.append("")
                 elif abstract:
                     # 纯想法：使用 abstract 作为原文
                     lines.append(f"> 📌 {abstract}")
-                    lines.append(f"> ⏱ {create_time}")
+                    if create_time:
+                        lines.append(f"> ⏱ {create_time}")
                     lines.append("")
 
                 lines.append(_render_review(rv))
@@ -200,7 +221,8 @@ def render_markdown(book_data: dict) -> str:
             if abstract:
                 # 纯想法：使用 abstract 作为原文
                 lines.append(f"> 📌 {abstract}")
-                lines.append(f"> ⏱ {create_time}")
+                if create_time:
+                    lines.append(f"> ⏱ {create_time}")
                 lines.append("")
 
             lines.append(_render_review(rv))
