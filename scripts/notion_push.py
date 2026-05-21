@@ -250,20 +250,7 @@ def build_page_properties(book_data: dict) -> dict:
     properties = {k: v for k, v in properties.items() if v is not None}
 
     # 封面（优先使用本地封面文件，通过 raw GitHub URL 引用）
-    local_cover_name = meta.get("localCover", "")
-    cover_url = cover
-    if local_cover_name:
-        repo_url = os.environ.get("GITHUB_REPOSITORY", "")
-        if repo_url:
-            # localCover 现在是相对仓库根目录的路径，如 data/小说/天幕_849878/849878_cover.jpg
-            # 向后兼容：如果不含 /，说明是旧格式（covers/ 目录）
-            if "/" in local_cover_name:
-                cover_url = f"https://raw.githubusercontent.com/{repo_url}/main/{local_cover_name}"
-            else:
-                cover_url = f"https://raw.githubusercontent.com/{repo_url}/main/covers/{local_cover_name}"
-        else:
-            # 本地运行时直接使用 WeRead CDN URL（本地文件无法被 Notion 访问）
-            cover_url = cover
+    cover_url = _resolve_cover_url(meta)
     if cover_url and cover_url.startswith("http"):
         properties["封面"] = {
             "files": [{"name": f"{book_id}_cover", "external": {"url": cover_url}}]
@@ -275,6 +262,20 @@ def build_page_properties(book_data: dict) -> dict:
         properties["网页链接"] = {"url": web_link}
 
     return properties
+
+
+def _resolve_cover_url(meta: dict) -> str:
+    """解析封面图片 URL（优先本地 raw GitHub，fallback 远程）"""
+    cover = meta.get("cover", "")
+    local_cover_name = meta.get("localCover", "")
+    if local_cover_name:
+        repo_url = os.environ.get("GITHUB_REPOSITORY", "")
+        if repo_url:
+            if "/" in local_cover_name:
+                return f"https://raw.githubusercontent.com/{repo_url}/main/{local_cover_name}"
+            else:
+                return f"https://raw.githubusercontent.com/{repo_url}/main/covers/{local_cover_name}"
+    return cover
 
 
 def _get_icon(cover_url: str) -> dict | None:
@@ -328,8 +329,9 @@ def push_single_book(client: NotionClient, book_data: dict, json_path: Path) -> 
                 md_content = f.read()
             children = md_to_blocks(md_content)
 
-        # 构建图标（使用封面作为页面图标）
-        icon = _get_icon(cover)
+        # 构建图标（使用封面作为页面图标，优先本地）
+        cover_url = _resolve_cover_url(meta)
+        icon = _get_icon(cover_url)
 
         if page is None:
             # 不存在 → 创建新页面（带图标）
