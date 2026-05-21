@@ -797,7 +797,7 @@ def download_cover(cover_url: str, book_id: str, book_dir=None) -> Path | None:
 
     if book_dir:
         book_dir.mkdir(parents=True, exist_ok=True)
-        cover_path = book_dir / f"{book_id}_cover{ext}"
+        cover_path = book_dir / f"{book_id}{ext}"
     else:
         covers_dir = get_covers_dir()
         covers_dir.mkdir(parents=True, exist_ok=True)
