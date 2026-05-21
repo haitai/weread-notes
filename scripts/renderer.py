@@ -69,14 +69,14 @@ def render_markdown(book_data: dict) -> str:
     publisher = meta.get("publisher", "")
     app_link = meta.get("appLink", "")
 
-    lines.append("# 元数据")
-    lines.append("")
-
     # 封面图片（使用标准 Markdown 图片语法）
     if cover:
         lines.append(f"![{title}]({cover})")
         lines.append("")
-
+        
+    lines.append("# 元数据")
+    lines.append("")
+    
     # 元信息表格
     lines.append("| 项目 | 内容 |")
     lines.append("|------|------|")
