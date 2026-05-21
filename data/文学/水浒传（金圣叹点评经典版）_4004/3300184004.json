@@ -23,7 +23,8 @@
       "title": ""
     },
     "appLink": "weread://reading?bId=3300184004",
-    "lastSync": "2026-05-20T19:18:45Z",
+    "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96",
+    "lastSync": "2026-05-21T09:16:58Z",
     "readingProgress": "100%",
     "readingTime": "0分钟",
     "finishedDate": "2026-02-11",
@@ -31,7 +32,7 @@
     "reviewCount": 1,
     "bookmarkCount": 0,
     "coverDownloaded": true,
-    "localCover": "data/文学/水浒传（金圣叹点评经典版）_4004/3300184004_cover.jpg"
+    "localCover": "data/文学/水浒传（金圣叹点评经典版）_4004/3300184004.jpg"
   },
   "chapters": [
     {
@@ -44,7 +45,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=1"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=1"
     },
     {
       "chapterUid": 2,
@@ -56,7 +58,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=2"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=2"
     },
     {
       "chapterUid": 3,
@@ -68,7 +71,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=3"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=3"
     },
     {
       "chapterUid": 4,
@@ -80,7 +84,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=4"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=4"
     },
     {
       "chapterUid": 5,
@@ -92,7 +97,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=5"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=5"
     },
     {
       "chapterUid": 6,
@@ -104,7 +110,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=6"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=6"
     },
     {
       "chapterUid": 7,
@@ -116,7 +123,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=7"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=7"
     },
     {
       "chapterUid": 8,
@@ -128,7 +136,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=8"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=8"
     },
     {
       "chapterUid": 9,
@@ -140,7 +149,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=9"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=9"
     },
     {
       "chapterUid": 10,
@@ -152,7 +162,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=10"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=10"
     },
     {
       "chapterUid": 11,
@@ -164,7 +175,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=11"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=11"
     },
     {
       "chapterUid": 12,
@@ -176,7 +188,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=12"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=12"
     },
     {
       "chapterUid": 13,
@@ -188,7 +201,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=13"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=13"
     },
     {
       "chapterUid": 14,
@@ -200,7 +214,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=14"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=14"
     },
     {
       "chapterUid": 15,
@@ -212,7 +227,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=15"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=15"
     },
     {
       "chapterUid": 16,
@@ -224,7 +240,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=16"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=16"
     },
     {
       "chapterUid": 17,
@@ -236,7 +253,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=17"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=17"
     },
     {
       "chapterUid": 18,
@@ -248,7 +266,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=18"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=18"
     },
     {
       "chapterUid": 19,
@@ -260,7 +279,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=19"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=19"
     },
     {
       "chapterUid": 20,
@@ -272,7 +292,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=20"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=20"
     },
     {
       "chapterUid": 21,
@@ -284,7 +305,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=21"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=21"
     },
     {
       "chapterUid": 22,
@@ -296,7 +318,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=22"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=22"
     },
     {
       "chapterUid": 23,
@@ -308,7 +331,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=23"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=23"
     },
     {
       "chapterUid": 24,
@@ -320,7 +344,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=24"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=24"
     },
     {
       "chapterUid": 25,
@@ -332,7 +357,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=25"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=25"
     },
     {
       "chapterUid": 26,
@@ -344,7 +370,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=26"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=26"
     },
     {
       "chapterUid": 27,
@@ -356,7 +383,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=27"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=27"
     },
     {
       "chapterUid": 28,
@@ -368,7 +396,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=28"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=28"
     },
     {
       "chapterUid": 29,
@@ -380,7 +409,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=29"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=29"
     },
     {
       "chapterUid": 30,
@@ -392,7 +422,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=30"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=30"
     },
     {
       "chapterUid": 31,
@@ -404,7 +435,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=31"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=31"
     },
     {
       "chapterUid": 32,
@@ -416,7 +448,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=32"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=32"
     },
     {
       "chapterUid": 33,
@@ -428,7 +461,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=33"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=33"
     },
     {
       "chapterUid": 34,
@@ -440,7 +474,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=34"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=34"
     },
     {
       "chapterUid": 35,
@@ -452,7 +487,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=35"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=35"
     },
     {
       "chapterUid": 36,
@@ -464,7 +500,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=36"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=36"
     },
     {
       "chapterUid": 37,
@@ -476,7 +513,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=37"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=37"
     },
     {
       "chapterUid": 38,
@@ -488,7 +526,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=38"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=38"
     },
     {
       "chapterUid": 39,
@@ -500,7 +539,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=39"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=39"
     },
     {
       "chapterUid": 40,
@@ -512,7 +552,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=40"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=40"
     },
     {
       "chapterUid": 41,
@@ -524,7 +565,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=41"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=41"
     },
     {
       "chapterUid": 42,
@@ -536,7 +578,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=42"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=42"
     },
     {
       "chapterUid": 43,
@@ -548,7 +591,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=43"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=43"
     },
     {
       "chapterUid": 44,
@@ -560,7 +604,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=44"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=44"
     },
     {
       "chapterUid": 45,
@@ -572,7 +617,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=45"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=45"
     },
     {
       "chapterUid": 46,
@@ -584,7 +630,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=46"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=46"
     },
     {
       "chapterUid": 47,
@@ -596,7 +643,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=47"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=47"
     },
     {
       "chapterUid": 48,
@@ -608,7 +656,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=48"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=48"
     },
     {
       "chapterUid": 49,
@@ -620,7 +669,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=49"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=49"
     },
     {
       "chapterUid": 50,
@@ -632,7 +682,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=50"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=50"
     },
     {
       "chapterUid": 51,
@@ -644,7 +695,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=51"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=51"
     },
     {
       "chapterUid": 52,
@@ -656,7 +708,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=52"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=52"
     },
     {
       "chapterUid": 53,
@@ -668,7 +721,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=53"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=53"
     },
     {
       "chapterUid": 54,
@@ -680,7 +734,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=54"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=54"
     },
     {
       "chapterUid": 55,
@@ -692,7 +747,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=55"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=55"
     },
     {
       "chapterUid": 56,
@@ -704,7 +760,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=56"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=56"
     },
     {
       "chapterUid": 57,
@@ -716,7 +773,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=57"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=57",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=57"
     },
     {
       "chapterUid": 58,
@@ -728,7 +786,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=58"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=58",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=58"
     },
     {
       "chapterUid": 59,
@@ -740,7 +799,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=59"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=59",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=59"
     },
     {
       "chapterUid": 60,
@@ -752,7 +812,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=60"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=60",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=60"
     },
     {
       "chapterUid": 61,
@@ -764,7 +825,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=61"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=61",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=61"
     },
     {
       "chapterUid": 62,
@@ -776,7 +838,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=62"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=62",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=62"
     },
     {
       "chapterUid": 63,
@@ -788,7 +851,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=63"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=63",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=63"
     },
     {
       "chapterUid": 64,
@@ -800,7 +864,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=64"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=64",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=64"
     },
     {
       "chapterUid": 65,
@@ -812,7 +877,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=65"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=65",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=65"
     },
     {
       "chapterUid": 66,
@@ -824,7 +890,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=66"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=66",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=66"
     },
     {
       "chapterUid": 67,
@@ -836,7 +903,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=67"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=67",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=67"
     },
     {
       "chapterUid": 68,
@@ -848,7 +916,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=68"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=68",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=68"
     },
     {
       "chapterUid": 69,
@@ -860,7 +929,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=69"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=69",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=69"
     },
     {
       "chapterUid": 70,
@@ -872,7 +942,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=70"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=70",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=70"
     },
     {
       "chapterUid": 71,
@@ -884,7 +955,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=71"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=71",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=71"
     },
     {
       "chapterUid": 72,
@@ -896,7 +968,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=72"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=72",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=72"
     },
     {
       "chapterUid": 73,
@@ -908,7 +981,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=3300184004&chapterUid=73"
+      "appLink": "weread://reading?bId=3300184004&chapterUid=73",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=73"
     }
   ],
   "content": [
@@ -940,7 +1014,8 @@
       "range": "5317-5366",
       "markText": "高太尉！叫一声妙，至今如闻其响。你忒毒害，恁地刻薄！",
       "totalCount": 28,
-      "appLink": "weread://bestbookmark?bookId=3300184004&chapterUid=14&rangeStart=5317&rangeEnd=5366"
+      "appLink": "weread://bestbookmark?bookId=3300184004&chapterUid=14&rangeStart=5317&rangeEnd=5366",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=14&rangeStart=5317&rangeEnd=5366"
     },
     {
       "bookmarkId": "3300184004_4_28949-28958",
@@ -948,7 +1023,8 @@
       "range": "28949-28958",
       "markText": "史进受了，不在话下",
       "totalCount": 22,
-      "appLink": "weread://bestbookmark?bookId=3300184004&chapterUid=4&rangeStart=28949&rangeEnd=28958"
+      "appLink": "weread://bestbookmark?bookId=3300184004&chapterUid=4&rangeStart=28949&rangeEnd=28958",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=4&rangeStart=28949&rangeEnd=28958"
     }
   ],
   "readProgress": {

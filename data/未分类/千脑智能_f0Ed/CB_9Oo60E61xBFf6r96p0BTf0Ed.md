@@ -11,7 +11,7 @@ cover: "https://res.weread.qq.com/wrepub/CB_7v9CBPC930ur6i56gp5BhEE0_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-20T19:21:17Z"
+lastSync: "2026-05-21T09:28:48Z"
 readingProgress: "21%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -19,16 +19,18 @@ noteCount: 14
 reviewCount: 20
 bookmarkCount: 0
 appLink: "weread://reading?bId=CB_9Oo60E61xBFf6r96p0BTf0Ed"
+webLink: "https://weread.qq.com/web/reader/0bc42913643425f394f6f363045363178424666367239367030425466304564e26"
 ---
+
+![千脑智能](https://res.weread.qq.com/wrepub/CB_7v9CBPC930ur6i56gp5BhEE0_parsecover)
 
 # 元数据
 
-> [!abstract] 千脑智能
-> - ![千脑智能|200](https://res.weread.qq.com/wrepub/CB_7v9CBPC930ur6i56gp5BhEE0_parsecover)
-> - 书名：千脑智能
-> - 作者：杰夫·霍金斯
-> - 出版社：浙江人民出版社
-> - [在 App 中打开](weread://reading?bId=CB_9Oo60E61xBFf6r96p0BTf0Ed)
+| 项目 | 内容 |
+|------|------|
+| 书名 | [千脑智能](https://weread.qq.com/web/reader/0bc42913643425f394f6f363045363178424666367239367030425466304564e26) |
+| 作者 | 杰夫·霍金斯 |
+| 出版社 | 浙江人民出版社 |
 
 ---
 
