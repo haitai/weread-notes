@@ -4,6 +4,7 @@ Markdown 由 JSON 重新渲染生成，禁止手动编辑。
 """
 
 import logging
+import os
 from typing import Optional
 
 from utils import (
@@ -14,6 +15,20 @@ from utils import (
 )
 
 logger = logging.getLogger(__name__)
+
+
+def _resolve_cover_url(meta: dict) -> str:
+    """解析封面图片 URL（优先本地 raw GitHub，fallback 远程 WeRead CDN）"""
+    cover = meta.get("cover", "")
+    local_cover_name = meta.get("localCover", "")
+    if local_cover_name:
+        repo_url = os.environ.get("GITHUB_REPOSITORY", "")
+        if repo_url:
+            if "/" in local_cover_name:
+                return f"https://raw.githubusercontent.com/{repo_url}/main/{local_cover_name}"
+            else:
+                return f"https://raw.githubusercontent.com/{repo_url}/main/covers/{local_cover_name}"
+    return cover
 
 
 def render_markdown(book_data: dict) -> str:
@@ -42,6 +57,7 @@ def render_markdown(book_data: dict) -> str:
     lines.append(f'publisher: "{meta.get("publisher", "")}"')
     lines.append(f'publishTime: "{meta.get("publishTime", "")}"')
     lines.append(f'isbn: "{meta.get("isbn", "")}"')
+    lines.append(f'localCover: "{meta.get("localCover", "")}"')
     lines.append(f'cover: "{meta.get("cover", "")}"')
     lines.append(f'wordCount: {meta.get("wordCount", 0)}')
     lines.append(f'newRating: {meta.get("newRating", 0)}')
@@ -69,7 +85,8 @@ def render_markdown(book_data: dict) -> str:
     publisher = meta.get("publisher", "")
     app_link = meta.get("appLink", "")
 
-    # 封面图片（使用标准 Markdown 图片语法）
+    # 封面图片（使用本地封面，优先 raw.githubusercontent.com）
+    cover = _resolve_cover_url(meta)
     if cover:
         lines.append(f"![{title}]({cover})")
         lines.append("")
