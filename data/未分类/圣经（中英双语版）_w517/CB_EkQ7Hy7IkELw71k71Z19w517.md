@@ -11,7 +11,7 @@ cover: "https://res.weread.qq.com/wrepub/CB_9Mx46l46O2IW71g71MH2s7by_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-20T19:23:14Z"
+lastSync: "2026-05-21T09:29:35Z"
 readingProgress: "0%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -19,15 +19,17 @@ noteCount: 0
 reviewCount: 0
 bookmarkCount: 0
 appLink: "weread://reading?bId=CB_EkQ7Hy7IkELw71k71Z19w517"
+webLink: ""
 ---
+
+![圣经（中英双语版）](https://res.weread.qq.com/wrepub/CB_9Mx46l46O2IW71g71MH2s7by_parsecover)
 
 # 元数据
 
-> [!abstract] 圣经（中英双语版）
-> - ![圣经（中英双语版）|200](https://res.weread.qq.com/wrepub/CB_9Mx46l46O2IW71g71MH2s7by_parsecover)
-> - 书名：圣经（中英双语版）
-> - 作者：中英对照
-> - 出版社：epub掌上书苑
-> - [在 App 中打开](weread://reading?bId=CB_EkQ7Hy7IkELw71k71Z19w517)
+| 项目 | 内容 |
+|------|------|
+| 书名 | 圣经（中英双语版） |
+| 作者 | 中英对照 |
+| 出版社 | epub掌上书苑 |
 
 ---
