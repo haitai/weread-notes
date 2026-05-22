@@ -18,12 +18,13 @@
       "fair": 135,
       "poor": 36,
       "recent": 11,
-      "deepV": 123,
+      "deepV": 124,
       "myRating": "",
       "title": "脍炙人口"
     },
     "appLink": "weread://reading?bId=831995",
-    "lastSync": "2026-05-19T03:19:24Z",
+    "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a",
+    "lastSync": "2026-05-22T00:00:52Z",
     "readingProgress": "25%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -42,7 +43,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=1"
+      "appLink": "weread://reading?bId=831995&chapterUid=1",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=1"
     },
     {
       "chapterUid": 2,
@@ -54,7 +56,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=2"
+      "appLink": "weread://reading?bId=831995&chapterUid=2",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=2"
     },
     {
       "chapterUid": 3,
@@ -66,7 +69,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=3"
+      "appLink": "weread://reading?bId=831995&chapterUid=3",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=3"
     },
     {
       "chapterUid": 4,
@@ -78,7 +82,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=4"
+      "appLink": "weread://reading?bId=831995&chapterUid=4",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=4"
     },
     {
       "chapterUid": 5,
@@ -96,7 +101,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=5"
+      "appLink": "weread://reading?bId=831995&chapterUid=5",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5"
     },
     {
       "chapterUid": 6,
@@ -108,7 +114,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=6"
+      "appLink": "weread://reading?bId=831995&chapterUid=6",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=6"
     },
     {
       "chapterUid": 7,
@@ -120,7 +127,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=7"
+      "appLink": "weread://reading?bId=831995&chapterUid=7",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=7"
     },
     {
       "chapterUid": 8,
@@ -132,7 +140,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=8"
+      "appLink": "weread://reading?bId=831995&chapterUid=8",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=8"
     },
     {
       "chapterUid": 9,
@@ -144,7 +153,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=9"
+      "appLink": "weread://reading?bId=831995&chapterUid=9",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=9"
     },
     {
       "chapterUid": 10,
@@ -156,7 +166,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=10"
+      "appLink": "weread://reading?bId=831995&chapterUid=10",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=10"
     },
     {
       "chapterUid": 11,
@@ -168,7 +179,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=11"
+      "appLink": "weread://reading?bId=831995&chapterUid=11",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=11"
     },
     {
       "chapterUid": 12,
@@ -180,7 +192,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=12"
+      "appLink": "weread://reading?bId=831995&chapterUid=12",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=12"
     },
     {
       "chapterUid": 13,
@@ -192,7 +205,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=13"
+      "appLink": "weread://reading?bId=831995&chapterUid=13",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=13"
     },
     {
       "chapterUid": 14,
@@ -210,7 +224,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=14"
+      "appLink": "weread://reading?bId=831995&chapterUid=14",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=14"
     },
     {
       "chapterUid": 15,
@@ -222,7 +237,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=15"
+      "appLink": "weread://reading?bId=831995&chapterUid=15",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=15"
     },
     {
       "chapterUid": 16,
@@ -234,7 +250,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=16"
+      "appLink": "weread://reading?bId=831995&chapterUid=16",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=16"
     },
     {
       "chapterUid": 17,
@@ -252,7 +269,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=17"
+      "appLink": "weread://reading?bId=831995&chapterUid=17",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=17"
     },
     {
       "chapterUid": 18,
@@ -264,7 +282,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=18"
+      "appLink": "weread://reading?bId=831995&chapterUid=18",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=18"
     },
     {
       "chapterUid": 19,
@@ -276,7 +295,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=19"
+      "appLink": "weread://reading?bId=831995&chapterUid=19",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=19"
     },
     {
       "chapterUid": 20,
@@ -294,7 +314,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=20"
+      "appLink": "weread://reading?bId=831995&chapterUid=20",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=20"
     },
     {
       "chapterUid": 21,
@@ -306,7 +327,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=21"
+      "appLink": "weread://reading?bId=831995&chapterUid=21",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=21"
     },
     {
       "chapterUid": 22,
@@ -318,7 +340,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=22"
+      "appLink": "weread://reading?bId=831995&chapterUid=22",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=22"
     },
     {
       "chapterUid": 23,
@@ -330,7 +353,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=23"
+      "appLink": "weread://reading?bId=831995&chapterUid=23",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=23"
     },
     {
       "chapterUid": 24,
@@ -348,7 +372,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=24"
+      "appLink": "weread://reading?bId=831995&chapterUid=24",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=24"
     },
     {
       "chapterUid": 25,
@@ -360,7 +385,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=25"
+      "appLink": "weread://reading?bId=831995&chapterUid=25",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=25"
     },
     {
       "chapterUid": 26,
@@ -378,7 +404,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=26"
+      "appLink": "weread://reading?bId=831995&chapterUid=26",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=26"
     },
     {
       "chapterUid": 27,
@@ -390,7 +417,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=27"
+      "appLink": "weread://reading?bId=831995&chapterUid=27",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=27"
     },
     {
       "chapterUid": 28,
@@ -402,7 +430,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=28"
+      "appLink": "weread://reading?bId=831995&chapterUid=28",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=28"
     },
     {
       "chapterUid": 29,
@@ -420,7 +449,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=29"
+      "appLink": "weread://reading?bId=831995&chapterUid=29",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=29"
     },
     {
       "chapterUid": 30,
@@ -432,7 +462,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=30"
+      "appLink": "weread://reading?bId=831995&chapterUid=30",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=30"
     },
     {
       "chapterUid": 31,
@@ -450,7 +481,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=31"
+      "appLink": "weread://reading?bId=831995&chapterUid=31",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=31"
     },
     {
       "chapterUid": 32,
@@ -462,7 +494,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=32"
+      "appLink": "weread://reading?bId=831995&chapterUid=32",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=32"
     },
     {
       "chapterUid": 33,
@@ -480,7 +513,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=33"
+      "appLink": "weread://reading?bId=831995&chapterUid=33",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=33"
     },
     {
       "chapterUid": 34,
@@ -492,7 +526,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=34"
+      "appLink": "weread://reading?bId=831995&chapterUid=34",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=34"
     },
     {
       "chapterUid": 35,
@@ -504,7 +539,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=35"
+      "appLink": "weread://reading?bId=831995&chapterUid=35",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=35"
     },
     {
       "chapterUid": 36,
@@ -516,7 +552,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=36"
+      "appLink": "weread://reading?bId=831995&chapterUid=36",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=36"
     },
     {
       "chapterUid": 37,
@@ -534,7 +571,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=37"
+      "appLink": "weread://reading?bId=831995&chapterUid=37",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=37"
     },
     {
       "chapterUid": 38,
@@ -546,7 +584,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=38"
+      "appLink": "weread://reading?bId=831995&chapterUid=38",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=38"
     },
     {
       "chapterUid": 39,
@@ -564,7 +603,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=39"
+      "appLink": "weread://reading?bId=831995&chapterUid=39",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=39"
     },
     {
       "chapterUid": 40,
@@ -576,7 +616,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=40"
+      "appLink": "weread://reading?bId=831995&chapterUid=40",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=40"
     },
     {
       "chapterUid": 41,
@@ -594,7 +635,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=41"
+      "appLink": "weread://reading?bId=831995&chapterUid=41",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=41"
     },
     {
       "chapterUid": 42,
@@ -606,7 +648,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=42"
+      "appLink": "weread://reading?bId=831995&chapterUid=42",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=42"
     },
     {
       "chapterUid": 43,
@@ -624,7 +667,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=43"
+      "appLink": "weread://reading?bId=831995&chapterUid=43",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=43"
     },
     {
       "chapterUid": 44,
@@ -636,7 +680,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=44"
+      "appLink": "weread://reading?bId=831995&chapterUid=44",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=44"
     },
     {
       "chapterUid": 45,
@@ -648,7 +693,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=45"
+      "appLink": "weread://reading?bId=831995&chapterUid=45",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=45"
     },
     {
       "chapterUid": 46,
@@ -660,7 +706,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=46"
+      "appLink": "weread://reading?bId=831995&chapterUid=46",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=46"
     },
     {
       "chapterUid": 47,
@@ -678,7 +725,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=47"
+      "appLink": "weread://reading?bId=831995&chapterUid=47",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=47"
     },
     {
       "chapterUid": 48,
@@ -690,7 +738,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=48"
+      "appLink": "weread://reading?bId=831995&chapterUid=48",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=48"
     },
     {
       "chapterUid": 49,
@@ -708,7 +757,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=49"
+      "appLink": "weread://reading?bId=831995&chapterUid=49",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=49"
     },
     {
       "chapterUid": 50,
@@ -720,7 +770,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=50"
+      "appLink": "weread://reading?bId=831995&chapterUid=50",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=50"
     },
     {
       "chapterUid": 51,
@@ -738,7 +789,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=51"
+      "appLink": "weread://reading?bId=831995&chapterUid=51",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=51"
     },
     {
       "chapterUid": 52,
@@ -750,7 +802,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=52"
+      "appLink": "weread://reading?bId=831995&chapterUid=52",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=52"
     },
     {
       "chapterUid": 53,
@@ -768,7 +821,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=53"
+      "appLink": "weread://reading?bId=831995&chapterUid=53",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=53"
     },
     {
       "chapterUid": 54,
@@ -780,7 +834,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=54"
+      "appLink": "weread://reading?bId=831995&chapterUid=54",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=54"
     },
     {
       "chapterUid": 55,
@@ -792,7 +847,8 @@
       "paid": 0,
       "isMPChapter": 0,
       "anchors": [],
-      "appLink": "weread://reading?bId=831995&chapterUid=55"
+      "appLink": "weread://reading?bId=831995&chapterUid=55",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=55"
     },
     {
       "chapterUid": 56,
@@ -810,7 +866,8 @@
           "level": 2
         }
       ],
-      "appLink": "weread://reading?bId=831995&chapterUid=56"
+      "appLink": "weread://reading?bId=831995&chapterUid=56",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=56"
     }
   ],
   "content": [
@@ -830,7 +887,8 @@
           "createTime": 1695023552,
           "createTimeFormatted": "2023-09-18 15:52:32",
           "chapterUid": 4,
-          "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1326&rangeEnd=1356"
+          "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1326&rangeEnd=1356",
+          "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=4&rangeStart=1326&rangeEnd=1356"
         }
       ]
     }
@@ -843,15 +901,17 @@
       "range": "1324-1356",
       "markText": "因为我觉得一个人若诚恳地生活过，那他一定是生活在一个遥远的地方。",
       "totalCount": 2329,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1324&rangeEnd=1356"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1324&rangeEnd=1356",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=4&rangeStart=1324&rangeEnd=1356"
     },
     {
       "bookmarkId": "831995_14_1227-1245",
       "chapterUid": 14,
       "range": "1227-1245",
       "markText": "因为一个人放下的事情越多，他越富有。",
-      "totalCount": 1568,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=14&rangeStart=1227&rangeEnd=1245"
+      "totalCount": 1584,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=14&rangeStart=1227&rangeEnd=1245",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=14&rangeStart=1227&rangeEnd=1245"
     },
     {
       "bookmarkId": "831995_4_485-553",
@@ -859,7 +919,8 @@
       "range": "485-553",
       "markText": "我步入丛林，因为我希望活得从容不迫，希望活得深刻，汲取生命中的所有精华，把非生命的一切都击溃，以免在我临终的时候，发现自己从没有活过……",
       "totalCount": 1428,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=485&rangeEnd=553"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=485&rangeEnd=553",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=4&rangeStart=485&rangeEnd=553"
     },
     {
       "bookmarkId": "831995_5_10430-10476",
@@ -867,7 +928,8 @@
       "range": "10430-10476",
       "markText": "人们羡慕的那种成功者的生活，只不过是生活方式中的一种。为什么我们要夸耀这一种，贬低别一种呢？",
       "totalCount": 1292,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=10430&rangeEnd=10476"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=10430&rangeEnd=10476",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=10430&rangeEnd=10476"
     },
     {
       "bookmarkId": "831995_9_9015-9053",
@@ -875,7 +937,8 @@
       "range": "9015-9053",
       "markText": "耗费生命中最宝贵的时间来赚钱，只是为了在最不宝贵的时间里享受一点可怜的自由，",
       "totalCount": 1173,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=9&rangeStart=9015&rangeEnd=9053"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=9&rangeStart=9015&rangeEnd=9053",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=9&rangeStart=9015&rangeEnd=9053"
     },
     {
       "bookmarkId": "831995_5_5761-5813",
@@ -883,7 +946,8 @@
       "range": "5761-5813",
       "markText": "当一个人把他想象的事实提炼为自己所理解的事实时，我敢预言说，所有的人最终都会在那个基础上建筑他们的生活。",
       "totalCount": 1152,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=5761&rangeEnd=5813"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=5761&rangeEnd=5813",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=5761&rangeEnd=5813"
     },
     {
       "bookmarkId": "831995_3_1468-1546",
@@ -891,7 +955,8 @@
       "range": "1468-1546",
       "markText": "他通过自己的生活实验，告诉世人不要因纷繁复杂的生活而失去了生活的方向和意义。他认为人们只有淳朴地生活，才能摒弃内心的焦虑，才能享受到内心的平静、轻松和愉悦。",
       "totalCount": 1136,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=3&rangeStart=1468&rangeEnd=1546"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=3&rangeStart=1468&rangeEnd=1546",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=3&rangeStart=1468&rangeEnd=1546"
     },
     {
       "bookmarkId": "831995_5_4238-4273",
@@ -899,15 +964,17 @@
       "range": "4238-4273",
       "markText": "生活不过是一场试验，老年人只不过先于我体验过了而已，但却于我丝毫无益。",
       "totalCount": 1065,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=4238&rangeEnd=4273"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=4238&rangeEnd=4273",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=4238&rangeEnd=4273"
     },
     {
       "bookmarkId": "831995_21_2712-2731",
       "chapterUid": 21,
       "range": "2712-2731",
       "markText": "命运之路无数条，那么，走你自己的路吧。",
-      "totalCount": 1050,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=21&rangeStart=2712&rangeEnd=2731"
+      "totalCount": 1060,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=21&rangeStart=2712&rangeEnd=2731",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=21&rangeStart=2712&rangeEnd=2731"
     },
     {
       "bookmarkId": "831995_5_4459-4517",
@@ -915,7 +982,8 @@
       "range": "4459-4517",
       "markText": "有些东西，在特定的情况下确实是生活的必需品，而换了一个场合，就变成了奢侈品，再换了别的场合，又可能是闻所未闻的东西。",
       "totalCount": 980,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=4459&rangeEnd=4517"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=4459&rangeEnd=4517",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=4459&rangeEnd=4517"
     },
     {
       "bookmarkId": "831995_5_2498-2559",
@@ -923,7 +991,8 @@
       "range": "2498-2559",
       "markText": "我们天性中最美好的品格，好似果实上的粉霜一样，只有精心呵护才能使之完好保存。然而，我们对待自己和他人都缺乏这份温柔的情意。",
       "totalCount": 960,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=2498&rangeEnd=2559"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=2498&rangeEnd=2559",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=2498&rangeEnd=2559"
     },
     {
       "bookmarkId": "831995_5_1198-1270",
@@ -931,7 +1000,8 @@
       "range": "1198-1270",
       "markText": "是谁让自己变成了土地的奴隶？半亩方塘已足以，为何还要贪恋更多？为什么人们要自掘坟墓？他们本应该轻松地活着，摆脱一切包袱，尽可能地把日子过得好些。",
       "totalCount": 952,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=1198&rangeEnd=1270"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=1198&rangeEnd=1270",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=1198&rangeEnd=1270"
     },
     {
       "bookmarkId": "831995_5_1606-1646",
@@ -939,15 +1009,26 @@
       "range": "1606-1646",
       "markText": "人们是在误导下辛勤劳作的啊。人的一生中最美好的年华大半被犁头耕入泥土，化为肥料。",
       "totalCount": 918,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=1606&rangeEnd=1646"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=1606&rangeEnd=1646",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=1606&rangeEnd=1646"
     },
     {
       "bookmarkId": "831995_4_1432-1467",
       "chapterUid": 4,
       "range": "1432-1467",
       "markText": "我相信，没有人会削足适履，只有合乎尺寸的衣履才能给予恰到好处的舒适感。",
-      "totalCount": 868,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1432&rangeEnd=1467"
+      "totalCount": 882,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=4&rangeStart=1432&rangeEnd=1467",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=4&rangeStart=1432&rangeEnd=1467"
+    },
+    {
+      "bookmarkId": "831995_5_3428-3479",
+      "chapterUid": 5,
+      "range": "3428-3479",
+      "markText": "和我们的自知之明相比较，公众舆论只不过是一个懦弱的暴君。正是一个人如何看待自己，往往决定了此人的命运。",
+      "totalCount": 810,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=3428&rangeEnd=3479",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=3428&rangeEnd=3479"
     },
     {
       "bookmarkId": "831995_8_3007-3063",
@@ -955,15 +1036,17 @@
       "range": "3007-3063",
       "markText": "我桌上有3块石灰石，每天都需要拂拭，真让我震惊，我头脑中的灰尘还来不及拂拭呢，于是我毫不犹豫地把它们扔出了窗子。",
       "totalCount": 810,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=8&rangeStart=3007&rangeEnd=3063"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=8&rangeStart=3007&rangeEnd=3063",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=8&rangeStart=3007&rangeEnd=3063"
     },
     {
-      "bookmarkId": "831995_5_3428-3479",
+      "bookmarkId": "831995_5_2371-2450",
       "chapterUid": 5,
-      "range": "3428-3479",
-      "markText": "和我们的自知之明相比较，公众舆论只不过是一个懦弱的暴君。正是一个人如何看待自己，往往决定了此人的命运。",
-      "totalCount": 790,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=3428&rangeEnd=3479"
+      "range": "2371-2450",
+      "markText": "除了做一台机器之外，他没时间来做别的。他怎能意识到自己的无知呢，而他也正是在无知中成长——尽管他偶尔也会动动脑子，但是最后也不得不放弃，老老实实地做一个白痴。",
+      "totalCount": 710,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=2371&rangeEnd=2450",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=2371&rangeEnd=2450"
     },
     {
       "bookmarkId": "831995_12_2499-2546",
@@ -971,15 +1054,8 @@
       "range": "2499-2546",
       "markText": "一个单独旅行的人随时都能出发；而如果结伴而行的话就得等同行准备就绪，也许等很长的时间才能动身。",
       "totalCount": 705,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=12&rangeStart=2499&rangeEnd=2546"
-    },
-    {
-      "bookmarkId": "831995_5_2371-2450",
-      "chapterUid": 5,
-      "range": "2371-2450",
-      "markText": "除了做一台机器之外，他没时间来做别的。他怎能意识到自己的无知呢，而他也正是在无知中成长——尽管他偶尔也会动动脑子，但是最后也不得不放弃，老老实实地做一个白痴。",
-      "totalCount": 700,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=2371&rangeEnd=2450"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=12&rangeStart=2499&rangeEnd=2546",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=12&rangeStart=2499&rangeEnd=2546"
     },
     {
       "bookmarkId": "831995_5_7347-7419",
@@ -987,7 +1063,8 @@
       "range": "7347-7419",
       "markText": "其实大部分的奢侈品和所谓使生活舒适的物质，非但没有必要，而且还会阻碍人类进步。就于奢侈与舒适来说，智慧的人的生活实际上过得比穷人更加简单和朴素。",
       "totalCount": 624,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=7347&rangeEnd=7419"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=7347&rangeEnd=7419",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=7347&rangeEnd=7419"
     },
     {
       "bookmarkId": "831995_5_9241-9287",
@@ -995,7 +1072,8 @@
       "range": "9241-9287",
       "markText": "说真的，对于日出我虽然没有助之一臂之力，但不要怀疑，日出之时有人在场就是一件非常重要的事了。",
       "totalCount": 610,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=9241&rangeEnd=9287"
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=9241&rangeEnd=9287",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=9241&rangeEnd=9287"
     }
   ],
   "readProgress": {
