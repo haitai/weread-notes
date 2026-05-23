@@ -14,10 +14,10 @@
     "isbn": "9787550269538",
     "wordCount": 0,
     "newRating": 869,
-    "newRatingCount": 9216,
+    "newRatingCount": 9219,
     "newRatingDetail": {
-      "good": 8060,
-      "fair": 1115,
+      "good": 8062,
+      "fair": 1116,
       "poor": 41,
       "recent": 41,
       "deepV": 275,
@@ -25,7 +25,7 @@
       "title": "好评如潮"
     },
     "appLink": "weread://reading?bId=811769",
-    "lastSync": "2026-05-22T18:38:30Z",
+    "lastSync": "2026-05-23T18:05:55Z",
     "readingProgress": "1%",
     "readingTime": "0分钟",
     "finishedDate": "",
