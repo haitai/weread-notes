@@ -1,5 +1,5 @@
 {
-  "lastGlobalSync": "2026-05-22T18:48:47Z",
+  "lastGlobalSync": "2026-05-23T17:54:33Z",
   "books": {
     "812443": {
       "title": "白鹿原",
@@ -35,11 +35,11 @@
       "title": "水浒传（金圣叹点评经典版）",
       "category": "文学",
       "path": "文学/水浒传（金圣叹点评经典版）_4004/3300184004.json",
-      "sort": 1770824884,
+      "sort": 1769500945,
       "noteCount": 0,
       "reviewCount": 1,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-22T18:35:16Z"
+      "lastSync": "2026-05-23T17:53:06Z"
     },
     "3300045992": {
       "title": "文白对照全译资治通鉴（套装共7册）",
@@ -65,21 +65,21 @@
       "title": "卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）",
       "category": "未分类",
       "path": "未分类/卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）_N3Dl/CB_5exDS3DNy5b16rT6t9GUN3Dl.json",
-      "sort": 1734510603,
+      "sort": 1728825941,
       "noteCount": 0,
       "reviewCount": 1,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-22T18:41:36Z"
+      "lastSync": "2026-05-23T17:53:23Z"
     },
     "CB_9Oo60E61xBFf6r96p0BTf0Ed": {
       "title": "千脑智能",
       "category": "未分类",
       "path": "未分类/千脑智能_f0Ed/CB_9Oo60E61xBFf6r96p0BTf0Ed.json",
-      "sort": 1729743957,
+      "sort": 1727576298,
       "noteCount": 14,
-      "reviewCount": 20,
+      "reviewCount": 33,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-22T18:48:05Z"
+      "lastSync": "2026-05-23T17:54:33Z"
     },
     "831995": {
       "title": "瓦尔登湖：世界上最修心的地方",
@@ -1305,11 +1305,11 @@
       "title": "成瘾：在放纵中寻找平衡",
       "category": "科学技术",
       "path": "科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.json",
-      "sort": 1779466881,
+      "sort": 1779466500,
       "noteCount": 3,
       "reviewCount": 5,
       "bookmarkCount": 0,
-      "lastSync": "2026-05-22T18:37:50Z"
+      "lastSync": "2026-05-23T17:52:51Z"
     }
   }
 }
