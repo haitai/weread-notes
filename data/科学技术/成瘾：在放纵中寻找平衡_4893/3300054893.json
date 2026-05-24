@@ -11,29 +11,27 @@
     "publishTime": "2023-03-01 00:00:00",
     "isbn": "9787513350068",
     "wordCount": 0,
-    "newRating": 786,
-    "newRatingCount": 3856,
+    "newRating": 785,
+    "newRatingCount": 3857,
     "newRatingDetail": {
-      "good": 2967,
-      "fair": 750,
+      "good": 2966,
+      "fair": 752,
       "poor": 139,
-      "recent": 52,
+      "recent": 53,
       "deepV": 1072,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-05-23T18:04:49Z",
+    "lastSync": "2026-05-24T17:50:42Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
-    "coverDownloaded": true,
-    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
   },
   "chapters": [
     {
@@ -577,22 +575,22 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=2134&rangeEnd=2168"
     },
     {
-      "bookmarkId": "3300054893_12_2172-2225",
-      "chapterUid": 12,
-      "range": "2172-2225",
-      "markText": "有效自我约束的关键是，首先承认我们会在强烈的欲望下丧失自主性，然后在我们尚有自主选择能力的时候来约束自己。",
-      "totalCount": 1482,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=2172&rangeEnd=2225",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=2172&rangeEnd=2225"
-    },
-    {
       "bookmarkId": "3300054893_9_9825-9899",
       "chapterUid": 9,
       "range": "9825-9899",
       "markText": "一些赌博成瘾的患者告诉我，在赌博的时候，他们希望暂时输钱。开始输得越多，继续赌博的冲动就越强烈，再赢钱后的快感也越高——这种现象被称为“追逐损失”。",
-      "totalCount": 1456,
+      "totalCount": 1504,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=9825&rangeEnd=9899",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=9825&rangeEnd=9899"
+    },
+    {
+      "bookmarkId": "3300054893_12_2172-2225",
+      "chapterUid": 12,
+      "range": "2172-2225",
+      "markText": "有效自我约束的关键是，首先承认我们会在强烈的欲望下丧失自主性，然后在我们尚有自主选择能力的时候来约束自己。",
+      "totalCount": 1495,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=2172&rangeEnd=2225",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=2172&rangeEnd=2225"
     },
     {
       "bookmarkId": "3300054893_7_8061-8119",
