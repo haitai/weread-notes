@@ -14,9 +14,9 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 908,
-    "newRatingCount": 4140,
+    "newRatingCount": 4143,
     "newRatingDetail": {
-      "good": 3825,
+      "good": 3828,
       "fair": 239,
       "poor": 76,
       "recent": 80,
@@ -25,7 +25,7 @@
       "title": "神作"
     },
     "appLink": "weread://reading?bId=3300010434",
-    "lastSync": "2026-05-23T17:58:22Z",
+    "lastSync": "2026-05-24T17:55:56Z",
     "readingProgress": "1%",
     "readingTime": "0分钟",
     "finishedDate": "",
