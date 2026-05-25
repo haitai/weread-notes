@@ -11,26 +11,27 @@
     "publishTime": "2013-09-01 00:00:00",
     "isbn": "9787511338402",
     "wordCount": 0,
-    "newRating": 821,
-    "newRatingCount": 913,
+    "newRating": 820,
+    "newRatingCount": 917,
     "newRatingDetail": {
-      "good": 742,
-      "fair": 135,
+      "good": 745,
+      "fair": 136,
       "poor": 36,
-      "recent": 11,
-      "deepV": 124,
+      "recent": 12,
+      "deepV": 125,
       "myRating": "",
       "title": "脍炙人口"
     },
     "appLink": "weread://reading?bId=831995",
     "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a",
-    "lastSync": "2026-05-22T00:00:52Z",
+    "lastSync": "2026-05-25T19:12:14Z",
     "readingProgress": "25%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
-    "bookmarkCount": 0
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
   },
   "chapters": [
     {
@@ -959,6 +960,15 @@
       "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=3&rangeStart=1468&rangeEnd=1546"
     },
     {
+      "bookmarkId": "831995_21_2712-2731",
+      "chapterUid": 21,
+      "range": "2712-2731",
+      "markText": "命运之路无数条，那么，走你自己的路吧。",
+      "totalCount": 1070,
+      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=21&rangeStart=2712&rangeEnd=2731",
+      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=21&rangeStart=2712&rangeEnd=2731"
+    },
+    {
       "bookmarkId": "831995_5_4238-4273",
       "chapterUid": 5,
       "range": "4238-4273",
@@ -966,15 +976,6 @@
       "totalCount": 1065,
       "appLink": "weread://bestbookmark?bookId=831995&chapterUid=5&rangeStart=4238&rangeEnd=4273",
       "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=5&rangeStart=4238&rangeEnd=4273"
-    },
-    {
-      "bookmarkId": "831995_21_2712-2731",
-      "chapterUid": 21,
-      "range": "2712-2731",
-      "markText": "命运之路无数条，那么，走你自己的路吧。",
-      "totalCount": 1060,
-      "appLink": "weread://bestbookmark?bookId=831995&chapterUid=21&rangeStart=2712&rangeEnd=2731",
-      "webLink": "https://weread.qq.com/web/reader/7dc32b205cb1fb7dc9c5c7a?chapterUid=21&rangeStart=2712&rangeEnd=2731"
     },
     {
       "bookmarkId": "831995_5_4459-4517",

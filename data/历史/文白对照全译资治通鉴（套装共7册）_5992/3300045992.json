@@ -24,13 +24,14 @@
     },
     "appLink": "weread://reading?bId=3300045992",
     "webLink": "https://weread.qq.com/web/reader/5ca32310813ab7877g012423",
-    "lastSync": "2026-05-21T23:59:12Z",
+    "lastSync": "2026-05-25T19:11:44Z",
     "readingProgress": "0%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 0,
     "reviewCount": 0,
-    "bookmarkCount": 0
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
   },
   "chapters": [
     {
@@ -4158,6 +4159,15 @@
       "webLink": "https://weread.qq.com/web/reader/5ca32310813ab7877g012423?chapterUid=5&rangeStart=2791&rangeEnd=2825"
     },
     {
+      "bookmarkId": "3300045992_5_5991-6547",
+      "chapterUid": 5,
+      "range": "5991-6547",
+      "markText": "两人辞出后，疵进来说：“主人为什么把臣子的话告诉他们两个呢？”智伯说：“你怎么知道的？”疵回答说：“臣刚才看他们对我仔细端详，且步伐匆促，就知道他们的心情了！”智伯不听劝告。疵为了避祸，请求出使齐国。",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=3300045992&chapterUid=5&rangeStart=5991&rangeEnd=6547",
+      "webLink": "https://weread.qq.com/web/reader/5ca32310813ab7877g012423?chapterUid=5&rangeStart=5991&rangeEnd=6547"
+    },
+    {
       "bookmarkId": "3300045992_5_1140-1161",
       "chapterUid": 5,
       "range": "1140-1161",
@@ -4183,15 +4193,6 @@
       "totalCount": 90,
       "appLink": "weread://bestbookmark?bookId=3300045992&chapterUid=13&rangeStart=6456&rangeEnd=6530",
       "webLink": "https://weread.qq.com/web/reader/5ca32310813ab7877g012423?chapterUid=13&rangeStart=6456&rangeEnd=6530"
-    },
-    {
-      "bookmarkId": "3300045992_5_5991-6547",
-      "chapterUid": 5,
-      "range": "5991-6547",
-      "markText": "两人辞出后，疵进来说：“主人为什么把臣子的话告诉他们两个呢？”智伯说：“你怎么知道的？”疵回答说：“臣刚才看他们对我仔细端详，且步伐匆促，就知道他们的心情了！”智伯不听劝告。疵为了避祸，请求出使齐国。",
-      "totalCount": 80,
-      "appLink": "weread://bestbookmark?bookId=3300045992&chapterUid=5&rangeStart=5991&rangeEnd=6547",
-      "webLink": "https://weread.qq.com/web/reader/5ca32310813ab7877g012423?chapterUid=5&rangeStart=5991&rangeEnd=6547"
     },
     {
       "bookmarkId": "3300045992_5_9216-9285",

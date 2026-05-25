@@ -12,9 +12,9 @@
     "isbn": "9787559476289",
     "wordCount": 0,
     "newRating": 865,
-    "newRatingCount": 797,
+    "newRatingCount": 798,
     "newRatingDetail": {
-      "good": 689,
+      "good": 690,
       "fair": 95,
       "poor": 13,
       "recent": 7,
@@ -24,13 +24,14 @@
     },
     "appLink": "weread://reading?bId=3300063149",
     "webLink": "https://weread.qq.com/web/reader/d4432490813ab7f2ag019275",
-    "lastSync": "2026-05-21T23:59:23Z",
+    "lastSync": "2026-05-25T19:11:59Z",
     "readingProgress": "97%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
-    "bookmarkCount": 0
+    "bookmarkCount": 0,
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
   },
   "chapters": [
     {
