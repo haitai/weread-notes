@@ -12,28 +12,26 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 785,
-    "newRatingCount": 3857,
+    "newRatingCount": 3859,
     "newRatingDetail": {
-      "good": 2966,
-      "fair": 752,
+      "good": 2967,
+      "fair": 753,
       "poor": 139,
-      "recent": 53,
-      "deepV": 1072,
+      "recent": 52,
+      "deepV": 1073,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-05-24T18:01:58Z",
+    "lastSync": "2026-05-25T18:20:52Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
-    "coverDownloaded": true,
-    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
   },
   "chapters": [
     {
@@ -514,6 +512,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=13&rangeStart=12209&rangeEnd=12255"
     },
     {
+      "bookmarkId": "3300054893_12_19544-19560",
+      "chapterUid": 12,
+      "range": "19544-19560",
+      "markText": "约束自己也是获得自由的方法之一。",
+      "totalCount": 1760,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=19544&rangeEnd=19560",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
+    },
+    {
       "bookmarkId": "3300054893_8_4444-4521",
       "chapterUid": 8,
       "range": "4444-4521",
@@ -521,15 +528,6 @@
       "totalCount": 1751,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=4444&rangeEnd=4521",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=4444&rangeEnd=4521"
-    },
-    {
-      "bookmarkId": "3300054893_12_19544-19560",
-      "chapterUid": 12,
-      "range": "19544-19560",
-      "markText": "约束自己也是获得自由的方法之一。",
-      "totalCount": 1750,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=19544&rangeEnd=19560",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
     },
     {
       "bookmarkId": "3300054893_9_6642-6683",
@@ -545,7 +543,7 @@
       "chapterUid": 7,
       "range": "16067-16121",
       "markText": "人类是群居动物。当我们在网上看到其他人以某种方式行事时，这些行为似乎就有了“正常性”，因为其他人都在这样做。",
-      "totalCount": 1683,
+      "totalCount": 1700,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=16067&rangeEnd=16121",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=16067&rangeEnd=16121"
     },
