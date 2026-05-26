@@ -14,6 +14,14 @@ on:
         options:
           - 'true'
           - 'false'
+      force_sync:
+        description: 'Force sync all books (skip smart skip)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 concurrency:
   group: weread-shelf-sync
@@ -62,10 +70,14 @@ jobs:
         NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         GITHUB_REPOSITORY: ${{ github.repository }}
       run: |
-        echo "Starting shelf sync (all books)..."
+        echo "Starting shelf sync (smart skip enabled)..."
         SYNC_ARGS="--mode shelf"
         if [ "${{ inputs.sync_notion }}" = "false" ]; then
           SYNC_ARGS="$SYNC_ARGS --no-notion"
+        fi
+        if [ "${{ inputs.force_sync }}" = "true" ]; then
+          SYNC_ARGS="$SYNC_ARGS --no-skip"
+          echo "Force mode: will process all books"
         fi
         python scripts/sync.py $SYNC_ARGS
 
@@ -77,8 +89,7 @@ jobs:
         git add -A
         CHANGES=$(git diff --cached --stat)
         if [ -n "$CHANGES" ]; then
-          BOOK_COUNT=$(echo "$CHANGES" | grep -c "covers/" || true)
-          git commit -m "Shelf sync: $(date +'%Y-%m-%d %H:%M:%S') ($BOOK_COUNT covers)"
+          git commit -m "Shelf sync: $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
         else
           echo "No changes to commit"

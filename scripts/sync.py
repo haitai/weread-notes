@@ -981,17 +981,24 @@ def build_shelf_book_data(shelf_book: dict, book_info: dict | None, progress: di
     return book_data
 
 
-def sync_shelf(client: WeReadClient, no_notion: bool = False):
-    """书架全量同步 — 同步书架上所有书籍（含无笔记的）
+def sync_shelf(client: WeReadClient, no_notion: bool = False, force: bool = False):
+    """书架智能同步 — 同步书架上所有书籍（含无笔记的）
 
-    1. 获取 /shelf/sync 所有书籍
-    2. 对每本书获取 /book/info 和 /book/getprogress
-    3. 如果有笔记（在 /user/notebooks 中），获取完整笔记数据
-    4. 下载封面到本地书籍目录
-    5. 保存 JSON + Markdown
-    6. 推送 Notion（如果 no_notion=False）
+    通过比对 readUpdateTime 智能跳过未变更书籍，避免全量重建。
+
+    跳过条件（force=False 时生效）：
+      - 书籍已在 index 中
+      - readUpdateTime（sort）未变
+      - 本地 JSON 文件存在
+
+    满足以上条件时只更新索引的 lastSync，不调 API、不下载封面、不推 Notion。
+
+    Args:
+        client: API 客户端
+        no_notion: 是否跳过 Notion 推送
+        force: 是否强制处理所有书（禁用智能跳过）
     """
-    logger.info("开始书架同步...")
+    logger.info("开始书架同步 (force=%s)...", force)
     index = load_index()
 
     # 获取书架所有书籍
@@ -1024,6 +1031,7 @@ def sync_shelf(client: WeReadClient, no_notion: bool = False):
         book_id = sb.get("bookId", "")
         title = sb.get("title", f"未知_{book_id}")
         category = sb.get("category", "")
+        remote_sort = sb.get("readUpdateTime", 0)
 
         logger.info("[%d/%d] 处理: %s (%s)", idx + 1, len(shelf_books), title, book_id)
 
@@ -1032,6 +1040,23 @@ def sync_shelf(client: WeReadClient, no_notion: bool = False):
             cat = extract_category(category) or "未分类"
             book_title = title
             book_dir = get_data_dir() / cat / get_folder_name(book_title, book_id)
+
+            # ---- 智能跳过：比对 readUpdateTime ----
+            if not force:
+                existing = index.get("books", {}).get(book_id)
+                if existing:
+                    local_sort = existing.get("sort", 0)
+                    # 检查本地 JSON 文件是否存在
+                    json_path_check = book_dir / f"{book_id}.json"
+                    if local_sort == remote_sort and json_path_check.exists():
+                        # readUpdateTime 未变且本地数据存在，跳过全量处理
+                        now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+                        index["books"][book_id]["lastSync"] = now_utc
+                        index["lastGlobalSync"] = now_utc
+                        save_index(index)
+                        skipped += 1
+                        logger.info("跳过未变更: %s (sort=%s)", title, remote_sort)
+                        continue
 
             if book_id in notebook_ids:
                 # 有笔记：使用完整的 fetch_book_data
@@ -1080,7 +1105,7 @@ def sync_shelf(client: WeReadClient, no_notion: bool = False):
                 "title": book_title,
                 "category": cat,
                 "path": str(book_dir_rel / f"{book_id}.json"),
-                "sort": sb.get("readUpdateTime", 0),
+                "sort": remote_sort,
                 "noteCount": book_data["meta"].get("noteCount", 0),
                 "reviewCount": book_data["meta"].get("reviewCount", 0),
                 "bookmarkCount": book_data["meta"].get("bookmarkCount", 0),
@@ -1097,8 +1122,8 @@ def sync_shelf(client: WeReadClient, no_notion: bool = False):
             continue
 
     logger.info(
-        "书架同步完成: 成功 %d, 失败 %d | Notion: 成功 %d, 失败 %d",
-        synced, failed, notion_ok, notion_fail,
+        "书架同步完成: 成功 %d, 跳过 %d, 失败 %d | Notion: 成功 %d, 失败 %d",
+        synced, skipped, failed, notion_ok, notion_fail,
     )
 
 def main():
@@ -1117,7 +1142,7 @@ def main():
     parser.add_argument(
         "--no-skip",
         action="store_true",
-        help="禁用哈希跳过，强制重建所有书（仅 full 模式有效）",
+        help="禁用智能跳过，强制重建所有书（full 和 shelf 模式有效）",
     )
     parser.add_argument(
         "--no-notion",
@@ -1142,7 +1167,7 @@ def main():
 
     try:
         if args.mode == "shelf":
-            sync_shelf(client, args.no_notion)
+            sync_shelf(client, args.no_notion, force=args.no_skip)
         elif args.mode == "full":
             sync_full(client, resume=args.resume, force=args.no_skip)
         elif args.mode == "incremental":
