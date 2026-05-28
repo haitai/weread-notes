@@ -19,13 +19,13 @@
       "good": 1208,
       "fair": 30,
       "poor": 16,
-      "recent": 3,
+      "recent": 2,
       "deepV": 93,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=24952969",
-    "lastSync": "2026-05-24T17:58:51Z",
+    "lastSync": "2026-05-28T19:33:17Z",
     "readingProgress": "5%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -38,10 +38,10 @@
   "bookReviews": [],
   "hotBookmarks": [],
   "readProgress": {
-    "chapterUid": 5415,
+    "chapterUid": 5417,
     "chapterOffset": 338,
     "progress": 5,
-    "updateTime": 1778948056,
+    "updateTime": 1779931334,
     "recordReadingTime": 0,
     "finishTime": ""
   }
