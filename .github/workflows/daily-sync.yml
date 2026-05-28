@@ -2,8 +2,8 @@ name: Daily Sync - WeRead to GitHub & Notion
 
 on:
   schedule:
-    # 每天北京时间 01 点运行 (UTC +8 点)
-    - cron: '0 17 * * *'
+    # 每天北京时间 02 点运行 (UTC +8 点)
+    - cron: '0 18 * * *'
   workflow_dispatch:  # 允许手动触发
 
 concurrency:
