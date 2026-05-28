@@ -7,12 +7,12 @@ category: ""
 publisher: "浙江人民出版社"
 publishTime: ""
 isbn: ""
-localCover: ""
+localCover: "data/未分类/千脑智能_f0Ed/CB_9Oo60E61xBFf6r96p0BTf0Ed.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_7v9CBPC930ur6i56gp5BhEE0_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-05-25T18:21:49Z"
+lastSync: "2026-05-26T19:14:53Z"
 readingProgress: "21%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -23,7 +23,7 @@ appLink: "weread://reading?bId=CB_9Oo60E61xBFf6r96p0BTf0Ed"
 webLink: "https://weread.qq.com/web/reader/0bc42913643425f394f6f363045363178424666367239367030425466304564e26"
 ---
 
-![千脑智能](https://res.weread.qq.com/wrepub/CB_7v9CBPC930ur6i56gp5BhEE0_parsecover)
+![千脑智能](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/千脑智能_f0Ed/CB_9Oo60E61xBFf6r96p0BTf0Ed.jpg)
 
 # 元数据
 
