@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-05-29T20:21:57Z",
+    "lastSync": "2026-05-30T17:58:31Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {
@@ -1398,7 +1400,7 @@
       "chapterUid": 10,
       "range": "1047-1068",
       "markText": "通过和书籍对话，可以让读书本身变得更有趣。",
-      "totalCount": 1071,
+      "totalCount": 1088,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=10&rangeStart=1047&rangeEnd=1068",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=10&rangeStart=1047&rangeEnd=1068"
     },
@@ -1443,7 +1445,7 @@
       "chapterUid": 13,
       "range": "470-518",
       "markText": "输出的魅力不在于技巧，而是其本身就能给人带来活力。经常表达自我的人，总是给人一种充满活力的感觉。",
-      "totalCount": 864,
+      "totalCount": 880,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=13&rangeStart=470&rangeEnd=518",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=13&rangeStart=470&rangeEnd=518"
     },
@@ -1452,7 +1454,7 @@
       "chapterUid": 22,
       "range": "1505-1532",
       "markText": "让更多人了解自己心爱之物的魅力，这本身就是优质的输出。",
-      "totalCount": 846,
+      "totalCount": 864,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=22&rangeStart=1505&rangeEnd=1532",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=22&rangeStart=1505&rangeEnd=1532"
     },
