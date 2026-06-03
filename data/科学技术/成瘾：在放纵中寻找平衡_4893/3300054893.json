@@ -11,27 +11,29 @@
     "publishTime": "2023-03-01 00:00:00",
     "isbn": "9787513350068",
     "wordCount": 0,
-    "newRating": 785,
-    "newRatingCount": 3874,
+    "newRating": 784,
+    "newRatingCount": 3877,
     "newRatingDetail": {
-      "good": 2976,
-      "fair": 758,
+      "good": 2977,
+      "fair": 760,
       "poor": 140,
       "recent": 53,
-      "deepV": 1080,
+      "deepV": 1081,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-06-02T20:45:47Z",
+    "lastSync": "2026-06-03T20:13:06Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -516,7 +518,7 @@
       "chapterUid": 12,
       "range": "19544-19560",
       "markText": "约束自己也是获得自由的方法之一。",
-      "totalCount": 1770,
+      "totalCount": 1780,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=19544&rangeEnd=19560",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
     },
@@ -543,7 +545,7 @@
       "chapterUid": 7,
       "range": "16067-16121",
       "markText": "人类是群居动物。当我们在网上看到其他人以某种方式行事时，这些行为似乎就有了“正常性”，因为其他人都在这样做。",
-      "totalCount": 1700,
+      "totalCount": 1717,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=16067&rangeEnd=16121",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=16067&rangeEnd=16121"
     },
@@ -597,7 +599,7 @@
       "chapterUid": 7,
       "range": "8061-8119",
       "markText": "广义的“成瘾”是指，尽管对自己和/或他人有害，但仍然持续且强迫自己消费某种东西或做出某种行为（如赌博、游戏、性爱）。",
-      "totalCount": 1320,
+      "totalCount": 1330,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
     },
