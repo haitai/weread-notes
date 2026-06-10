@@ -17,21 +17,23 @@
       "good": 470,
       "fair": 156,
       "poor": 20,
-      "recent": 25,
+      "recent": 23,
       "deepV": 390,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-06-09T20:04:33Z",
+    "lastSync": "2026-06-10T19:29:39Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {
@@ -1484,6 +1486,15 @@
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=14&rangeStart=1670&rangeEnd=1718"
     },
     {
+      "bookmarkId": "3300111091_12_1437-1478",
+      "chapterUid": 12,
+      "range": "1437-1478",
+      "markText": "将拙劣与否、有价值与否抛至脑后，大胆说出口、大胆采取行动的勇气才是通往成熟的捷径。",
+      "totalCount": 756,
+      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=1437&rangeEnd=1478",
+      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=1437&rangeEnd=1478"
+    },
+    {
       "bookmarkId": "3300111091_5_1066-1085",
       "chapterUid": 5,
       "range": "1066-1085",
@@ -1500,15 +1511,6 @@
       "totalCount": 750,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=19&rangeStart=1619&rangeEnd=1656",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=19&rangeStart=1619&rangeEnd=1656"
-    },
-    {
-      "bookmarkId": "3300111091_12_1437-1478",
-      "chapterUid": 12,
-      "range": "1437-1478",
-      "markText": "将拙劣与否、有价值与否抛至脑后，大胆说出口、大胆采取行动的勇气才是通往成熟的捷径。",
-      "totalCount": 744,
-      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=1437&rangeEnd=1478",
-      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=1437&rangeEnd=1478"
     },
     {
       "bookmarkId": "3300111091_7_662-699",

@@ -17,21 +17,23 @@
       "good": 2980,
       "fair": 763,
       "poor": 141,
-      "recent": 52,
+      "recent": 49,
       "deepV": 1082,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-06-09T20:04:58Z",
+    "lastSync": "2026-06-10T19:29:15Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -498,7 +500,7 @@
       "chapterUid": 9,
       "range": "12671-12715",
       "markText": "如果我们长时间反复接受愉悦的刺激，那么我们忍受痛苦的能力就会降低，快乐的门槛也随之提高。",
-      "totalCount": 2338,
+      "totalCount": 2352,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=12671&rangeEnd=12715",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=12671&rangeEnd=12715"
     },
