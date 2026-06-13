@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-06-12T20:07:10Z",
+    "lastSync": "2026-06-13T18:04:15Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {
@@ -1416,7 +1418,7 @@
       "chapterUid": 17,
       "range": "683-710",
       "markText": "流行的东西，必有其流行的理由。亲自验证一下，稳赚不赔。",
-      "totalCount": 986,
+      "totalCount": 1003,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=17&rangeStart=683&rangeEnd=710",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=17&rangeStart=683&rangeEnd=710"
     },
@@ -1484,6 +1486,15 @@
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=14&rangeStart=1670&rangeEnd=1718"
     },
     {
+      "bookmarkId": "3300111091_5_1066-1085",
+      "chapterUid": 5,
+      "range": "1066-1085",
+      "markText": "要以“输入1：输出9”这一比例为目标。",
+      "totalCount": 767,
+      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=5&rangeStart=1066&rangeEnd=1085",
+      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=5&rangeStart=1066&rangeEnd=1085"
+    },
+    {
       "bookmarkId": "3300111091_12_1437-1478",
       "chapterUid": 12,
       "range": "1437-1478",
@@ -1491,15 +1502,6 @@
       "totalCount": 756,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=1437&rangeEnd=1478",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=1437&rangeEnd=1478"
-    },
-    {
-      "bookmarkId": "3300111091_5_1066-1085",
-      "chapterUid": 5,
-      "range": "1066-1085",
-      "markText": "要以“输入1：输出9”这一比例为目标。",
-      "totalCount": 754,
-      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=5&rangeStart=1066&rangeEnd=1085",
-      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=5&rangeStart=1066&rangeEnd=1085"
     },
     {
       "bookmarkId": "3300111091_19_1619-1656",
