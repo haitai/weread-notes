@@ -12,26 +12,28 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 784,
-    "newRatingCount": 3888,
+    "newRatingCount": 3890,
     "newRatingDetail": {
-      "good": 2984,
-      "fair": 764,
+      "good": 2985,
+      "fair": 765,
       "poor": 140,
-      "recent": 50,
+      "recent": 51,
       "deepV": 1082,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-06-14T19:23:28Z",
+    "lastSync": "2026-06-15T20:21:58Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -471,7 +473,7 @@
       "chapterUid": 8,
       "range": "10801-10828",
       "markText": "我们之所以如此痛苦，可能是因为我们一直在努力规避痛苦。",
-      "totalCount": 2856,
+      "totalCount": 2868,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=10801&rangeEnd=10828",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=10801&rangeEnd=10828"
     },
