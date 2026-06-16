@@ -12,9 +12,9 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 784,
-    "newRatingCount": 3890,
+    "newRatingCount": 3891,
     "newRatingDetail": {
-      "good": 2985,
+      "good": 2986,
       "fair": 765,
       "poor": 140,
       "recent": 51,
@@ -24,7 +24,7 @@
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-06-15T20:21:58Z",
+    "lastSync": "2026-06-16T20:04:29Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -523,6 +523,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
     },
     {
+      "bookmarkId": "3300054893_9_6642-6683",
+      "chapterUid": 9,
+      "range": "6642-6683",
+      "markText": "矛盾的是，享乐主义，即纯粹地追求快乐，会导致快感缺失，即无法享受到任何形式的快乐。",
+      "totalCount": 1755,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=6642&rangeEnd=6683",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
+    },
+    {
       "bookmarkId": "3300054893_8_4444-4521",
       "chapterUid": 8,
       "range": "4444-4521",
@@ -530,15 +539,6 @@
       "totalCount": 1751,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=4444&rangeEnd=4521",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=4444&rangeEnd=4521"
-    },
-    {
-      "bookmarkId": "3300054893_9_6642-6683",
-      "chapterUid": 9,
-      "range": "6642-6683",
-      "markText": "矛盾的是，享乐主义，即纯粹地追求快乐，会导致快感缺失，即无法享受到任何形式的快乐。",
-      "totalCount": 1740,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=6642&rangeEnd=6683",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
     },
     {
       "bookmarkId": "3300054893_7_16067-16121",
@@ -595,6 +595,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=2134&rangeEnd=2168"
     },
     {
+      "bookmarkId": "3300054893_8_9782-9836",
+      "chapterUid": 8,
+      "range": "9782-9836",
+      "markText": "我们总会做点儿什么将注意力从自己身上移开。然而，所有这些试图让自己远离痛苦的努力似乎只会让我们变得更加痛苦。",
+      "totalCount": 1339,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=9782&rangeEnd=9836",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=9782&rangeEnd=9836"
+    },
+    {
       "bookmarkId": "3300054893_7_8061-8119",
       "chapterUid": 7,
       "range": "8061-8119",
@@ -602,15 +611,6 @@
       "totalCount": 1330,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
-    },
-    {
-      "bookmarkId": "3300054893_8_9782-9836",
-      "chapterUid": 8,
-      "range": "9782-9836",
-      "markText": "我们总会做点儿什么将注意力从自己身上移开。然而，所有这些试图让自己远离痛苦的努力似乎只会让我们变得更加痛苦。",
-      "totalCount": 1326,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=9782&rangeEnd=9836",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=9782&rangeEnd=9836"
     },
     {
       "bookmarkId": "3300054893_15_2726-2791",

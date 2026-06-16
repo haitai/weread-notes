@@ -11,20 +11,20 @@
     "publishTime": "2021-09-01 00:00:00",
     "isbn": "9787533965242",
     "wordCount": 0,
-    "newRating": 773,
-    "newRatingCount": 650,
+    "newRating": 774,
+    "newRatingCount": 651,
     "newRatingDetail": {
-      "good": 473,
+      "good": 474,
       "fair": 157,
       "poor": 20,
       "recent": 24,
-      "deepV": 391,
+      "deepV": 392,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-06-15T20:23:47Z",
+    "lastSync": "2026-06-16T20:05:58Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1522,6 +1522,15 @@
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=7&rangeStart=662&rangeEnd=699"
     },
     {
+      "bookmarkId": "3300111091_12_880-940",
+      "chapterUid": 12,
+      "range": "880-940",
+      "markText": "输出需要“知”（知识量及判断力）、“仁”（善意及诚意）、“勇”（勇气）三大要素。其中最重要的是“勇”。勇气比知识更重要。",
+      "totalCount": 696,
+      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=880&rangeEnd=940",
+      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=880&rangeEnd=940"
+    },
+    {
       "bookmarkId": "3300111091_20_1090-1141",
       "chapterUid": 20,
       "range": "1090-1141",
@@ -1529,15 +1538,6 @@
       "totalCount": 689,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=20&rangeStart=1090&rangeEnd=1141",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=20&rangeStart=1090&rangeEnd=1141"
-    },
-    {
-      "bookmarkId": "3300111091_12_880-940",
-      "chapterUid": 12,
-      "range": "880-940",
-      "markText": "输出需要“知”（知识量及判断力）、“仁”（善意及诚意）、“勇”（勇气）三大要素。其中最重要的是“勇”。勇气比知识更重要。",
-      "totalCount": 684,
-      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=880&rangeEnd=940",
-      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=880&rangeEnd=940"
     },
     {
       "bookmarkId": "3300111091_46_1387-1426",
