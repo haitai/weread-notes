@@ -11,11 +11,11 @@
     "publishTime": "2021-09-01 00:00:00",
     "isbn": "9787533965242",
     "wordCount": 0,
-    "newRating": 774,
+    "newRating": 775,
     "newRatingCount": 651,
     "newRatingDetail": {
-      "good": 474,
-      "fair": 157,
+      "good": 475,
+      "fair": 156,
       "poor": 20,
       "recent": 22,
       "deepV": 392,
@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-06-20T19:21:47Z",
+    "lastSync": "2026-06-21T18:16:53Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {

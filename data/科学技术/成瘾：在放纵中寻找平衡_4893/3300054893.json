@@ -12,26 +12,28 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 784,
-    "newRatingCount": 3898,
+    "newRatingCount": 3899,
     "newRatingDetail": {
       "good": 2990,
-      "fair": 767,
+      "fair": 768,
       "poor": 141,
-      "recent": 50,
-      "deepV": 1084,
+      "recent": 51,
+      "deepV": 1085,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-06-20T19:22:17Z",
+    "lastSync": "2026-06-21T18:15:29Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -480,7 +482,7 @@
       "chapterUid": 9,
       "range": "1311-1368",
       "markText": "多巴胺的主要作用不是让人们在获得奖励后感到快乐，而是驱动人们产生获得奖励的动机。它促进了“想要”，而不是“喜欢”。",
-      "totalCount": 2565,
+      "totalCount": 2580,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=1311&rangeEnd=1368",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=1311&rangeEnd=1368"
     },
@@ -498,7 +500,7 @@
       "chapterUid": 9,
       "range": "12671-12715",
       "markText": "如果我们长时间反复接受愉悦的刺激，那么我们忍受痛苦的能力就会降低，快乐的门槛也随之提高。",
-      "totalCount": 2394,
+      "totalCount": 2408,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=12671&rangeEnd=12715",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=12671&rangeEnd=12715"
     },
@@ -516,7 +518,7 @@
       "chapterUid": 12,
       "range": "19544-19560",
       "markText": "约束自己也是获得自由的方法之一。",
-      "totalCount": 1820,
+      "totalCount": 1830,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=19544&rangeEnd=19560",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
     },
@@ -530,6 +532,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
     },
     {
+      "bookmarkId": "3300054893_8_4444-4521",
+      "chapterUid": 8,
+      "range": "4444-4521",
+      "markText": "但我担心，他们的童年被过度净化，甚至达到了病态的程度，在一个相当于软壁病房的环境中抚养孩子，孩子不会受伤害，但与此同时，他们也无法为步入这个世界做好准备。",
+      "totalCount": 1768,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=4444&rangeEnd=4521",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=4444&rangeEnd=4521"
+    },
+    {
       "bookmarkId": "3300054893_7_16067-16121",
       "chapterUid": 7,
       "range": "16067-16121",
@@ -537,15 +548,6 @@
       "totalCount": 1751,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=16067&rangeEnd=16121",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=16067&rangeEnd=16121"
-    },
-    {
-      "bookmarkId": "3300054893_8_4444-4521",
-      "chapterUid": 8,
-      "range": "4444-4521",
-      "markText": "但我担心，他们的童年被过度净化，甚至达到了病态的程度，在一个相当于软壁病房的环境中抚养孩子，孩子不会受伤害，但与此同时，他们也无法为步入这个世界做好准备。",
-      "totalCount": 1751,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=4444&rangeEnd=4521",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=4444&rangeEnd=4521"
     },
     {
       "bookmarkId": "3300054893_5_1176-1257",
@@ -620,15 +622,6 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
     },
     {
-      "bookmarkId": "3300054893_4_1124-1207",
-      "chapterUid": 4,
-      "range": "1124-1207",
-      "markText": "多巴胺被释放以后，大脑会相应地减少或“下调”被刺激的多巴胺受体的数量，从而导致快乐-痛苦的天平向痛苦端倾斜，以恢复平衡。所以，我们常常会在快乐过后产生宿醉感或失落感。",
-      "totalCount": 1284,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=4&rangeStart=1124&rangeEnd=1207",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=1124&rangeEnd=1207"
-    },
-    {
       "bookmarkId": "3300054893_9_4523-4578",
       "chapterUid": 9,
       "range": "4523-4578",
@@ -638,11 +631,20 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=4523&rangeEnd=4578"
     },
     {
+      "bookmarkId": "3300054893_4_1124-1207",
+      "chapterUid": 4,
+      "range": "1124-1207",
+      "markText": "多巴胺被释放以后，大脑会相应地减少或“下调”被刺激的多巴胺受体的数量，从而导致快乐-痛苦的天平向痛苦端倾斜，以恢复平衡。所以，我们常常会在快乐过后产生宿醉感或失落感。",
+      "totalCount": 1272,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=4&rangeStart=1124&rangeEnd=1207",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=1124&rangeEnd=1207"
+    },
+    {
       "bookmarkId": "3300054893_4_1383-1446",
       "chapterUid": 4,
       "range": "1383-1446",
       "markText": "一旦停下来，我们就会体验到戒断任何成瘾物质时会出现的普遍症状：焦虑、易怒、失眠、烦躁和强烈的渴求，一心想回到那个成瘾物质身边。",
-      "totalCount": 1260,
+      "totalCount": 1245,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=4&rangeStart=1383&rangeEnd=1446",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=1383&rangeEnd=1446"
     }
