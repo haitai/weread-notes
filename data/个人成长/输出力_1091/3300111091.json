@@ -17,21 +17,23 @@
       "good": 475,
       "fair": 156,
       "poor": 20,
-      "recent": 22,
+      "recent": 20,
       "deepV": 392,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-06-21T19:26:29Z",
+    "lastSync": "2026-06-22T20:01:11Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {
@@ -1425,7 +1427,7 @@
       "chapterUid": 15,
       "range": "633-677",
       "markText": "有一个非常好的练习方法。在读书的过程中，每阅读5—10页，就尝试针对其中的内容进行叙述。",
-      "totalCount": 918,
+      "totalCount": 936,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=15&rangeStart=633&rangeEnd=677",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=15&rangeStart=633&rangeEnd=677"
     },
