@@ -17,14 +17,14 @@
       "good": 475,
       "fair": 156,
       "poor": 20,
-      "recent": 20,
+      "recent": 19,
       "deepV": 392,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-06-22T20:01:11Z",
+    "lastSync": "2026-06-23T19:04:57Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1522,6 +1522,15 @@
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=7&rangeStart=662&rangeEnd=699"
     },
     {
+      "bookmarkId": "3300111091_20_1090-1141",
+      "chapterUid": 20,
+      "range": "1090-1141",
+      "markText": "如果能够坚持一些看似“微不足道”的小事，那么无论在健康上，还是在学习上，抑或是在工作上，都能有所成就。",
+      "totalCount": 702,
+      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=20&rangeStart=1090&rangeEnd=1141",
+      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=20&rangeStart=1090&rangeEnd=1141"
+    },
+    {
       "bookmarkId": "3300111091_12_880-940",
       "chapterUid": 12,
       "range": "880-940",
@@ -1529,15 +1538,6 @@
       "totalCount": 696,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=880&rangeEnd=940",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=880&rangeEnd=940"
-    },
-    {
-      "bookmarkId": "3300111091_20_1090-1141",
-      "chapterUid": 20,
-      "range": "1090-1141",
-      "markText": "如果能够坚持一些看似“微不足道”的小事，那么无论在健康上，还是在学习上，抑或是在工作上，都能有所成就。",
-      "totalCount": 689,
-      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=20&rangeStart=1090&rangeEnd=1141",
-      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=20&rangeStart=1090&rangeEnd=1141"
     },
     {
       "bookmarkId": "3300111091_46_1387-1426",
