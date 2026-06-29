@@ -12,26 +12,28 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 783,
-    "newRatingCount": 3914,
+    "newRatingCount": 3916,
     "newRatingDetail": {
-      "good": 2999,
+      "good": 3001,
       "fair": 773,
       "poor": 142,
-      "recent": 59,
-      "deepV": 1091,
+      "recent": 55,
+      "deepV": 1093,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-06-28T19:16:16Z",
+    "lastSync": "2026-06-29T18:59:56Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -489,7 +491,7 @@
       "chapterUid": 7,
       "range": "9749-9814",
       "markText": "成瘾的最大风险因素之一是成瘾物质容易获取。当某一种东西更容易获得时，我们也更有可能使用这种东西。在使用的过程中，我们很可能会上瘾。",
-      "totalCount": 2520,
+      "totalCount": 2548,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=9749&rangeEnd=9814",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=9749&rangeEnd=9814"
     },
@@ -530,6 +532,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
     },
     {
+      "bookmarkId": "3300054893_7_16067-16121",
+      "chapterUid": 7,
+      "range": "16067-16121",
+      "markText": "人类是群居动物。当我们在网上看到其他人以某种方式行事时，这些行为似乎就有了“正常性”，因为其他人都在这样做。",
+      "totalCount": 1768,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=16067&rangeEnd=16121",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=16067&rangeEnd=16121"
+    },
+    {
       "bookmarkId": "3300054893_8_4444-4521",
       "chapterUid": 8,
       "range": "4444-4521",
@@ -539,20 +550,11 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=4444&rangeEnd=4521"
     },
     {
-      "bookmarkId": "3300054893_7_16067-16121",
-      "chapterUid": 7,
-      "range": "16067-16121",
-      "markText": "人类是群居动物。当我们在网上看到其他人以某种方式行事时，这些行为似乎就有了“正常性”，因为其他人都在这样做。",
-      "totalCount": 1751,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=16067&rangeEnd=16121",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=16067&rangeEnd=16121"
-    },
-    {
       "bookmarkId": "3300054893_5_1176-1257",
       "chapterUid": 5,
       "range": "1176-1257",
       "markText": "吃完一块巧克力后渴望再吃一块；遇到一本好书、一部精彩的电影或一个好玩的电子游戏时，希望它永远不要结束。在我们产生渴求的那一刻，大脑内的天平开始向痛苦的那一边倾斜。",
-      "totalCount": 1692,
+      "totalCount": 1704,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=5&rangeStart=1176&rangeEnd=1257",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=5&rangeStart=1176&rangeEnd=1257"
     },
@@ -597,9 +599,18 @@
       "chapterUid": 8,
       "range": "9782-9836",
       "markText": "我们总会做点儿什么将注意力从自己身上移开。然而，所有这些试图让自己远离痛苦的努力似乎只会让我们变得更加痛苦。",
-      "totalCount": 1352,
+      "totalCount": 1365,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=9782&rangeEnd=9836",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=9782&rangeEnd=9836"
+    },
+    {
+      "bookmarkId": "3300054893_7_8061-8119",
+      "chapterUid": 7,
+      "range": "8061-8119",
+      "markText": "广义的“成瘾”是指，尽管对自己和/或他人有害，但仍然持续且强迫自己消费某种东西或做出某种行为（如赌博、游戏、性爱）。",
+      "totalCount": 1350,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
     },
     {
       "bookmarkId": "3300054893_15_2726-2791",
@@ -609,15 +620,6 @@
       "totalCount": 1350,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=15&rangeStart=2726&rangeEnd=2791",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=15&rangeStart=2726&rangeEnd=2791"
-    },
-    {
-      "bookmarkId": "3300054893_7_8061-8119",
-      "chapterUid": 7,
-      "range": "8061-8119",
-      "markText": "广义的“成瘾”是指，尽管对自己和/或他人有害，但仍然持续且强迫自己消费某种东西或做出某种行为（如赌博、游戏、性爱）。",
-      "totalCount": 1340,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
     },
     {
       "bookmarkId": "3300054893_4_1124-1207",
