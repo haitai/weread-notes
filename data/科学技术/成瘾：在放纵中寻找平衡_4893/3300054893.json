@@ -12,19 +12,19 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 783,
-    "newRatingCount": 3916,
+    "newRatingCount": 3917,
     "newRatingDetail": {
       "good": 3001,
-      "fair": 773,
+      "fair": 774,
       "poor": 142,
-      "recent": 55,
+      "recent": 53,
       "deepV": 1093,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-06-29T18:59:56Z",
+    "lastSync": "2026-06-30T18:29:10Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -473,7 +473,7 @@
       "chapterUid": 8,
       "range": "10801-10828",
       "markText": "我们之所以如此痛苦，可能是因为我们一直在努力规避痛苦。",
-      "totalCount": 2880,
+      "totalCount": 2892,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=10801&rangeEnd=10828",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=10801&rangeEnd=10828"
     },
@@ -509,7 +509,7 @@
       "chapterUid": 13,
       "range": "12209-12255",
       "markText": "用药物治疗人类的痛苦是需要付出代价的，而我们也会看到另外一种更加有效的方法，那就是拥抱痛苦。",
-      "totalCount": 2340,
+      "totalCount": 2358,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=13&rangeStart=12209&rangeEnd=12255",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=13&rangeStart=12209&rangeEnd=12255"
     },
@@ -527,7 +527,7 @@
       "chapterUid": 9,
       "range": "6642-6683",
       "markText": "矛盾的是，享乐主义，即纯粹地追求快乐，会导致快感缺失，即无法享受到任何形式的快乐。",
-      "totalCount": 1770,
+      "totalCount": 1785,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=6642&rangeEnd=6683",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
     },
@@ -599,9 +599,18 @@
       "chapterUid": 8,
       "range": "9782-9836",
       "markText": "我们总会做点儿什么将注意力从自己身上移开。然而，所有这些试图让自己远离痛苦的努力似乎只会让我们变得更加痛苦。",
-      "totalCount": 1365,
+      "totalCount": 1378,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=9782&rangeEnd=9836",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=9782&rangeEnd=9836"
+    },
+    {
+      "bookmarkId": "3300054893_15_2726-2791",
+      "chapterUid": 15,
+      "range": "2726-2791",
+      "markText": "通过血液样本，研究人员发现，在冷水中浸泡后，人体血浆（血液）中的多巴胺浓度增加了250%，血浆中的去甲肾上腺素浓度提高了530%。",
+      "totalCount": 1368,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=15&rangeStart=2726&rangeEnd=2791",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=15&rangeStart=2726&rangeEnd=2791"
     },
     {
       "bookmarkId": "3300054893_7_8061-8119",
@@ -611,15 +620,6 @@
       "totalCount": 1350,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
-    },
-    {
-      "bookmarkId": "3300054893_15_2726-2791",
-      "chapterUid": 15,
-      "range": "2726-2791",
-      "markText": "通过血液样本，研究人员发现，在冷水中浸泡后，人体血浆（血液）中的多巴胺浓度增加了250%，血浆中的去甲肾上腺素浓度提高了530%。",
-      "totalCount": 1350,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=15&rangeStart=2726&rangeEnd=2791",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=15&rangeStart=2726&rangeEnd=2791"
     },
     {
       "bookmarkId": "3300054893_4_1124-1207",
