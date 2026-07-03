@@ -12,10 +12,10 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 783,
-    "newRatingCount": 3919,
+    "newRatingCount": 3923,
     "newRatingDetail": {
-      "good": 3003,
-      "fair": 774,
+      "good": 3006,
+      "fair": 775,
       "poor": 142,
       "recent": 52,
       "deepV": 1095,
@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-07-01T19:51:23Z",
+    "lastSync": "2026-07-03T18:09:53Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -557,6 +559,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=5&rangeStart=1176&rangeEnd=1257"
     },
     {
+      "bookmarkId": "3300054893_9_9825-9899",
+      "chapterUid": 9,
+      "range": "9825-9899",
+      "markText": "一些赌博成瘾的患者告诉我，在赌博的时候，他们希望暂时输钱。开始输得越多，继续赌博的冲动就越强烈，再赢钱后的快感也越高——这种现象被称为“追逐损失”。",
+      "totalCount": 1568,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=9825&rangeEnd=9899",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=9825&rangeEnd=9899"
+    },
+    {
       "bookmarkId": "3300054893_12_10865-10904",
       "chapterUid": 12,
       "range": "10865-10904",
@@ -566,20 +577,11 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=10865&rangeEnd=10904"
     },
     {
-      "bookmarkId": "3300054893_9_9825-9899",
-      "chapterUid": 9,
-      "range": "9825-9899",
-      "markText": "一些赌博成瘾的患者告诉我，在赌博的时候，他们希望暂时输钱。开始输得越多，继续赌博的冲动就越强烈，再赢钱后的快感也越高——这种现象被称为“追逐损失”。",
-      "totalCount": 1552,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=9825&rangeEnd=9899",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=9825&rangeEnd=9899"
-    },
-    {
       "bookmarkId": "3300054893_4_2134-2168",
       "chapterUid": 4,
       "range": "2134-2168",
       "markText": "放弃那些在短期内给他带来快乐的事情，从长远来看，可能会使他更加快乐。",
-      "totalCount": 1548,
+      "totalCount": 1566,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=4&rangeStart=2134&rangeEnd=2168",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=2134&rangeEnd=2168"
     },
