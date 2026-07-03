@@ -1,5 +1,5 @@
 {
-  "lastGlobalSync": "2026-07-01T19:53:30Z",
+  "lastGlobalSync": "2026-07-03T01:53:22Z",
   "books": {
     "812443": {
       "title": "白鹿原",
@@ -1410,6 +1410,16 @@
       "reviewCount": 0,
       "bookmarkCount": 0,
       "lastSync": "2026-07-01T19:50:51Z"
+    },
+    "35679932": {
+      "title": "“科幻之父”威尔斯经典三部曲（果麦经典）",
+      "category": "精品小说",
+      "path": "精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.json",
+      "sort": 1783005613,
+      "noteCount": 1,
+      "reviewCount": 0,
+      "bookmarkCount": 0,
+      "lastSync": "2026-07-03T01:53:22Z"
     }
   }
 }
