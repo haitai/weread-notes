@@ -12,26 +12,28 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 783,
-    "newRatingCount": 3923,
+    "newRatingCount": 3922,
     "newRatingDetail": {
-      "good": 3006,
+      "good": 3005,
       "fair": 775,
       "poor": 142,
-      "recent": 52,
+      "recent": 50,
       "deepV": 1095,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-07-03T19:17:50Z",
+    "lastSync": "2026-07-04T17:58:47Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -507,7 +509,7 @@
       "chapterUid": 13,
       "range": "12209-12255",
       "markText": "用药物治疗人类的痛苦是需要付出代价的，而我们也会看到另外一种更加有效的方法，那就是拥抱痛苦。",
-      "totalCount": 2376,
+      "totalCount": 2394,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=13&rangeStart=12209&rangeEnd=12255",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=13&rangeStart=12209&rangeEnd=12255"
     },
