@@ -7,12 +7,12 @@ category: ""
 publisher: "人民邮电出版社"
 publishTime: ""
 isbn: ""
-localCover: ""
+localCover: "data/未分类/卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）_N3Dl/CB_5exDS3DNy5b16rT6t9GUN3Dl.jpg"
 cover: "https://res.weread.qq.com/wrepub/CB_9dABQeBQK8Cr6k16ke6EX8Sa_parsecover"
 wordCount: 0
 newRating: 0
 newRatingCount: 0
-lastSync: "2026-07-04T19:08:05Z"
+lastSync: "2026-07-05T17:56:28Z"
 readingProgress: "52%"
 readingTime: "0分钟"
 finishedDate: ""
@@ -23,7 +23,7 @@ appLink: "weread://reading?bId=CB_5exDS3DNy5b16rT6t9GUN3Dl"
 webLink: "https://weread.qq.com/web/reader/4e5428a3643425f356578445333444e7935623136725436743947554e33446c02e"
 ---
 
-![卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）](https://res.weread.qq.com/wrepub/CB_9dABQeBQK8Cr6k16ke6EX8Sa_parsecover)
+![卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）](https://raw.githubusercontent.com/haitai/weread-notes/main/data/未分类/卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）_N3Dl/CB_5exDS3DNy5b16rT6t9GUN3Dl.jpg)
 
 # 元数据
 

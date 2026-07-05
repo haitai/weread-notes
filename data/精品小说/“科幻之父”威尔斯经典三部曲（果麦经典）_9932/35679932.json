@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 967,
-    "newRatingCount": 1113,
+    "newRating": 966,
+    "newRatingCount": 1114,
     "newRatingDetail": {
       "good": 1079,
-      "fair": 25,
+      "fair": 26,
       "poor": 9,
-      "recent": 923,
-      "deepV": 417,
+      "recent": 914,
+      "deepV": 418,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-04T19:06:57Z",
+    "lastSync": "2026-07-05T17:56:15Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1179,7 +1181,7 @@
       "chapterUid": 4,
       "range": "4698-4727",
       "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
-      "totalCount": 224,
+      "totalCount": 210,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
@@ -1197,7 +1199,7 @@
       "chapterUid": 4,
       "range": "3384-3421",
       "markText": "倘若一件往事栩栩如生地浮现在我脑海，我便身临其境地回到当初它发生的那一时刻",
-      "totalCount": 182,
+      "totalCount": 196,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3384&rangeEnd=3421",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
     },
@@ -1209,6 +1211,15 @@
       "totalCount": 162,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
+    },
+    {
+      "bookmarkId": "35679932_4_1372-1418",
+      "chapterUid": 4,
+      "range": "1372-1418",
+      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
     },
     {
       "bookmarkId": "35679932_4_7279-7323",
@@ -1227,15 +1238,6 @@
       "totalCount": 121,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=432&rangeEnd=502",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
-    },
-    {
-      "bookmarkId": "35679932_4_1372-1418",
-      "chapterUid": 4,
-      "range": "1372-1418",
-      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
-      "totalCount": 112,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
     },
     {
       "bookmarkId": "35679932_4_1441-1467",

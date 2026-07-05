@@ -19,13 +19,13 @@
       "good": 101,
       "fair": 7,
       "poor": 4,
-      "recent": 3,
+      "recent": 2,
       "deepV": 6,
       "myRating": "",
       "title": ""
     },
     "appLink": "weread://reading?bId=3300160171",
-    "lastSync": "2026-07-03T18:10:20Z",
+    "lastSync": "2026-07-05T17:59:01Z",
     "readingProgress": "0%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -39,9 +39,9 @@
   "hotBookmarks": [],
   "readProgress": {
     "chapterUid": 5,
-    "chapterOffset": 4358,
+    "chapterOffset": 6554,
     "progress": 0,
-    "updateTime": 1783006568,
+    "updateTime": 1783215653,
     "recordReadingTime": 0,
     "finishTime": ""
   }
