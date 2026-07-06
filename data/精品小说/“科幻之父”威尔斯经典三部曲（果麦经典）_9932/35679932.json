@@ -17,21 +17,23 @@
       "good": 1079,
       "fair": 26,
       "poor": 9,
-      "recent": 913,
+      "recent": 872,
       "deepV": 418,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-05T19:13:15Z",
+    "lastSync": "2026-07-06T18:50:15Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1301,6 +1303,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
     {
+      "bookmarkId": "35679932_4_3059-3083",
+      "chapterUid": 4,
+      "range": "3059-3083",
+      "markText": "但是你根本无法在时间中移动，无法离开此时此刻。”",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3059&rangeEnd=3083",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3059&rangeEnd=3083"
+    },
+    {
       "bookmarkId": "35679932_4_3154-3204",
       "chapterUid": 4,
       "range": "3154-3204",
@@ -1335,15 +1346,6 @@
       "totalCount": 90,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=6582&rangeEnd=6611",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=6582&rangeEnd=6611"
-    },
-    {
-      "bookmarkId": "35679932_8_9045-9072",
-      "chapterUid": 8,
-      "range": "9045-9072",
-      "markText": "倘若每代人死后都留下鬼魂，那么世界最终将会变得鬼满为患",
-      "totalCount": 90,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=9045&rangeEnd=9072",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=9045&rangeEnd=9072"
     }
   ],
   "readProgress": {

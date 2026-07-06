@@ -12,26 +12,28 @@
     "isbn": "9787533965242",
     "wordCount": 0,
     "newRating": 776,
-    "newRatingCount": 656,
+    "newRatingCount": 657,
     "newRatingDetail": {
-      "good": 479,
+      "good": 480,
       "fair": 157,
       "poor": 20,
-      "recent": 13,
+      "recent": 14,
       "deepV": 395,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-07-05T19:13:42Z",
+    "lastSync": "2026-07-06T18:50:40Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {
@@ -1434,7 +1436,7 @@
       "chapterUid": 13,
       "range": "470-518",
       "markText": "输出的魅力不在于技巧，而是其本身就能给人带来活力。经常表达自我的人，总是给人一种充满活力的感觉。",
-      "totalCount": 912,
+      "totalCount": 928,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=13&rangeStart=470&rangeEnd=518",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=13&rangeStart=470&rangeEnd=518"
     },

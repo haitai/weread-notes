@@ -12,26 +12,28 @@
     "isbn": "9787541142185",
     "wordCount": 0,
     "newRating": 925,
-    "newRatingCount": 78849,
+    "newRatingCount": 78867,
     "newRatingDetail": {
-      "good": 73941,
+      "good": 73959,
       "fair": 4548,
       "poor": 360,
       "recent": 481,
-      "deepV": 5709,
+      "deepV": 5713,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=814146",
     "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439",
-    "lastSync": "2026-07-05T19:13:26Z",
+    "lastSync": "2026-07-06T18:52:05Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 5,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/一个叫欧维的男人决定去死（同名电影原著）_4146/814146.jpg"
   },
   "chapters": [
     {
@@ -677,7 +679,7 @@
       "chapterUid": 47,
       "range": "7934-7979",
       "markText": "六个月前，她去世了。但欧维还是每天两次走遍所有房间，摸摸暖气片，看她有没有悄悄把它们打开。",
-      "totalCount": 109395,
+      "totalCount": 109412,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=47&rangeStart=7934&rangeEnd=7979",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=47&rangeStart=7934&rangeEnd=7979"
     },
@@ -686,7 +688,7 @@
       "chapterUid": 57,
       "range": "6138-6166",
       "markText": "要是有人问起，他会说，在她之前，他没有生活。之后也没有。",
-      "totalCount": 67440,
+      "totalCount": 67455,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=57&rangeStart=6138&rangeEnd=6166",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=57&rangeStart=6138&rangeEnd=6166"
     },
@@ -704,7 +706,7 @@
       "chapterUid": 46,
       "range": "1351-1404",
       "markText": "他怎么也得有两米高。欧维总是本能地对所有一米八五以上的人心存怀疑。经验告诉他，长成这样，血液很难抵达大脑。",
-      "totalCount": 52290,
+      "totalCount": 52308,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=46&rangeStart=1351&rangeEnd=1404",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=46&rangeStart=1351&rangeEnd=1404"
     },
@@ -722,7 +724,7 @@
       "chapterUid": 62,
       "range": "4351-4424",
       "markText": "“我想你。”他喃喃地说，眼眶中飞快地闪过一丝光芒。他感到手臂触碰到了什么柔软的东西。过了好一会儿，他才明白，是猫咪小心翼翼地把头埋在了他的掌心里。",
-      "totalCount": 43215,
+      "totalCount": 43230,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=62&rangeStart=4351&rangeEnd=4424",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=62&rangeStart=4351&rangeEnd=4424"
     },
@@ -749,7 +751,7 @@
       "chapterUid": 52,
       "range": "2110-2159",
       "markText": "这是一个还没过期就已经过时的世界。整个国家都在为没人能正经做事起立鼓掌，毫无保留地为平庸欢呼喝彩。",
-      "totalCount": 30960,
+      "totalCount": 30976,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=52&rangeStart=2110&rangeEnd=2159",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=52&rangeStart=2110&rangeEnd=2159"
     },
@@ -758,7 +760,7 @@
       "chapterUid": 51,
       "range": "6633-6718",
       "markText": "她常说：“每一条道路最终都会带领你到注定的归宿。”对她来说，注定的或许是“某事”。 但对他来说，注定的是“某人”。",
-      "totalCount": 25616,
+      "totalCount": 25632,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=51&rangeStart=6633&rangeEnd=6718",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=51&rangeStart=6633&rangeEnd=6718"
     },
@@ -767,7 +769,7 @@
       "chapterUid": 80,
       "range": "4569-4633",
       "markText": "“一个iPad。” 欧维的表情就像她刚说的是“一个@#￥%&”。",
-      "totalCount": 24688,
+      "totalCount": 24720,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=80&rangeStart=4569&rangeEnd=4633",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=80&rangeStart=4569&rangeEnd=4633"
     },
@@ -776,7 +778,7 @@
       "chapterUid": 55,
       "range": "4478-4523",
       "markText": "每个人的生命中总有那么一刻决定他们将成为什么样的人。要是你不了解那个故事，就不了解那个人。",
-      "totalCount": 24101,
+      "totalCount": 24134,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=55&rangeStart=4478&rangeEnd=4523",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=55&rangeStart=4478&rangeEnd=4523"
     },
@@ -785,7 +787,7 @@
       "chapterUid": 83,
       "range": "2267-2281",
       "markText": "问候索雅，谢谢她把你借给我。",
-      "totalCount": 23250,
+      "totalCount": 23265,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=83&rangeStart=2267&rangeEnd=2281",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=83&rangeStart=2267&rangeEnd=2281"
     },
@@ -803,7 +805,7 @@
       "chapterUid": 83,
       "range": "3301-3397",
       "markText": "这时男孩第一次放松下来，嘴角露出一丝无法察觉的微笑，那双直视着她的眼睛里充满难以抑制的骄傲，这种骄傲只有一个词可以表达： 萨博。",
-      "totalCount": 22308,
+      "totalCount": 22352,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=83&rangeStart=3301&rangeEnd=3397",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=83&rangeStart=3301&rangeEnd=3397"
     },
@@ -812,7 +814,7 @@
       "chapterUid": 46,
       "range": "8519-8529",
       "markText": "明天得装上那个钩子。",
-      "totalCount": 20288,
+      "totalCount": 20336,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=46&rangeStart=8519&rangeEnd=8529",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=46&rangeStart=8519&rangeEnd=8529"
     },
@@ -821,7 +823,7 @@
       "chapterUid": 56,
       "range": "9481-9493",
       "markText": "自杀的事还是明天再说吧。",
-      "totalCount": 20281,
+      "totalCount": 20298,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=56&rangeStart=9481&rangeEnd=9493",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=56&rangeStart=9481&rangeEnd=9493"
     },
@@ -830,7 +832,7 @@
       "chapterUid": 57,
       "range": "3566-3666",
       "markText": "他当时当然不知道，他的一生将有多少个一刻钟要用来等待她，要是他父亲知道了，一定会气坏的。但当她身着一条印花长裙和一件红得让欧维不得不挪动一下脚步的羊毛衫出现时，欧维当即决定，她不守时的毛病也可以原谅。",
-      "totalCount": 19950,
+      "totalCount": 19964,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=57&rangeStart=3566&rangeEnd=3666",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=57&rangeStart=3566&rangeEnd=3666"
     },
@@ -839,7 +841,7 @@
       "chapterUid": 55,
       "range": "5997-6009",
       "markText": "从此以后，欧维再无宁日。",
-      "totalCount": 19680,
+      "totalCount": 19695,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=55&rangeStart=5997&rangeEnd=6009",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=55&rangeStart=5997&rangeEnd=6009"
     },
