@@ -11,12 +11,12 @@
     "publishTime": "2021-09-01 00:00:00",
     "isbn": "9787533965242",
     "wordCount": 0,
-    "newRating": 776,
-    "newRatingCount": 657,
+    "newRating": 775,
+    "newRatingCount": 658,
     "newRatingDetail": {
       "good": 480,
       "fair": 157,
-      "poor": 20,
+      "poor": 21,
       "recent": 14,
       "deepV": 395,
       "myRating": "",
@@ -24,7 +24,7 @@
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-07-06T18:50:40Z",
+    "lastSync": "2026-07-07T18:54:46Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1450,6 +1450,15 @@
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=13&rangeStart=1088&rangeEnd=1107"
     },
     {
+      "bookmarkId": "3300111091_6_424-445",
+      "chapterUid": 6,
+      "range": "424-445",
+      "markText": "输出并非以“精”取胜，而需以“次数”为优先",
+      "totalCount": 882,
+      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=6&rangeStart=424&rangeEnd=445",
+      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=6&rangeStart=424&rangeEnd=445"
+    },
+    {
       "bookmarkId": "3300111091_22_1505-1532",
       "chapterUid": 22,
       "range": "1505-1532",
@@ -1457,15 +1466,6 @@
       "totalCount": 882,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=22&rangeStart=1505&rangeEnd=1532",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=22&rangeStart=1505&rangeEnd=1532"
-    },
-    {
-      "bookmarkId": "3300111091_6_424-445",
-      "chapterUid": 6,
-      "range": "424-445",
-      "markText": "输出并非以“精”取胜，而需以“次数”为优先",
-      "totalCount": 868,
-      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=6&rangeStart=424&rangeEnd=445",
-      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=6&rangeStart=424&rangeEnd=445"
     },
     {
       "bookmarkId": "3300111091_8_1253-1345",
@@ -1486,6 +1486,15 @@
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=5&rangeStart=1066&rangeEnd=1085"
     },
     {
+      "bookmarkId": "3300111091_12_1437-1478",
+      "chapterUid": 12,
+      "range": "1437-1478",
+      "markText": "将拙劣与否、有价值与否抛至脑后，大胆说出口、大胆采取行动的勇气才是通往成熟的捷径。",
+      "totalCount": 780,
+      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=1437&rangeEnd=1478",
+      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=1437&rangeEnd=1478"
+    },
+    {
       "bookmarkId": "3300111091_14_1670-1718",
       "chapterUid": 14,
       "range": "1670-1718",
@@ -1493,15 +1502,6 @@
       "totalCount": 770,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=14&rangeStart=1670&rangeEnd=1718",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=14&rangeStart=1670&rangeEnd=1718"
-    },
-    {
-      "bookmarkId": "3300111091_12_1437-1478",
-      "chapterUid": 12,
-      "range": "1437-1478",
-      "markText": "将拙劣与否、有价值与否抛至脑后，大胆说出口、大胆采取行动的勇气才是通往成熟的捷径。",
-      "totalCount": 768,
-      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=12&rangeStart=1437&rangeEnd=1478",
-      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=12&rangeStart=1437&rangeEnd=1478"
     },
     {
       "bookmarkId": "3300111091_19_1619-1656",
@@ -1517,7 +1517,7 @@
       "chapterUid": 7,
       "range": "662-699",
       "markText": "知识的周转速度远比存储量重要。“输出知识，吸收知识”这一周转过程至关重要。",
-      "totalCount": 728,
+      "totalCount": 742,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=7&rangeStart=662&rangeEnd=699",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=7&rangeStart=662&rangeEnd=699"
     },
