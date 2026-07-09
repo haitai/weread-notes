@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 966,
-    "newRatingCount": 1118,
+    "newRating": 965,
+    "newRatingCount": 1121,
     "newRatingDetail": {
-      "good": 1082,
-      "fair": 27,
+      "good": 1084,
+      "fair": 28,
       "poor": 9,
-      "recent": 743,
-      "deepV": 421,
+      "recent": 671,
+      "deepV": 423,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-08T19:20:42Z",
+    "lastSync": "2026-07-09T18:45:53Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1170,7 +1172,7 @@
       "chapterUid": 4,
       "range": "1230-1254",
       "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
-      "totalCount": 252,
+      "totalCount": 270,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
@@ -1220,6 +1222,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
     },
     {
+      "bookmarkId": "35679932_4_1372-1418",
+      "chapterUid": 4,
+      "range": "1372-1418",
+      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
+      "totalCount": 140,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
+    },
+    {
       "bookmarkId": "35679932_4_1441-1467",
       "chapterUid": 4,
       "range": "1441-1467",
@@ -1227,15 +1238,6 @@
       "totalCount": 128,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
-    },
-    {
-      "bookmarkId": "35679932_4_1372-1418",
-      "chapterUid": 4,
-      "range": "1372-1418",
-      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
-      "totalCount": 126,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
     },
     {
       "bookmarkId": "35679932_4_432-502",
@@ -1301,6 +1303,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
     {
+      "bookmarkId": "35679932_4_1310-1345",
+      "chapterUid": 4,
+      "range": "1310-1345",
+      "markText": "所谓实体都必须在四个方面具备延展性，包括长度、宽度、厚度，以及——时间",
+      "totalCount": 96,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
+    },
+    {
       "bookmarkId": "35679932_4_3059-3083",
       "chapterUid": 4,
       "range": "3059-3083",
@@ -1335,15 +1346,6 @@
       "totalCount": 91,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=6538&rangeEnd=6552",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=6538&rangeEnd=6552"
-    },
-    {
-      "bookmarkId": "35679932_4_6582-6611",
-      "chapterUid": 4,
-      "range": "6582-6611",
-      "markText": "机器不见了——消失得无影无踪！桌上空空如也，徒留一盏台灯。",
-      "totalCount": 90,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=6582&rangeEnd=6611",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=6582&rangeEnd=6611"
     }
   ],
   "readProgress": {
