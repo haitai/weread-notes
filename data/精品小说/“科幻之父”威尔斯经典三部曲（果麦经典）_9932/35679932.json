@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 965,
-    "newRatingCount": 1122,
+    "newRatingCount": 1123,
     "newRatingDetail": {
-      "good": 1085,
+      "good": 1086,
       "fair": 28,
       "poor": 9,
-      "recent": 614,
+      "recent": 553,
       "deepV": 424,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-10T19:23:18Z",
+    "lastSync": "2026-07-11T17:45:43Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1206,7 +1208,7 @@
       "chapterUid": 4,
       "range": "2312-2344",
       "markText": "这一切显然都是固定不变的片段，可谓是一个人四维存在的三维化表现。",
-      "totalCount": 162,
+      "totalCount": 180,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
     },
@@ -1238,6 +1240,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
     {
+      "bookmarkId": "35679932_7_8353-8377",
+      "chapterUid": 7,
+      "range": "8353-8377",
+      "markText": "人们沉湎于艺术和情色，最终面临颓废和衰落的终局。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=8353&rangeEnd=8377",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=8353&rangeEnd=8377"
+    },
+    {
       "bookmarkId": "35679932_4_432-502",
       "chapterUid": 4,
       "range": "432-502",
@@ -1254,15 +1265,6 @@
       "totalCount": 120,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
-    },
-    {
-      "bookmarkId": "35679932_7_8353-8377",
-      "chapterUid": 7,
-      "range": "8353-8377",
-      "markText": "人们沉湎于艺术和情色，最终面临颓废和衰落的终局。",
-      "totalCount": 112,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=8353&rangeEnd=8377",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=8353&rangeEnd=8377"
     },
     {
       "bookmarkId": "35679932_8_12118-12183",
