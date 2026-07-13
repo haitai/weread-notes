@@ -13,19 +13,19 @@
     "publishTime": "2021-03-01 00:00:00",
     "isbn": "9787556257850",
     "wordCount": 0,
-    "newRating": 750,
-    "newRatingCount": 979,
+    "newRating": 749,
+    "newRatingCount": 982,
     "newRatingDetail": {
-      "good": 731,
+      "good": 733,
       "fair": 111,
-      "poor": 137,
-      "recent": 22,
-      "deepV": 97,
+      "poor": 138,
+      "recent": 20,
+      "deepV": 98,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=38118788",
-    "lastSync": "2026-07-10T18:18:37Z",
+    "lastSync": "2026-07-13T18:29:04Z",
     "readingProgress": "2%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -39,9 +39,9 @@
   "hotBookmarks": [],
   "readProgress": {
     "chapterUid": 7,
-    "chapterOffset": 12479,
+    "chapterOffset": 12100,
     "progress": 2,
-    "updateTime": 1783666614,
+    "updateTime": 1783961763,
     "recordReadingTime": 0,
     "finishTime": ""
   }

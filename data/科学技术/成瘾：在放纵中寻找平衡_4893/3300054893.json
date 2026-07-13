@@ -15,23 +15,25 @@
     "newRatingCount": 3933,
     "newRatingDetail": {
       "good": 3014,
-      "fair": 776,
-      "poor": 143,
+      "fair": 777,
+      "poor": 142,
       "recent": 50,
-      "deepV": 1099,
+      "deepV": 1100,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-07-12T19:02:05Z",
+    "lastSync": "2026-07-13T18:28:31Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -480,7 +482,7 @@
       "chapterUid": 9,
       "range": "1311-1368",
       "markText": "多巴胺的主要作用不是让人们在获得奖励后感到快乐，而是驱动人们产生获得奖励的动机。它促进了“想要”，而不是“喜欢”。",
-      "totalCount": 2610,
+      "totalCount": 2625,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=1311&rangeEnd=1368",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=1311&rangeEnd=1368"
     },
@@ -588,7 +590,7 @@
       "chapterUid": 12,
       "range": "2172-2225",
       "markText": "有效自我约束的关键是，首先承认我们会在强烈的欲望下丧失自主性，然后在我们尚有自主选择能力的时候来约束自己。",
-      "totalCount": 1521,
+      "totalCount": 1534,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=2172&rangeEnd=2225",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=2172&rangeEnd=2225"
     },
@@ -615,7 +617,7 @@
       "chapterUid": 7,
       "range": "8061-8119",
       "markText": "广义的“成瘾”是指，尽管对自己和/或他人有害，但仍然持续且强迫自己消费某种东西或做出某种行为（如赌博、游戏、性爱）。",
-      "totalCount": 1350,
+      "totalCount": 1360,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
     },
