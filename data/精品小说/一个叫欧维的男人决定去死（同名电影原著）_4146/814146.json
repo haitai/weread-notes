@@ -12,26 +12,28 @@
     "isbn": "9787541142185",
     "wordCount": 0,
     "newRating": 925,
-    "newRatingCount": 78983,
+    "newRatingCount": 78996,
     "newRatingDetail": {
-      "good": 74066,
-      "fair": 4553,
+      "good": 74078,
+      "fair": 4554,
       "poor": 364,
-      "recent": 477,
-      "deepV": 5755,
+      "recent": 481,
+      "deepV": 5761,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=814146",
     "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439",
-    "lastSync": "2026-07-14T19:15:16Z",
+    "lastSync": "2026-07-15T18:02:02Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 5,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/一个叫欧维的男人决定去死（同名电影原著）_4146/814146.jpg"
   },
   "chapters": [
     {
@@ -677,7 +679,7 @@
       "chapterUid": 47,
       "range": "7934-7979",
       "markText": "六个月前，她去世了。但欧维还是每天两次走遍所有房间，摸摸暖气片，看她有没有悄悄把它们打开。",
-      "totalCount": 109650,
+      "totalCount": 109667,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=47&rangeStart=7934&rangeEnd=7979",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=47&rangeStart=7934&rangeEnd=7979"
     },
@@ -749,7 +751,7 @@
       "chapterUid": 52,
       "range": "2110-2159",
       "markText": "这是一个还没过期就已经过时的世界。整个国家都在为没人能正经做事起立鼓掌，毫无保留地为平庸欢呼喝彩。",
-      "totalCount": 30992,
+      "totalCount": 31008,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=52&rangeStart=2110&rangeEnd=2159",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=52&rangeStart=2110&rangeEnd=2159"
     },
@@ -794,7 +796,7 @@
       "chapterUid": 66,
       "range": "4062-4117",
       "markText": "每个人都必须知道他在为什么奋斗，他们这么说。她为了一切的美好而奋斗，为了她从未降生的孩子，而欧维为了她而奋斗。",
-      "totalCount": 22797,
+      "totalCount": 22814,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=66&rangeStart=4062&rangeEnd=4117",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=66&rangeStart=4062&rangeEnd=4117"
     },
@@ -803,7 +805,7 @@
       "chapterUid": 83,
       "range": "3301-3397",
       "markText": "这时男孩第一次放松下来，嘴角露出一丝无法察觉的微笑，那双直视着她的眼睛里充满难以抑制的骄傲，这种骄傲只有一个词可以表达： 萨博。",
-      "totalCount": 22506,
+      "totalCount": 22528,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=83&rangeStart=3301&rangeEnd=3397",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=83&rangeStart=3301&rangeEnd=3397"
     },
@@ -812,7 +814,7 @@
       "chapterUid": 46,
       "range": "8519-8529",
       "markText": "明天得装上那个钩子。",
-      "totalCount": 20560,
+      "totalCount": 20608,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=46&rangeStart=8519&rangeEnd=8529",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=46&rangeStart=8519&rangeEnd=8529"
     },
@@ -839,7 +841,7 @@
       "chapterUid": 55,
       "range": "5997-6009",
       "markText": "从此以后，欧维再无宁日。",
-      "totalCount": 19830,
+      "totalCount": 19845,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=55&rangeStart=5997&rangeEnd=6009",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=55&rangeStart=5997&rangeEnd=6009"
     },
