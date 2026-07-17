@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 964,
-    "newRatingCount": 1128,
+    "newRating": 965,
+    "newRatingCount": 1135,
     "newRatingDetail": {
-      "good": 1091,
+      "good": 1098,
       "fair": 28,
       "poor": 9,
-      "recent": 46,
-      "deepV": 425,
+      "recent": 50,
+      "deepV": 429,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-16T19:05:07Z",
+    "lastSync": "2026-07-17T17:57:46Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1175,6 +1177,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
     {
+      "bookmarkId": "35679932_4_4698-4727",
+      "chapterUid": 4,
+      "range": "4698-4727",
+      "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
+    },
+    {
       "bookmarkId": "35679932_4_552-572",
       "chapterUid": 4,
       "range": "552-572",
@@ -1191,15 +1202,6 @@
       "totalCount": 210,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3384&rangeEnd=3421",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
-    },
-    {
-      "bookmarkId": "35679932_4_4698-4727",
-      "chapterUid": 4,
-      "range": "4698-4727",
-      "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
-      "totalCount": 210,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
     {
       "bookmarkId": "35679932_4_2312-2344",
