@@ -13,19 +13,19 @@
     "publishTime": "2021-09-01 00:00:00",
     "isbn": "9787505752764",
     "wordCount": 0,
-    "newRating": 897,
-    "newRatingCount": 3992,
+    "newRating": 898,
+    "newRatingCount": 4001,
     "newRatingDetail": {
-      "good": 3638,
-      "fair": 269,
+      "good": 3645,
+      "fair": 271,
       "poor": 85,
-      "recent": 82,
-      "deepV": 787,
+      "recent": 90,
+      "deepV": 791,
       "myRating": "",
       "title": "好评如潮"
     },
     "appLink": "weread://reading?bId=41218663",
-    "lastSync": "2026-07-16T18:00:57Z",
+    "lastSync": "2026-07-19T17:51:48Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -39,9 +39,9 @@
   "hotBookmarks": [],
   "readProgress": {
     "chapterUid": 1,
-    "chapterOffset": 274,
+    "chapterOffset": 142,
     "progress": 3,
-    "updateTime": 1784181222,
+    "updateTime": 1784468711,
     "recordReadingTime": 0,
     "finishTime": ""
   }
