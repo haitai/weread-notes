@@ -17,21 +17,23 @@
       "good": 1105,
       "fair": 29,
       "poor": 9,
-      "recent": 46,
+      "recent": 44,
       "deepV": 434,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-21T19:16:40Z",
+    "lastSync": "2026-07-22T18:02:29Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1319,6 +1321,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=24&rangeStart=462&rangeEnd=492"
     },
     {
+      "bookmarkId": "35679932_30_1593-1671",
+      "chapterUid": 30,
+      "range": "1593-1671",
+      "markText": "有时我会产生一种奇怪的疏离感，令人颇感困扰，就像灵魂出窍，从周围的世界跳脱而出。我仿佛置身于时空之外，超越一切重负与悲愁，从不可思议的遥远之地观察世间万物。",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=30&rangeStart=1593&rangeEnd=1671",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=30&rangeStart=1593&rangeEnd=1671"
+    },
+    {
       "bookmarkId": "35679932_4_1310-1345",
       "chapterUid": 4,
       "range": "1310-1345",
@@ -1335,15 +1346,6 @@
       "totalCount": 96,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
-    },
-    {
-      "bookmarkId": "35679932_8_6619-6681",
-      "chapterUid": 8,
-      "range": "6619-6681",
-      "markText": "他们整日或是嬉闹玩耍，或是在河里沐浴，或是半推半就地谈情说爱，或是吃水果和睡觉。我真不明白，他们究竟如何维持这样的生活状态。",
-      "totalCount": 96,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=6619&rangeEnd=6681",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
     }
   ],
   "readProgress": {
