@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-07-22T19:12:21Z",
+    "lastSync": "2026-07-23T18:07:42Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {
@@ -1520,6 +1522,15 @@
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=7&rangeStart=662&rangeEnd=699"
     },
     {
+      "bookmarkId": "3300111091_46_1387-1426",
+      "chapterUid": 46,
+      "range": "1387-1426",
+      "markText": "就是先决定好题目和最后的“结句”，即文末最后一句。可以说，这样就算完成了大半。",
+      "totalCount": 714,
+      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=46&rangeStart=1387&rangeEnd=1426",
+      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=46&rangeStart=1387&rangeEnd=1426"
+    },
+    {
       "bookmarkId": "3300111091_20_1090-1141",
       "chapterUid": 20,
       "range": "1090-1141",
@@ -1536,15 +1547,6 @@
       "totalCount": 702,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=41&rangeStart=1981&rangeEnd=2014",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=41&rangeStart=1981&rangeEnd=2014"
-    },
-    {
-      "bookmarkId": "3300111091_46_1387-1426",
-      "chapterUid": 46,
-      "range": "1387-1426",
-      "markText": "就是先决定好题目和最后的“结句”，即文末最后一句。可以说，这样就算完成了大半。",
-      "totalCount": 697,
-      "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=46&rangeStart=1387&rangeEnd=1426",
-      "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=46&rangeStart=1387&rangeEnd=1426"
     },
     {
       "bookmarkId": "3300111091_12_880-940",
