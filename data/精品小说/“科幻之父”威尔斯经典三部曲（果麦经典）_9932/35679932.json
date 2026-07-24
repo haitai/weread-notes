@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 963,
-    "newRatingCount": 1147,
+    "newRatingCount": 1149,
     "newRatingDetail": {
-      "good": 1108,
+      "good": 1110,
       "fair": 29,
       "poor": 10,
-      "recent": 45,
-      "deepV": 434,
+      "recent": 47,
+      "deepV": 435,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-23T19:11:07Z",
+    "lastSync": "2026-07-24T18:11:05Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1170,7 +1172,7 @@
       "chapterUid": 4,
       "range": "1230-1254",
       "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
-      "totalCount": 288,
+      "totalCount": 306,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
@@ -1274,6 +1276,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
     },
     {
+      "bookmarkId": "35679932_8_6619-6681",
+      "chapterUid": 8,
+      "range": "6619-6681",
+      "markText": "他们整日或是嬉闹玩耍，或是在河里沐浴，或是半推半就地谈情说爱，或是吃水果和睡觉。我真不明白，他们究竟如何维持这样的生活状态。",
+      "totalCount": 112,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=6619&rangeEnd=6681",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
+    },
+    {
       "bookmarkId": "35679932_4_2075-2104",
       "chapterUid": 4,
       "range": "2075-2104",
@@ -1335,15 +1346,6 @@
       "totalCount": 96,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
-    },
-    {
-      "bookmarkId": "35679932_4_3154-3204",
-      "chapterUid": 4,
-      "range": "3154-3204",
-      "markText": "我们的精神存在是非物质性的，虽然没有任何维度表现，但从我们出生到死亡，它始终沿着时间这一维度匀速前行",
-      "totalCount": 96,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
     }
   ],
   "readProgress": {
