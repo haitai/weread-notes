@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 963,
-    "newRatingCount": 1149,
+    "newRating": 962,
+    "newRatingCount": 1150,
     "newRatingDetail": {
       "good": 1110,
-      "fair": 29,
+      "fair": 30,
       "poor": 10,
-      "recent": 47,
-      "deepV": 435,
+      "recent": 46,
+      "deepV": 436,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-24T19:20:31Z",
+    "lastSync": "2026-07-25T17:51:03Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1337,13 +1339,13 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=30&rangeStart=1593&rangeEnd=1671"
     },
     {
-      "bookmarkId": "35679932_4_1310-1345",
-      "chapterUid": 4,
-      "range": "1310-1345",
-      "markText": "所谓实体都必须在四个方面具备延展性，包括长度、宽度、厚度，以及——时间",
-      "totalCount": 96,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
+      "bookmarkId": "35679932_7_6538-6552",
+      "chapterUid": 7,
+      "range": "6538-6552",
+      "markText": "需求催生力量，安逸助长衰颓。",
+      "totalCount": 104,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=6538&rangeEnd=6552",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=6538&rangeEnd=6552"
     }
   ],
   "readProgress": {
