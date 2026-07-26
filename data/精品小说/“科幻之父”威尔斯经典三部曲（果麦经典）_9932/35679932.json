@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 962,
-    "newRatingCount": 1150,
+    "newRatingCount": 1153,
     "newRatingDetail": {
-      "good": 1110,
+      "good": 1113,
       "fair": 30,
       "poor": 10,
-      "recent": 46,
-      "deepV": 436,
+      "recent": 49,
+      "deepV": 437,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-25T19:02:36Z",
+    "lastSync": "2026-07-26T17:54:45Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1247,6 +1249,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
     {
+      "bookmarkId": "35679932_8_6619-6681",
+      "chapterUid": 8,
+      "range": "6619-6681",
+      "markText": "他们整日或是嬉闹玩耍，或是在河里沐浴，或是半推半就地谈情说爱，或是吃水果和睡觉。我真不明白，他们究竟如何维持这样的生活状态。",
+      "totalCount": 128,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=6619&rangeEnd=6681",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
+    },
+    {
       "bookmarkId": "35679932_4_432-502",
       "chapterUid": 4,
       "range": "432-502",
@@ -1272,15 +1283,6 @@
       "totalCount": 119,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2525&rangeEnd=2557",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
-    },
-    {
-      "bookmarkId": "35679932_8_6619-6681",
-      "chapterUid": 8,
-      "range": "6619-6681",
-      "markText": "他们整日或是嬉闹玩耍，或是在河里沐浴，或是半推半就地谈情说爱，或是吃水果和睡觉。我真不明白，他们究竟如何维持这样的生活状态。",
-      "totalCount": 112,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=6619&rangeEnd=6681",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
     },
     {
       "bookmarkId": "35679932_4_2075-2104",
