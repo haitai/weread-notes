@@ -12,28 +12,26 @@
     "isbn": "9787541142185",
     "wordCount": 0,
     "newRating": 925,
-    "newRatingCount": 79150,
+    "newRatingCount": 79152,
     "newRatingDetail": {
-      "good": 74221,
+      "good": 74223,
       "fair": 4561,
       "poor": 368,
-      "recent": 478,
-      "deepV": 5817,
+      "recent": 480,
+      "deepV": 5818,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=814146",
     "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439",
-    "lastSync": "2026-07-26T17:55:46Z",
+    "lastSync": "2026-07-26T19:06:02Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 5,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
-    "coverDownloaded": true,
-    "localCover": "data/精品小说/一个叫欧维的男人决定去死（同名电影原著）_4146/814146.jpg"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
   },
   "chapters": [
     {
@@ -688,7 +686,7 @@
       "chapterUid": 57,
       "range": "6138-6166",
       "markText": "要是有人问起，他会说，在她之前，他没有生活。之后也没有。",
-      "totalCount": 67740,
+      "totalCount": 67755,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=57&rangeStart=6138&rangeEnd=6166",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=57&rangeStart=6138&rangeEnd=6166"
     },
