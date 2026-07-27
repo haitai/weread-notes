@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 962,
-    "newRatingCount": 1153,
+    "newRating": 961,
+    "newRatingCount": 1154,
     "newRatingDetail": {
-      "good": 1113,
-      "fair": 30,
+      "good": 1112,
+      "fair": 32,
       "poor": 10,
-      "recent": 49,
-      "deepV": 437,
+      "recent": 51,
+      "deepV": 438,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-26T19:05:54Z",
+    "lastSync": "2026-07-27T18:17:44Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
