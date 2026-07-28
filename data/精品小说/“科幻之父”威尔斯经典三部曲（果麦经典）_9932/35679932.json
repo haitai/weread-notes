@@ -24,7 +24,7 @@
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-07-27T18:17:44Z",
+    "lastSync": "2026-07-28T18:06:19Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1222,6 +1222,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
     },
     {
+      "bookmarkId": "35679932_4_1441-1467",
+      "chapterUid": 4,
+      "range": "1441-1467",
+      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
+    },
+    {
       "bookmarkId": "35679932_7_8353-8377",
       "chapterUid": 7,
       "range": "8353-8377",
@@ -1238,15 +1247,6 @@
       "totalCount": 140,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
-    },
-    {
-      "bookmarkId": "35679932_4_1441-1467",
-      "chapterUid": 4,
-      "range": "1441-1467",
-      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
-      "totalCount": 128,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
     {
       "bookmarkId": "35679932_8_6619-6681",
