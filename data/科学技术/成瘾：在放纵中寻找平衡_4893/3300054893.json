@@ -12,26 +12,28 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 783,
-    "newRatingCount": 3947,
+    "newRatingCount": 3951,
     "newRatingDetail": {
-      "good": 3024,
-      "fair": 781,
+      "good": 3027,
+      "fair": 782,
       "poor": 142,
-      "recent": 35,
-      "deepV": 1104,
+      "recent": 38,
+      "deepV": 1105,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-07-29T19:11:19Z",
+    "lastSync": "2026-07-30T18:10:38Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -611,6 +613,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=1124&rangeEnd=1207"
     },
     {
+      "bookmarkId": "3300054893_7_8061-8119",
+      "chapterUid": 7,
+      "range": "8061-8119",
+      "markText": "广义的“成瘾”是指，尽管对自己和/或他人有害，但仍然持续且强迫自己消费某种东西或做出某种行为（如赌博、游戏、性爱）。",
+      "totalCount": 1370,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
+    },
+    {
       "bookmarkId": "3300054893_15_2726-2791",
       "chapterUid": 15,
       "range": "2726-2791",
@@ -618,15 +629,6 @@
       "totalCount": 1368,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=15&rangeStart=2726&rangeEnd=2791",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=15&rangeStart=2726&rangeEnd=2791"
-    },
-    {
-      "bookmarkId": "3300054893_7_8061-8119",
-      "chapterUid": 7,
-      "range": "8061-8119",
-      "markText": "广义的“成瘾”是指，尽管对自己和/或他人有害，但仍然持续且强迫自己消费某种东西或做出某种行为（如赌博、游戏、性爱）。",
-      "totalCount": 1360,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=8061&rangeEnd=8119",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=8061&rangeEnd=8119"
     },
     {
       "bookmarkId": "3300054893_9_4523-4578",
