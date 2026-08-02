@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=3300111091",
     "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5",
-    "lastSync": "2026-08-01T19:04:26Z",
+    "lastSync": "2026-08-02T17:53:53Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 6,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/个人成长/输出力_1091/3300111091.jpg"
   },
   "chapters": [
     {
@@ -1389,7 +1391,7 @@
       "chapterUid": 9,
       "range": "2119-2203",
       "markText": "人原本就具有将输入的信息输出的能力。能不能发挥出这一能力，不是取决于才能与灵感，而是取决于“认真与否”。我们应该让自己更“紧张”一点，在输入的过程中，时刻保持输出意识。",
-      "totalCount": 1200,
+      "totalCount": 1216,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=9&rangeStart=2119&rangeEnd=2203",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=9&rangeStart=2119&rangeEnd=2203"
     },
@@ -1506,7 +1508,7 @@
       "chapterUid": 19,
       "range": "1619-1656",
       "markText": "害怕丢脸，就不会有进步。无须瞻前顾后，鼓起勇气，抓住表现机会才是重中之重。",
-      "totalCount": 760,
+      "totalCount": 770,
       "appLink": "weread://bestbookmark?bookId=3300111091&chapterUid=19&rangeStart=1619&rangeEnd=1656",
       "webLink": "https://weread.qq.com/web/reader/0aa32050813ab91e5g0118a5?chapterUid=19&rangeStart=1619&rangeEnd=1656"
     },
