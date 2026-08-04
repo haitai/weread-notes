@@ -17,14 +17,14 @@
       "good": 3030,
       "fair": 784,
       "poor": 143,
-      "recent": 37,
+      "recent": 35,
       "deepV": 1108,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-08-03T18:44:21Z",
+    "lastSync": "2026-08-04T18:23:58Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -491,7 +491,7 @@
       "chapterUid": 7,
       "range": "9749-9814",
       "markText": "成瘾的最大风险因素之一是成瘾物质容易获取。当某一种东西更容易获得时，我们也更有可能使用这种东西。在使用的过程中，我们很可能会上瘾。",
-      "totalCount": 2548,
+      "totalCount": 2562,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=9749&rangeEnd=9814",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=9749&rangeEnd=9814"
     },
@@ -509,7 +509,7 @@
       "chapterUid": 13,
       "range": "12209-12255",
       "markText": "用药物治疗人类的痛苦是需要付出代价的，而我们也会看到另外一种更加有效的方法，那就是拥抱痛苦。",
-      "totalCount": 2394,
+      "totalCount": 2412,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=13&rangeStart=12209&rangeEnd=12255",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=13&rangeStart=12209&rangeEnd=12255"
     },
@@ -554,7 +554,7 @@
       "chapterUid": 5,
       "range": "1176-1257",
       "markText": "吃完一块巧克力后渴望再吃一块；遇到一本好书、一部精彩的电影或一个好玩的电子游戏时，希望它永远不要结束。在我们产生渴求的那一刻，大脑内的天平开始向痛苦的那一边倾斜。",
-      "totalCount": 1728,
+      "totalCount": 1740,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=5&rangeStart=1176&rangeEnd=1257",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=5&rangeStart=1176&rangeEnd=1257"
     },
@@ -563,7 +563,7 @@
       "chapterUid": 9,
       "range": "9825-9899",
       "markText": "一些赌博成瘾的患者告诉我，在赌博的时候，他们希望暂时输钱。开始输得越多，继续赌博的冲动就越强烈，再赢钱后的快感也越高——这种现象被称为“追逐损失”。",
-      "totalCount": 1600,
+      "totalCount": 1616,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=9825&rangeEnd=9899",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=9825&rangeEnd=9899"
     },
