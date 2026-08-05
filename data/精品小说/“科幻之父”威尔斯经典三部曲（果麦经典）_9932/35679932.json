@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 958,
-    "newRatingCount": 1165,
+    "newRatingCount": 1167,
     "newRatingDetail": {
-      "good": 1120,
-      "fair": 35,
+      "good": 1121,
+      "fair": 36,
       "poor": 10,
-      "recent": 53,
+      "recent": 55,
       "deepV": 442,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-08-04T19:27:28Z",
+    "lastSync": "2026-08-05T18:14:24Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1256,6 +1258,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
     },
     {
+      "bookmarkId": "35679932_4_2075-2104",
+      "chapterUid": 4,
+      "range": "2075-2104",
+      "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
+      "totalCount": 130,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
+    },
+    {
       "bookmarkId": "35679932_8_6619-6681",
       "chapterUid": 8,
       "range": "6619-6681",
@@ -1274,15 +1285,6 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
     },
     {
-      "bookmarkId": "35679932_4_2075-2104",
-      "chapterUid": 4,
-      "range": "2075-2104",
-      "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
-      "totalCount": 120,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
-    },
-    {
       "bookmarkId": "35679932_30_1593-1671",
       "chapterUid": 30,
       "range": "1593-1671",
@@ -1299,6 +1301,15 @@
       "totalCount": 119,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2525&rangeEnd=2557",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
+    },
+    {
+      "bookmarkId": "35679932_4_1310-1345",
+      "chapterUid": 4,
+      "range": "1310-1345",
+      "markText": "所谓实体都必须在四个方面具备延展性，包括长度、宽度、厚度，以及——时间",
+      "totalCount": 108,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
     },
     {
       "bookmarkId": "35679932_4_3059-3083",
@@ -1335,15 +1346,6 @@
       "totalCount": 108,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=24&rangeStart=462&rangeEnd=492",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=24&rangeStart=462&rangeEnd=492"
-    },
-    {
-      "bookmarkId": "35679932_7_6538-6552",
-      "chapterUid": 7,
-      "range": "6538-6552",
-      "markText": "需求催生力量，安逸助长衰颓。",
-      "totalCount": 104,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=6538&rangeEnd=6552",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=6538&rangeEnd=6552"
     }
   ],
   "readProgress": {
