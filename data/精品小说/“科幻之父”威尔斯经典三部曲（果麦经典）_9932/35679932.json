@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 958,
-    "newRatingCount": 1167,
+    "newRating": 957,
+    "newRatingCount": 1175,
     "newRatingDetail": {
-      "good": 1121,
-      "fair": 36,
+      "good": 1128,
+      "fair": 37,
       "poor": 10,
-      "recent": 55,
-      "deepV": 442,
+      "recent": 59,
+      "deepV": 443,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-08-05T19:25:16Z",
+    "lastSync": "2026-08-07T17:40:17Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1184,6 +1186,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
     {
+      "bookmarkId": "35679932_4_3384-3421",
+      "chapterUid": 4,
+      "range": "3384-3421",
+      "markText": "倘若一件往事栩栩如生地浮现在我脑海，我便身临其境地回到当初它发生的那一时刻",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3384&rangeEnd=3421",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
+    },
+    {
       "bookmarkId": "35679932_4_552-572",
       "chapterUid": 4,
       "range": "552-572",
@@ -1200,15 +1211,6 @@
       "totalCount": 216,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
-    },
-    {
-      "bookmarkId": "35679932_4_3384-3421",
-      "chapterUid": 4,
-      "range": "3384-3421",
-      "markText": "倘若一件往事栩栩如生地浮现在我脑海，我便身临其境地回到当初它发生的那一时刻",
-      "totalCount": 210,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3384&rangeEnd=3421",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
     },
     {
       "bookmarkId": "35679932_4_7279-7323",
@@ -1229,6 +1231,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
     {
+      "bookmarkId": "35679932_4_1372-1418",
+      "chapterUid": 4,
+      "range": "1372-1418",
+      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
+      "totalCount": 154,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
+    },
+    {
       "bookmarkId": "35679932_49_4941-5031",
       "chapterUid": 49,
       "range": "4941-5031",
@@ -1247,13 +1258,13 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=8353&rangeEnd=8377"
     },
     {
-      "bookmarkId": "35679932_4_1372-1418",
-      "chapterUid": 4,
-      "range": "1372-1418",
-      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
-      "totalCount": 140,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
+      "bookmarkId": "35679932_8_6619-6681",
+      "chapterUid": 8,
+      "range": "6619-6681",
+      "markText": "他们整日或是嬉闹玩耍，或是在河里沐浴，或是半推半就地谈情说爱，或是吃水果和睡觉。我真不明白，他们究竟如何维持这样的生活状态。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=6619&rangeEnd=6681",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
     },
     {
       "bookmarkId": "35679932_4_2075-2104",
@@ -1265,15 +1276,6 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
     {
-      "bookmarkId": "35679932_8_6619-6681",
-      "chapterUid": 8,
-      "range": "6619-6681",
-      "markText": "他们整日或是嬉闹玩耍，或是在河里沐浴，或是半推半就地谈情说爱，或是吃水果和睡觉。我真不明白，他们究竟如何维持这样的生活状态。",
-      "totalCount": 128,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=6619&rangeEnd=6681",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
-    },
-    {
       "bookmarkId": "35679932_4_432-502",
       "chapterUid": 4,
       "range": "432-502",
@@ -1281,6 +1283,15 @@
       "totalCount": 121,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=432&rangeEnd=502",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
+    },
+    {
+      "bookmarkId": "35679932_12_4838-4882",
+      "chapterUid": 12,
+      "range": "4838-4882",
+      "markText": "当我想到她已逃脱似乎命中注定的厄运，不必再沦为腹中之物时，我难以形容自己是多么如释重负。",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=12&rangeStart=4838&rangeEnd=4882",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
     },
     {
       "bookmarkId": "35679932_30_1593-1671",
@@ -1335,15 +1346,6 @@
       "totalCount": 108,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=15&rangeStart=1168&rangeEnd=1207",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=15&rangeStart=1168&rangeEnd=1207"
-    },
-    {
-      "bookmarkId": "35679932_24_462-492",
-      "chapterUid": 24,
-      "range": "462-492",
-      "markText": "十九世纪末，有谁会相信，某种外星生物正敏锐地窥视着这个世界。",
-      "totalCount": 108,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=24&rangeStart=462&rangeEnd=492",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=24&rangeStart=462&rangeEnd=492"
     }
   ],
   "readProgress": {
