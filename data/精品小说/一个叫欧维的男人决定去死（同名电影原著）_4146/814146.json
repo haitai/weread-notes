@@ -12,28 +12,26 @@
     "isbn": "9787541142185",
     "wordCount": 0,
     "newRating": 925,
-    "newRatingCount": 79365,
+    "newRatingCount": 79366,
     "newRatingDetail": {
-      "good": 74428,
+      "good": 74429,
       "fair": 4567,
       "poor": 370,
-      "recent": 510,
+      "recent": 511,
       "deepV": 5879,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=814146",
     "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439",
-    "lastSync": "2026-08-08T17:21:56Z",
+    "lastSync": "2026-08-08T18:32:35Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 5,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
-    "coverDownloaded": true,
-    "localCover": "data/精品小说/一个叫欧维的男人决定去死（同名电影原著）_4146/814146.jpg"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
   },
   "chapters": [
     {
@@ -706,7 +704,7 @@
       "chapterUid": 46,
       "range": "1351-1404",
       "markText": "他怎么也得有两米高。欧维总是本能地对所有一米八五以上的人心存怀疑。经验告诉他，长成这样，血液很难抵达大脑。",
-      "totalCount": 53208,
+      "totalCount": 53226,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=46&rangeStart=1351&rangeEnd=1404",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=46&rangeStart=1351&rangeEnd=1404"
     },
