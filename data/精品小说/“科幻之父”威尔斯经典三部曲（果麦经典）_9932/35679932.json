@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 957,
-    "newRatingCount": 1178,
+    "newRatingCount": 1180,
     "newRatingDetail": {
-      "good": 1131,
+      "good": 1133,
       "fair": 37,
       "poor": 10,
-      "recent": 58,
-      "deepV": 444,
+      "recent": 59,
+      "deepV": 445,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-08-09T18:35:51Z",
+    "lastSync": "2026-08-10T17:42:58Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1310,6 +1312,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
     },
     {
+      "bookmarkId": "35679932_7_6538-6552",
+      "chapterUid": 7,
+      "range": "6538-6552",
+      "markText": "需求催生力量，安逸助长衰颓。",
+      "totalCount": 117,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=6538&rangeEnd=6552",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=6538&rangeEnd=6552"
+    },
+    {
       "bookmarkId": "35679932_4_1310-1345",
       "chapterUid": 4,
       "range": "1310-1345",
@@ -1335,15 +1346,6 @@
       "totalCount": 108,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=12118&rangeEnd=12183",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=12118&rangeEnd=12183"
-    },
-    {
-      "bookmarkId": "35679932_15_1168-1207",
-      "chapterUid": 15,
-      "range": "1168-1207",
-      "markText": "两者之间恰好即是草坪与狮身人面像基座的距离。莫洛克人曾将我的机器搬入基座之中。",
-      "totalCount": 108,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=15&rangeStart=1168&rangeEnd=1207",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=15&rangeStart=1168&rangeEnd=1207"
     }
   ],
   "readProgress": {
