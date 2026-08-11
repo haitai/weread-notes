@@ -12,19 +12,19 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 957,
-    "newRatingCount": 1180,
+    "newRatingCount": 1182,
     "newRatingDetail": {
-      "good": 1133,
-      "fair": 37,
+      "good": 1134,
+      "fair": 38,
       "poor": 10,
-      "recent": 59,
-      "deepV": 445,
+      "recent": 60,
+      "deepV": 446,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-08-10T17:42:58Z",
+    "lastSync": "2026-08-11T17:48:43Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1186,6 +1186,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
     {
+      "bookmarkId": "35679932_4_2312-2344",
+      "chapterUid": 4,
+      "range": "2312-2344",
+      "markText": "这一切显然都是固定不变的片段，可谓是一个人四维存在的三维化表现。",
+      "totalCount": 234,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
+    },
+    {
       "bookmarkId": "35679932_4_3384-3421",
       "chapterUid": 4,
       "range": "3384-3421",
@@ -1204,15 +1213,6 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=552&rangeEnd=572"
     },
     {
-      "bookmarkId": "35679932_4_2312-2344",
-      "chapterUid": 4,
-      "range": "2312-2344",
-      "markText": "这一切显然都是固定不变的片段，可谓是一个人四维存在的三维化表现。",
-      "totalCount": 216,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
-    },
-    {
       "bookmarkId": "35679932_4_7279-7323",
       "chapterUid": 4,
       "range": "7279-7323",
@@ -1220,6 +1220,15 @@
       "totalCount": 180,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=7279&rangeEnd=7323",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
+    },
+    {
+      "bookmarkId": "35679932_49_4941-5031",
+      "chapterUid": 49,
+      "range": "4941-5031",
+      "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
     {
       "bookmarkId": "35679932_4_1441-1467",
@@ -1238,15 +1247,6 @@
       "totalCount": 154,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
-    },
-    {
-      "bookmarkId": "35679932_49_4941-5031",
-      "chapterUid": 49,
-      "range": "4941-5031",
-      "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
-      "totalCount": 150,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
     {
       "bookmarkId": "35679932_7_8353-8377",
@@ -1285,6 +1285,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
     },
     {
+      "bookmarkId": "35679932_4_1310-1345",
+      "chapterUid": 4,
+      "range": "1310-1345",
+      "markText": "所谓实体都必须在四个方面具备延展性，包括长度、宽度、厚度，以及——时间",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
+    },
+    {
       "bookmarkId": "35679932_12_4838-4882",
       "chapterUid": 12,
       "range": "4838-4882",
@@ -1319,15 +1328,6 @@
       "totalCount": 117,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=6538&rangeEnd=6552",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=6538&rangeEnd=6552"
-    },
-    {
-      "bookmarkId": "35679932_4_1310-1345",
-      "chapterUid": 4,
-      "range": "1310-1345",
-      "markText": "所谓实体都必须在四个方面具备延展性，包括长度、宽度、厚度，以及——时间",
-      "totalCount": 108,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
     },
     {
       "bookmarkId": "35679932_4_3059-3083",
