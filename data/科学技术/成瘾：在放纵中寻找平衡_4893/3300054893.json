@@ -17,21 +17,23 @@
       "good": 3036,
       "fair": 787,
       "poor": 143,
-      "recent": 37,
+      "recent": 34,
       "deepV": 1113,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-08-12T18:58:09Z",
+    "lastSync": "2026-08-13T17:51:47Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -480,7 +482,7 @@
       "chapterUid": 9,
       "range": "1311-1368",
       "markText": "多巴胺的主要作用不是让人们在获得奖励后感到快乐，而是驱动人们产生获得奖励的动机。它促进了“想要”，而不是“喜欢”。",
-      "totalCount": 2655,
+      "totalCount": 2670,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=1311&rangeEnd=1368",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=1311&rangeEnd=1368"
     },
@@ -530,6 +532,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
     },
     {
+      "bookmarkId": "3300054893_7_16067-16121",
+      "chapterUid": 7,
+      "range": "16067-16121",
+      "markText": "人类是群居动物。当我们在网上看到其他人以某种方式行事时，这些行为似乎就有了“正常性”，因为其他人都在这样做。",
+      "totalCount": 1785,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=16067&rangeEnd=16121",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=16067&rangeEnd=16121"
+    },
+    {
       "bookmarkId": "3300054893_8_4444-4521",
       "chapterUid": 8,
       "range": "4444-4521",
@@ -539,20 +550,11 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=4444&rangeEnd=4521"
     },
     {
-      "bookmarkId": "3300054893_7_16067-16121",
-      "chapterUid": 7,
-      "range": "16067-16121",
-      "markText": "人类是群居动物。当我们在网上看到其他人以某种方式行事时，这些行为似乎就有了“正常性”，因为其他人都在这样做。",
-      "totalCount": 1768,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=16067&rangeEnd=16121",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=16067&rangeEnd=16121"
-    },
-    {
       "bookmarkId": "3300054893_5_1176-1257",
       "chapterUid": 5,
       "range": "1176-1257",
       "markText": "吃完一块巧克力后渴望再吃一块；遇到一本好书、一部精彩的电影或一个好玩的电子游戏时，希望它永远不要结束。在我们产生渴求的那一刻，大脑内的天平开始向痛苦的那一边倾斜。",
-      "totalCount": 1740,
+      "totalCount": 1752,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=5&rangeStart=1176&rangeEnd=1257",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=5&rangeStart=1176&rangeEnd=1257"
     },
@@ -570,7 +572,7 @@
       "chapterUid": 4,
       "range": "2134-2168",
       "markText": "放弃那些在短期内给他带来快乐的事情，从长远来看，可能会使他更加快乐。",
-      "totalCount": 1584,
+      "totalCount": 1602,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=4&rangeStart=2134&rangeEnd=2168",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=2134&rangeEnd=2168"
     },
