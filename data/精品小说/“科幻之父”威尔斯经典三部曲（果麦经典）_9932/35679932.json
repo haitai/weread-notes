@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 957,
-    "newRatingCount": 1183,
+    "newRatingCount": 1184,
     "newRatingDetail": {
-      "good": 1135,
+      "good": 1136,
       "fair": 38,
       "poor": 10,
-      "recent": 58,
+      "recent": 53,
       "deepV": 446,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-08-15T18:23:33Z",
+    "lastSync": "2026-08-16T17:11:07Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1283,6 +1285,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
     {
+      "bookmarkId": "35679932_15_1168-1207",
+      "chapterUid": 15,
+      "range": "1168-1207",
+      "markText": "两者之间恰好即是草坪与狮身人面像基座的距离。莫洛克人曾将我的机器搬入基座之中。",
+      "totalCount": 126,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=15&rangeStart=1168&rangeEnd=1207",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=15&rangeStart=1168&rangeEnd=1207"
+    },
+    {
       "bookmarkId": "35679932_4_1310-1345",
       "chapterUid": 4,
       "range": "1310-1345",
@@ -1335,15 +1346,6 @@
       "totalCount": 108,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3059&rangeEnd=3083",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3059&rangeEnd=3083"
-    },
-    {
-      "bookmarkId": "35679932_8_12118-12183",
-      "chapterUid": 8,
-      "range": "12118-12183",
-      "markText": "从我们这个时代的问题说起吧。毋庸置疑的是，资本家和劳动者的社会差别正日益扩大，这种扩大只是暂时的，但无疑已成为人类分化的关键因素。",
-      "totalCount": 108,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=12118&rangeEnd=12183",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=12118&rangeEnd=12183"
     }
   ],
   "readProgress": {
