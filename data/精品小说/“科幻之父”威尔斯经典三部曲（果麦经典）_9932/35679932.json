@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 956,
-    "newRatingCount": 1190,
+    "newRatingCount": 1191,
     "newRatingDetail": {
-      "good": 1141,
+      "good": 1142,
       "fair": 39,
       "poor": 10,
-      "recent": 50,
+      "recent": 51,
       "deepV": 449,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-08-20T18:34:04Z",
+    "lastSync": "2026-08-21T17:19:14Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1179,7 +1181,7 @@
       "chapterUid": 4,
       "range": "4698-4727",
       "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
-      "totalCount": 322,
+      "totalCount": 336,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
@@ -1197,7 +1199,7 @@
       "chapterUid": 4,
       "range": "552-572",
       "markText": "这椅子与其说是供人入座，不如说是拥人入怀",
-      "totalCount": 238,
+      "totalCount": 255,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=552&rangeEnd=572",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=552&rangeEnd=572"
     },
@@ -1310,6 +1312,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
     },
     {
+      "bookmarkId": "35679932_4_3154-3204",
+      "chapterUid": 4,
+      "range": "3154-3204",
+      "markText": "我们的精神存在是非物质性的，虽然没有任何维度表现，但从我们出生到死亡，它始终沿着时间这一维度匀速前行",
+      "totalCount": 120,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
+    },
+    {
       "bookmarkId": "35679932_12_4838-4882",
       "chapterUid": 12,
       "range": "4838-4882",
@@ -1335,15 +1346,6 @@
       "totalCount": 119,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2525&rangeEnd=2557",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
-    },
-    {
-      "bookmarkId": "35679932_7_6538-6552",
-      "chapterUid": 7,
-      "range": "6538-6552",
-      "markText": "需求催生力量，安逸助长衰颓。",
-      "totalCount": 117,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=6538&rangeEnd=6552",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=6538&rangeEnd=6552"
     }
   ],
   "readProgress": {
