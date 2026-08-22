@@ -12,9 +12,9 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 783,
-    "newRatingCount": 3979,
+    "newRatingCount": 3978,
     "newRatingDetail": {
-      "good": 3047,
+      "good": 3046,
       "fair": 788,
       "poor": 144,
       "recent": 39,
@@ -24,16 +24,14 @@
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-08-22T17:13:02Z",
+    "lastSync": "2026-08-22T18:25:01Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
-    "coverDownloaded": true,
-    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
   },
   "chapters": [
     {
