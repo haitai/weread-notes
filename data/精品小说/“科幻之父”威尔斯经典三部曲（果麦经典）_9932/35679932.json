@@ -17,14 +17,14 @@
       "good": 1147,
       "fair": 44,
       "poor": 10,
-      "recent": 44,
+      "recent": 43,
       "deepV": 452,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-08-31T21:41:39Z",
+    "lastSync": "2026-09-01T19:41:02Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1186,6 +1186,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
     {
+      "bookmarkId": "35679932_4_552-572",
+      "chapterUid": 4,
+      "range": "552-572",
+      "markText": "这椅子与其说是供人入座，不如说是拥人入怀",
+      "totalCount": 323,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=552&rangeEnd=572",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=552&rangeEnd=572"
+    },
+    {
       "bookmarkId": "35679932_4_3384-3421",
       "chapterUid": 4,
       "range": "3384-3421",
@@ -1195,15 +1204,6 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
     },
     {
-      "bookmarkId": "35679932_4_552-572",
-      "chapterUid": 4,
-      "range": "552-572",
-      "markText": "这椅子与其说是供人入座，不如说是拥人入怀",
-      "totalCount": 306,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=552&rangeEnd=572",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=552&rangeEnd=572"
-    },
-    {
       "bookmarkId": "35679932_4_2312-2344",
       "chapterUid": 4,
       "range": "2312-2344",
@@ -1211,6 +1211,15 @@
       "totalCount": 252,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
+    },
+    {
+      "bookmarkId": "35679932_49_4941-5031",
+      "chapterUid": 49,
+      "range": "4941-5031",
+      "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
+      "totalCount": 195,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
     {
       "bookmarkId": "35679932_4_1372-1418",
@@ -1229,15 +1238,6 @@
       "totalCount": 180,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=7279&rangeEnd=7323",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
-    },
-    {
-      "bookmarkId": "35679932_49_4941-5031",
-      "chapterUid": 49,
-      "range": "4941-5031",
-      "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
-      "totalCount": 180,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
     {
       "bookmarkId": "35679932_4_1441-1467",
