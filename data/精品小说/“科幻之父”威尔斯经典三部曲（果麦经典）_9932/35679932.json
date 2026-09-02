@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 953,
-    "newRatingCount": 1201,
+    "newRating": 952,
+    "newRatingCount": 1204,
     "newRatingDetail": {
-      "good": 1147,
-      "fair": 44,
+      "good": 1148,
+      "fair": 46,
       "poor": 10,
-      "recent": 43,
-      "deepV": 452,
+      "recent": 44,
+      "deepV": 453,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-09-01T20:30:41Z",
+    "lastSync": "2026-09-02T19:33:00Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1274,6 +1276,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
     },
     {
+      "bookmarkId": "35679932_4_432-502",
+      "chapterUid": 4,
+      "range": "432-502",
+      "markText": "时间旅者（方便起见，如此称呼）正向我们阐述一件深奥之事。他灰色的双眸炯炯有神，不时眨眼，素日里苍白的脸颊此刻红光焕发，神采奕奕。炉火烧得正旺",
+      "totalCount": 143,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=432&rangeEnd=502",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
+    },
+    {
       "bookmarkId": "35679932_4_2075-2104",
       "chapterUid": 4,
       "range": "2075-2104",
@@ -1281,15 +1292,6 @@
       "totalCount": 140,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
-    },
-    {
-      "bookmarkId": "35679932_4_432-502",
-      "chapterUid": 4,
-      "range": "432-502",
-      "markText": "时间旅者（方便起见，如此称呼）正向我们阐述一件深奥之事。他灰色的双眸炯炯有神，不时眨眼，素日里苍白的脸颊此刻红光焕发，神采奕奕。炉火烧得正旺",
-      "totalCount": 132,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=432&rangeEnd=502",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
     },
     {
       "bookmarkId": "35679932_4_3059-3083",
