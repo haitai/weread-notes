@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 952,
-    "newRatingCount": 1204,
+    "newRating": 951,
+    "newRatingCount": 1206,
     "newRatingDetail": {
-      "good": 1148,
+      "good": 1149,
       "fair": 46,
-      "poor": 10,
-      "recent": 44,
+      "poor": 11,
+      "recent": 43,
       "deepV": 453,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-09-02T20:28:52Z",
+    "lastSync": "2026-09-03T19:29:56Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1170,7 +1172,7 @@
       "chapterUid": 4,
       "range": "4698-4727",
       "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
-      "totalCount": 364,
+      "totalCount": 378,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
@@ -1215,7 +1217,7 @@
       "chapterUid": 49,
       "range": "4941-5031",
       "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
-      "totalCount": 195,
+      "totalCount": 210,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
