@@ -17,21 +17,23 @@
       "good": 3053,
       "fair": 789,
       "poor": 144,
-      "recent": 27,
+      "recent": 26,
       "deepV": 1123,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-09-08T20:42:04Z",
+    "lastSync": "2026-09-09T19:34:02Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -489,7 +491,7 @@
       "chapterUid": 7,
       "range": "9749-9814",
       "markText": "成瘾的最大风险因素之一是成瘾物质容易获取。当某一种东西更容易获得时，我们也更有可能使用这种东西。在使用的过程中，我们很可能会上瘾。",
-      "totalCount": 2646,
+      "totalCount": 2660,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=9749&rangeEnd=9814",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=9749&rangeEnd=9814"
     },
@@ -516,7 +518,7 @@
       "chapterUid": 12,
       "range": "19544-19560",
       "markText": "约束自己也是获得自由的方法之一。",
-      "totalCount": 1920,
+      "totalCount": 1930,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=19544&rangeEnd=19560",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
     },
