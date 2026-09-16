@@ -17,21 +17,23 @@
       "good": 1150,
       "fair": 48,
       "poor": 11,
-      "recent": 32,
+      "recent": 30,
       "deepV": 454,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-09-15T20:50:41Z",
+    "lastSync": "2026-09-16T19:48:00Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1224,7 +1226,7 @@
       "chapterUid": 4,
       "range": "1372-1418",
       "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
-      "totalCount": 182,
+      "totalCount": 196,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
     },
@@ -1256,6 +1258,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
     },
     {
+      "bookmarkId": "35679932_4_2075-2104",
+      "chapterUid": 4,
+      "range": "2075-2104",
+      "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
+    },
+    {
       "bookmarkId": "35679932_7_8353-8377",
       "chapterUid": 7,
       "range": "8353-8377",
@@ -1281,15 +1292,6 @@
       "totalCount": 143,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=432&rangeEnd=502",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
-    },
-    {
-      "bookmarkId": "35679932_4_2075-2104",
-      "chapterUid": 4,
-      "range": "2075-2104",
-      "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
-      "totalCount": 140,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
     {
       "bookmarkId": "35679932_4_3059-3083",
