@@ -13,19 +13,19 @@
     "publishTime": "2026-08-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 793,
-    "newRatingCount": 23,
+    "newRating": 794,
+    "newRatingCount": 24,
     "newRatingDetail": {
       "good": 16,
-      "fair": 4,
+      "fair": 5,
       "poor": 3,
-      "recent": 3,
+      "recent": 4,
       "deepV": 1,
       "myRating": "",
       "title": ""
     },
     "appLink": "weread://reading?bId=3300228052",
-    "lastSync": "2026-09-24T20:13:10Z",
+    "lastSync": "2026-09-25T20:11:09Z",
     "readingProgress": "6%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -38,10 +38,10 @@
   "bookReviews": [],
   "hotBookmarks": [],
   "readProgress": {
-    "chapterUid": 159,
-    "chapterOffset": 672,
+    "chapterUid": 167,
+    "chapterOffset": 600,
     "progress": 6,
-    "updateTime": 1790226439,
+    "updateTime": 1790299801,
     "recordReadingTime": 0,
     "finishTime": ""
   }
