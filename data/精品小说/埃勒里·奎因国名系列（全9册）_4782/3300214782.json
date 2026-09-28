@@ -13,19 +13,19 @@
     "publishTime": "2026-05-09 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 933,
-    "newRatingCount": 486,
+    "newRating": 899,
+    "newRatingCount": 485,
     "newRatingDetail": {
-      "good": 475,
+      "good": 473,
       "fair": 6,
-      "poor": 5,
-      "recent": 25,
-      "deepV": 183,
+      "poor": 6,
+      "recent": 13,
+      "deepV": 186,
       "myRating": "",
-      "title": "神作潜力"
+      "title": ""
     },
     "appLink": "weread://reading?bId=3300214782",
-    "lastSync": "2026-09-03T19:31:38Z",
+    "lastSync": "2026-09-28T22:22:29Z",
     "readingProgress": "0%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -38,10 +38,10 @@
   "bookReviews": [],
   "hotBookmarks": [],
   "readProgress": {
-    "chapterUid": 8,
-    "chapterOffset": 572,
+    "chapterUid": 7,
+    "chapterOffset": 8707,
     "progress": 0,
-    "updateTime": 1788409527,
+    "updateTime": 1790583495,
     "recordReadingTime": 0,
     "finishTime": ""
   }

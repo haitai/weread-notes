@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 948,
-    "newRatingCount": 1218,
+    "newRatingCount": 1219,
     "newRatingDetail": {
-      "good": 1158,
+      "good": 1159,
       "fair": 49,
       "poor": 11,
-      "recent": 23,
+      "recent": 24,
       "deepV": 457,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-09-27T20:50:43Z",
+    "lastSync": "2026-09-28T22:20:48Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1274,6 +1276,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
     },
     {
+      "bookmarkId": "35679932_12_4838-4882",
+      "chapterUid": 12,
+      "range": "4838-4882",
+      "markText": "当我想到她已逃脱似乎命中注定的厄运，不必再沦为腹中之物时，我难以形容自己是多么如释重负。",
+      "totalCount": 150,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=12&rangeStart=4838&rangeEnd=4882",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
+    },
+    {
       "bookmarkId": "35679932_4_3059-3083",
       "chapterUid": 4,
       "range": "3059-3083",
@@ -1335,15 +1346,6 @@
       "totalCount": 120,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3982&rangeEnd=3999",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3982&rangeEnd=3999"
-    },
-    {
-      "bookmarkId": "35679932_12_4838-4882",
-      "chapterUid": 12,
-      "range": "4838-4882",
-      "markText": "当我想到她已逃脱似乎命中注定的厄运，不必再沦为腹中之物时，我难以形容自己是多么如释重负。",
-      "totalCount": 120,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=12&rangeStart=4838&rangeEnd=4882",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
     }
   ],
   "readProgress": {
