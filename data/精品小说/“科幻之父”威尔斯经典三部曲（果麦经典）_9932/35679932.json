@@ -12,19 +12,19 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 948,
-    "newRatingCount": 1219,
+    "newRatingCount": 1220,
     "newRatingDetail": {
-      "good": 1159,
+      "good": 1160,
       "fair": 49,
       "poor": 11,
-      "recent": 24,
+      "recent": 25,
       "deepV": 457,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-09-28T22:20:48Z",
+    "lastSync": "2026-09-29T21:09:45Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1181,7 +1181,7 @@
       "chapterUid": 4,
       "range": "1230-1254",
       "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
-      "totalCount": 360,
+      "totalCount": 378,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
@@ -1213,6 +1213,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
     },
     {
+      "bookmarkId": "35679932_4_1372-1418",
+      "chapterUid": 4,
+      "range": "1372-1418",
+      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
+    },
+    {
       "bookmarkId": "35679932_49_4941-5031",
       "chapterUid": 49,
       "range": "4941-5031",
@@ -1220,15 +1229,6 @@
       "totalCount": 210,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
-    },
-    {
-      "bookmarkId": "35679932_4_1372-1418",
-      "chapterUid": 4,
-      "range": "1372-1418",
-      "markText": "这一点我稍后会向你们解释。事实上，万物皆为四维，前三者我们统称为三维空间，而第四维就是时间。",
-      "totalCount": 196,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
     },
     {
       "bookmarkId": "35679932_4_7279-7323",
@@ -1253,7 +1253,7 @@
       "chapterUid": 4,
       "range": "2075-2104",
       "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
-      "totalCount": 160,
+      "totalCount": 170,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
@@ -1312,6 +1312,24 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
     },
     {
+      "bookmarkId": "35679932_15_1168-1207",
+      "chapterUid": 15,
+      "range": "1168-1207",
+      "markText": "两者之间恰好即是草坪与狮身人面像基座的距离。莫洛克人曾将我的机器搬入基座之中。",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=15&rangeStart=1168&rangeEnd=1207",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=15&rangeStart=1168&rangeEnd=1207"
+    },
+    {
+      "bookmarkId": "35679932_4_1310-1345",
+      "chapterUid": 4,
+      "range": "1310-1345",
+      "markText": "所谓实体都必须在四个方面具备延展性，包括长度、宽度、厚度，以及——时间",
+      "totalCount": 132,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
+    },
+    {
       "bookmarkId": "35679932_4_3154-3204",
       "chapterUid": 4,
       "range": "3154-3204",
@@ -1321,31 +1339,13 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
     },
     {
-      "bookmarkId": "35679932_15_1168-1207",
-      "chapterUid": 15,
-      "range": "1168-1207",
-      "markText": "两者之间恰好即是草坪与狮身人面像基座的距离。莫洛克人曾将我的机器搬入基座之中。",
-      "totalCount": 126,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=15&rangeStart=1168&rangeEnd=1207",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=15&rangeStart=1168&rangeEnd=1207"
-    },
-    {
-      "bookmarkId": "35679932_4_1310-1345",
+      "bookmarkId": "35679932_4_1010-1028",
       "chapterUid": 4,
-      "range": "1310-1345",
-      "markText": "所谓实体都必须在四个方面具备延展性，包括长度、宽度、厚度，以及——时间",
+      "range": "1010-1028",
+      "markText": "“仅有长、宽、高的立方体也不存在。”",
       "totalCount": 120,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1310&rangeEnd=1345",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
-    },
-    {
-      "bookmarkId": "35679932_4_3982-3999",
-      "chapterUid": 4,
-      "range": "3982-3999",
-      "markText": "人们驾驶着它，便能随心所欲穿梭时空",
-      "totalCount": 120,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3982&rangeEnd=3999",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3982&rangeEnd=3999"
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
     }
   ],
   "readProgress": {
