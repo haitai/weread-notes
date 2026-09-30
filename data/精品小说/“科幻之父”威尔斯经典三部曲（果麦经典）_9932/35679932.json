@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 948,
-    "newRatingCount": 1220,
+    "newRatingCount": 1223,
     "newRatingDetail": {
-      "good": 1160,
+      "good": 1163,
       "fair": 49,
       "poor": 11,
-      "recent": 25,
-      "deepV": 457,
+      "recent": 28,
+      "deepV": 458,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-09-29T21:49:41Z",
+    "lastSync": "2026-09-30T21:05:45Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1170,7 +1172,7 @@
       "chapterUid": 4,
       "range": "4698-4727",
       "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
-      "totalCount": 392,
+      "totalCount": 406,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
@@ -1197,7 +1199,7 @@
       "chapterUid": 4,
       "range": "3384-3421",
       "markText": "倘若一件往事栩栩如生地浮现在我脑海，我便身临其境地回到当初它发生的那一时刻",
-      "totalCount": 322,
+      "totalCount": 350,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3384&rangeEnd=3421",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
     },
@@ -1229,6 +1231,24 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
     {
+      "bookmarkId": "35679932_4_1441-1467",
+      "chapterUid": 4,
+      "range": "1441-1467",
+      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
+      "totalCount": 192,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
+    },
+    {
+      "bookmarkId": "35679932_4_2075-2104",
+      "chapterUid": 4,
+      "range": "2075-2104",
+      "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
+    },
+    {
       "bookmarkId": "35679932_4_7279-7323",
       "chapterUid": 4,
       "range": "7279-7323",
@@ -1238,24 +1258,6 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
     },
     {
-      "bookmarkId": "35679932_4_1441-1467",
-      "chapterUid": 4,
-      "range": "1441-1467",
-      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
-      "totalCount": 176,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
-    },
-    {
-      "bookmarkId": "35679932_4_2075-2104",
-      "chapterUid": 4,
-      "range": "2075-2104",
-      "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
-      "totalCount": 170,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
-    },
-    {
       "bookmarkId": "35679932_8_6619-6681",
       "chapterUid": 8,
       "range": "6619-6681",
@@ -1263,6 +1265,15 @@
       "totalCount": 160,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=8&rangeStart=6619&rangeEnd=6681",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
+    },
+    {
+      "bookmarkId": "35679932_4_3059-3083",
+      "chapterUid": 4,
+      "range": "3059-3083",
+      "markText": "但是你根本无法在时间中移动，无法离开此时此刻。”",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3059&rangeEnd=3083",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3059&rangeEnd=3083"
     },
     {
       "bookmarkId": "35679932_4_432-502",
@@ -1283,13 +1294,13 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
     },
     {
-      "bookmarkId": "35679932_4_3059-3083",
+      "bookmarkId": "35679932_4_3154-3204",
       "chapterUid": 4,
-      "range": "3059-3083",
-      "markText": "但是你根本无法在时间中移动，无法离开此时此刻。”",
+      "range": "3154-3204",
+      "markText": "我们的精神存在是非物质性的，虽然没有任何维度表现，但从我们出生到死亡，它始终沿着时间这一维度匀速前行",
       "totalCount": 144,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3059&rangeEnd=3083",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3059&rangeEnd=3083"
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
     },
     {
       "bookmarkId": "35679932_7_8353-8377",
@@ -1328,22 +1339,13 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1310&rangeEnd=1345"
     },
     {
-      "bookmarkId": "35679932_4_3154-3204",
+      "bookmarkId": "35679932_4_3982-3999",
       "chapterUid": 4,
-      "range": "3154-3204",
-      "markText": "我们的精神存在是非物质性的，虽然没有任何维度表现，但从我们出生到死亡，它始终沿着时间这一维度匀速前行",
+      "range": "3982-3999",
+      "markText": "人们驾驶着它，便能随心所欲穿梭时空",
       "totalCount": 132,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
-    },
-    {
-      "bookmarkId": "35679932_4_1010-1028",
-      "chapterUid": 4,
-      "range": "1010-1028",
-      "markText": "“仅有长、宽、高的立方体也不存在。”",
-      "totalCount": 120,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3982&rangeEnd=3999",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3982&rangeEnd=3999"
     }
   ],
   "readProgress": {
