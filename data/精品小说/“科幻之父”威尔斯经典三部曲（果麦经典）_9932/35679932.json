@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 948,
-    "newRatingCount": 1223,
+    "newRatingCount": 1225,
     "newRatingDetail": {
-      "good": 1163,
+      "good": 1165,
       "fair": 49,
       "poor": 11,
-      "recent": 28,
+      "recent": 30,
       "deepV": 458,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-09-30T21:50:52Z",
+    "lastSync": "2026-10-01T21:30:08Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1170,7 +1172,7 @@
       "chapterUid": 4,
       "range": "4698-4727",
       "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
-      "totalCount": 406,
+      "totalCount": 420,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
@@ -1211,6 +1213,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
     },
     {
+      "bookmarkId": "35679932_49_4941-5031",
+      "chapterUid": 49,
+      "range": "4941-5031",
+      "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
+      "totalCount": 225,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
+    },
+    {
       "bookmarkId": "35679932_4_1372-1418",
       "chapterUid": 4,
       "range": "1372-1418",
@@ -1218,15 +1229,6 @@
       "totalCount": 210,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
-    },
-    {
-      "bookmarkId": "35679932_49_4941-5031",
-      "chapterUid": 49,
-      "range": "4941-5031",
-      "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
-      "totalCount": 210,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
     {
       "bookmarkId": "35679932_4_1441-1467",
@@ -1242,7 +1244,7 @@
       "chapterUid": 4,
       "range": "2075-2104",
       "markText": "以此类推，凡能掌握透视画法，便能在三维模型中构建出第四维。",
-      "totalCount": 180,
+      "totalCount": 190,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
@@ -1254,6 +1256,24 @@
       "totalCount": 180,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=7279&rangeEnd=7323",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
+    },
+    {
+      "bookmarkId": "35679932_12_4838-4882",
+      "chapterUid": 12,
+      "range": "4838-4882",
+      "markText": "当我想到她已逃脱似乎命中注定的厄运，不必再沦为腹中之物时，我难以形容自己是多么如释重负。",
+      "totalCount": 165,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=12&rangeStart=4838&rangeEnd=4882",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
+    },
+    {
+      "bookmarkId": "35679932_11_5435-5478",
+      "chapterUid": 11,
+      "range": "5435-5478",
+      "markText": "我对一件南美洲怪兽的皂石雕像钟爱有加，按捺不住内心的冲动，将自己的名字写在它的鼻子上。",
+      "totalCount": 162,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=11&rangeStart=5435&rangeEnd=5478",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
     },
     {
       "bookmarkId": "35679932_8_6619-6681",
@@ -1283,15 +1303,6 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
     },
     {
-      "bookmarkId": "35679932_12_4838-4882",
-      "chapterUid": 12,
-      "range": "4838-4882",
-      "markText": "当我想到她已逃脱似乎命中注定的厄运，不必再沦为腹中之物时，我难以形容自己是多么如释重负。",
-      "totalCount": 150,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=12&rangeStart=4838&rangeEnd=4882",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
-    },
-    {
       "bookmarkId": "35679932_4_3154-3204",
       "chapterUid": 4,
       "range": "3154-3204",
@@ -1308,15 +1319,6 @@
       "totalCount": 144,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=8353&rangeEnd=8377",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=8353&rangeEnd=8377"
-    },
-    {
-      "bookmarkId": "35679932_11_5435-5478",
-      "chapterUid": 11,
-      "range": "5435-5478",
-      "markText": "我对一件南美洲怪兽的皂石雕像钟爱有加，按捺不住内心的冲动，将自己的名字写在它的鼻子上。",
-      "totalCount": 144,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=11&rangeStart=5435&rangeEnd=5478",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
     },
     {
       "bookmarkId": "35679932_15_1168-1207",
