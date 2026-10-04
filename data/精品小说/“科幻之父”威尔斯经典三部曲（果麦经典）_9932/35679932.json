@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-10-03T20:34:36Z",
+    "lastSync": "2026-10-04T19:50:44Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1179,7 +1181,7 @@
       "chapterUid": 4,
       "range": "1230-1254",
       "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
-      "totalCount": 396,
+      "totalCount": 414,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
@@ -1233,7 +1235,7 @@
       "chapterUid": 4,
       "range": "1441-1467",
       "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
-      "totalCount": 192,
+      "totalCount": 208,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
