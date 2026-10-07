@@ -17,21 +17,23 @@
       "good": 1166,
       "fair": 51,
       "poor": 11,
-      "recent": 28,
+      "recent": 27,
       "deepV": 458,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-10-06T22:17:53Z",
+    "lastSync": "2026-10-07T21:41:49Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1301,6 +1303,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=432&rangeEnd=502"
     },
     {
+      "bookmarkId": "35679932_4_2525-2557",
+      "chapterUid": 4,
+      "range": "2525-2557",
+      "markText": "但它必定是沿着某一特定轨迹运动，由此判断，这一轨迹就是时间维度。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2525&rangeEnd=2557",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
+    },
+    {
       "bookmarkId": "35679932_4_3154-3204",
       "chapterUid": 4,
       "range": "3154-3204",
@@ -1335,15 +1346,6 @@
       "totalCount": 144,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=15&rangeStart=1168&rangeEnd=1207",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=15&rangeStart=1168&rangeEnd=1207"
-    },
-    {
-      "bookmarkId": "35679932_4_3528-3577",
-      "chapterUid": 4,
-      "range": "3528-3577",
-      "markText": "既然如此，他为何不能指望自己终有一天能够在时间这一维度中停止或者加速前进，甚至转过身来逆向后退呢？",
-      "totalCount": 140,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3528&rangeEnd=3577",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3528&rangeEnd=3577"
     }
   ],
   "readProgress": {
