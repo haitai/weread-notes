@@ -17,21 +17,23 @@
       "good": 1166,
       "fair": 51,
       "poor": 11,
-      "recent": 27,
-      "deepV": 458,
+      "recent": 26,
+      "deepV": 459,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-10-08T22:51:18Z",
+    "lastSync": "2026-10-09T21:23:49Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1215,7 +1217,7 @@
       "chapterUid": 49,
       "range": "4941-5031",
       "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
-      "totalCount": 225,
+      "totalCount": 240,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
@@ -1310,6 +1312,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
     },
     {
+      "bookmarkId": "35679932_4_1010-1028",
+      "chapterUid": 4,
+      "range": "1010-1028",
+      "markText": "“仅有长、宽、高的立方体也不存在。”",
+      "totalCount": 144,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
+    },
+    {
       "bookmarkId": "35679932_4_3154-3204",
       "chapterUid": 4,
       "range": "3154-3204",
@@ -1335,15 +1346,6 @@
       "totalCount": 144,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=8353&rangeEnd=8377",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=8353&rangeEnd=8377"
-    },
-    {
-      "bookmarkId": "35679932_15_1168-1207",
-      "chapterUid": 15,
-      "range": "1168-1207",
-      "markText": "两者之间恰好即是草坪与狮身人面像基座的距离。莫洛克人曾将我的机器搬入基座之中。",
-      "totalCount": 144,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=15&rangeStart=1168&rangeEnd=1207",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=15&rangeStart=1168&rangeEnd=1207"
     }
   ],
   "readProgress": {
