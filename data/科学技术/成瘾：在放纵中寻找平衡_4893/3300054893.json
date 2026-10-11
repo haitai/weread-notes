@@ -17,21 +17,23 @@
       "good": 3078,
       "fair": 797,
       "poor": 146,
-      "recent": 37,
+      "recent": 36,
       "deepV": 1132,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-10-10T21:08:12Z",
+    "lastSync": "2026-10-11T20:43:09Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -516,7 +518,7 @@
       "chapterUid": 12,
       "range": "19544-19560",
       "markText": "约束自己也是获得自由的方法之一。",
-      "totalCount": 1960,
+      "totalCount": 1970,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=19544&rangeEnd=19560",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
     },
