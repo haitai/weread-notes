@@ -12,9 +12,9 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 782,
-    "newRatingCount": 4029,
+    "newRatingCount": 4030,
     "newRatingDetail": {
-      "good": 3085,
+      "good": 3086,
       "fair": 797,
       "poor": 147,
       "recent": 36,
@@ -24,7 +24,7 @@
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-10-19T21:18:49Z",
+    "lastSync": "2026-10-20T20:13:23Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -527,7 +527,7 @@
       "chapterUid": 9,
       "range": "6642-6683",
       "markText": "矛盾的是，享乐主义，即纯粹地追求快乐，会导致快感缺失，即无法享受到任何形式的快乐。",
-      "totalCount": 1845,
+      "totalCount": 1860,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=6642&rangeEnd=6683",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
     },
@@ -536,7 +536,7 @@
       "chapterUid": 5,
       "range": "1176-1257",
       "markText": "吃完一块巧克力后渴望再吃一块；遇到一本好书、一部精彩的电影或一个好玩的电子游戏时，希望它永远不要结束。在我们产生渴求的那一刻，大脑内的天平开始向痛苦的那一边倾斜。",
-      "totalCount": 1836,
+      "totalCount": 1848,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=5&rangeStart=1176&rangeEnd=1257",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=5&rangeStart=1176&rangeEnd=1257"
     },
@@ -577,6 +577,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=2134&rangeEnd=2168"
     },
     {
+      "bookmarkId": "3300054893_12_2172-2225",
+      "chapterUid": 12,
+      "range": "2172-2225",
+      "markText": "有效自我约束的关键是，首先承认我们会在强烈的欲望下丧失自主性，然后在我们尚有自主选择能力的时候来约束自己。",
+      "totalCount": 1612,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=2172&rangeEnd=2225",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=2172&rangeEnd=2225"
+    },
+    {
       "bookmarkId": "3300054893_12_10865-10904",
       "chapterUid": 12,
       "range": "10865-10904",
@@ -586,20 +595,11 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=10865&rangeEnd=10904"
     },
     {
-      "bookmarkId": "3300054893_12_2172-2225",
-      "chapterUid": 12,
-      "range": "2172-2225",
-      "markText": "有效自我约束的关键是，首先承认我们会在强烈的欲望下丧失自主性，然后在我们尚有自主选择能力的时候来约束自己。",
-      "totalCount": 1599,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=2172&rangeEnd=2225",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=2172&rangeEnd=2225"
-    },
-    {
       "bookmarkId": "3300054893_8_9782-9836",
       "chapterUid": 8,
       "range": "9782-9836",
       "markText": "我们总会做点儿什么将注意力从自己身上移开。然而，所有这些试图让自己远离痛苦的努力似乎只会让我们变得更加痛苦。",
-      "totalCount": 1547,
+      "totalCount": 1560,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=9782&rangeEnd=9836",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=9782&rangeEnd=9836"
     },
