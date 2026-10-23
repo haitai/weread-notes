@@ -11,27 +11,29 @@
     "publishTime": "2021-01-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 945,
-    "newRatingCount": 1239,
+    "newRating": 944,
+    "newRatingCount": 1241,
     "newRatingDetail": {
-      "good": 1173,
-      "fair": 53,
+      "good": 1174,
+      "fair": 54,
       "poor": 13,
-      "recent": 28,
-      "deepV": 465,
+      "recent": 29,
+      "deepV": 466,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-10-22T21:10:17Z",
+    "lastSync": "2026-10-23T20:08:54Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1328,6 +1330,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3528&rangeEnd=3577"
     },
     {
+      "bookmarkId": "35679932_10_5981-5999",
+      "chapterUid": 10,
+      "range": "5981-5999",
+      "markText": "同时，我也决定将薇娜带回我们的时代。",
+      "totalCount": 153,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=10&rangeStart=5981&rangeEnd=5999",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=10&rangeStart=5981&rangeEnd=5999"
+    },
+    {
       "bookmarkId": "35679932_4_1010-1028",
       "chapterUid": 4,
       "range": "1010-1028",
@@ -1335,15 +1346,6 @@
       "totalCount": 144,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
-    },
-    {
-      "bookmarkId": "35679932_4_3154-3204",
-      "chapterUid": 4,
-      "range": "3154-3204",
-      "markText": "我们的精神存在是非物质性的，虽然没有任何维度表现，但从我们出生到死亡，它始终沿着时间这一维度匀速前行",
-      "totalCount": 144,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
     }
   ],
   "readProgress": {

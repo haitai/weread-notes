@@ -12,26 +12,28 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 782,
-    "newRatingCount": 4031,
+    "newRatingCount": 4032,
     "newRatingDetail": {
-      "good": 3087,
+      "good": 3088,
       "fair": 797,
       "poor": 147,
       "recent": 36,
-      "deepV": 1137,
+      "deepV": 1138,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-10-22T21:11:27Z",
+    "lastSync": "2026-10-23T20:09:55Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -476,6 +478,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=10801&rangeEnd=10828"
     },
     {
+      "bookmarkId": "3300054893_7_9749-9814",
+      "chapterUid": 7,
+      "range": "9749-9814",
+      "markText": "成瘾的最大风险因素之一是成瘾物质容易获取。当某一种东西更容易获得时，我们也更有可能使用这种东西。在使用的过程中，我们很可能会上瘾。",
+      "totalCount": 2730,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=9749&rangeEnd=9814",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=9749&rangeEnd=9814"
+    },
+    {
       "bookmarkId": "3300054893_9_1311-1368",
       "chapterUid": 9,
       "range": "1311-1368",
@@ -483,15 +494,6 @@
       "totalCount": 2730,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=1311&rangeEnd=1368",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=1311&rangeEnd=1368"
-    },
-    {
-      "bookmarkId": "3300054893_7_9749-9814",
-      "chapterUid": 7,
-      "range": "9749-9814",
-      "markText": "成瘾的最大风险因素之一是成瘾物质容易获取。当某一种东西更容易获得时，我们也更有可能使用这种东西。在使用的过程中，我们很可能会上瘾。",
-      "totalCount": 2716,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=7&rangeStart=9749&rangeEnd=9814",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=7&rangeStart=9749&rangeEnd=9814"
     },
     {
       "bookmarkId": "3300054893_9_12671-12715",
@@ -521,6 +523,15 @@
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=19544&rangeEnd=19560"
     },
     {
+      "bookmarkId": "3300054893_5_1176-1257",
+      "chapterUid": 5,
+      "range": "1176-1257",
+      "markText": "吃完一块巧克力后渴望再吃一块；遇到一本好书、一部精彩的电影或一个好玩的电子游戏时，希望它永远不要结束。在我们产生渴求的那一刻，大脑内的天平开始向痛苦的那一边倾斜。",
+      "totalCount": 1860,
+      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=5&rangeStart=1176&rangeEnd=1257",
+      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=5&rangeStart=1176&rangeEnd=1257"
+    },
+    {
       "bookmarkId": "3300054893_9_6642-6683",
       "chapterUid": 9,
       "range": "6642-6683",
@@ -528,15 +539,6 @@
       "totalCount": 1860,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=9&rangeStart=6642&rangeEnd=6683",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=9&rangeStart=6642&rangeEnd=6683"
-    },
-    {
-      "bookmarkId": "3300054893_5_1176-1257",
-      "chapterUid": 5,
-      "range": "1176-1257",
-      "markText": "吃完一块巧克力后渴望再吃一块；遇到一本好书、一部精彩的电影或一个好玩的电子游戏时，希望它永远不要结束。在我们产生渴求的那一刻，大脑内的天平开始向痛苦的那一边倾斜。",
-      "totalCount": 1848,
-      "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=5&rangeStart=1176&rangeEnd=1257",
-      "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=5&rangeStart=1176&rangeEnd=1257"
     },
     {
       "bookmarkId": "3300054893_7_16067-16121",
@@ -552,7 +554,7 @@
       "chapterUid": 8,
       "range": "4444-4521",
       "markText": "但我担心，他们的童年被过度净化，甚至达到了病态的程度，在一个相当于软壁病房的环境中抚养孩子，孩子不会受伤害，但与此同时，他们也无法为步入这个世界做好准备。",
-      "totalCount": 1819,
+      "totalCount": 1836,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=8&rangeStart=4444&rangeEnd=4521",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=8&rangeStart=4444&rangeEnd=4521"
     },
@@ -579,7 +581,7 @@
       "chapterUid": 12,
       "range": "2172-2225",
       "markText": "有效自我约束的关键是，首先承认我们会在强烈的欲望下丧失自主性，然后在我们尚有自主选择能力的时候来约束自己。",
-      "totalCount": 1612,
+      "totalCount": 1625,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=12&rangeStart=2172&rangeEnd=2225",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=12&rangeStart=2172&rangeEnd=2225"
     },
