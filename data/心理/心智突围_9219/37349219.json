@@ -13,19 +13,19 @@
     "publishTime": "2020-12-01 00:00:00",
     "isbn": "9787210124955",
     "wordCount": 0,
-    "newRating": 792,
-    "newRatingCount": 1171,
+    "newRating": 793,
+    "newRatingCount": 1170,
     "newRatingDetail": {
       "good": 924,
-      "fair": 178,
+      "fair": 177,
       "poor": 69,
-      "recent": 35,
+      "recent": 32,
       "deepV": 281,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=37349219",
-    "lastSync": "2026-10-22T20:24:06Z",
+    "lastSync": "2026-10-24T19:10:56Z",
     "readingProgress": "8%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -39,9 +39,9 @@
   "hotBookmarks": [],
   "readProgress": {
     "chapterUid": 6,
-    "chapterOffset": 830,
+    "chapterOffset": 2161,
     "progress": 8,
-    "updateTime": 1792686020,
+    "updateTime": 1792807080,
     "recordReadingTime": 0,
     "finishTime": ""
   }

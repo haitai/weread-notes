@@ -17,21 +17,23 @@
       "good": 1174,
       "fair": 54,
       "poor": 13,
-      "recent": 29,
+      "recent": 28,
       "deepV": 466,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-10-23T20:57:10Z",
+    "lastSync": "2026-10-24T19:09:23Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1166,6 +1168,15 @@
   "bookReviews": [],
   "hotBookmarks": [
     {
+      "bookmarkId": "35679932_4_1230-1254",
+      "chapterUid": 4,
+      "range": "1230-1254",
+      "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
+      "totalCount": 468,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
+    },
+    {
       "bookmarkId": "35679932_4_4698-4727",
       "chapterUid": 4,
       "range": "4698-4727",
@@ -1173,15 +1184,6 @@
       "totalCount": 462,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
-    },
-    {
-      "bookmarkId": "35679932_4_1230-1254",
-      "chapterUid": 4,
-      "range": "1230-1254",
-      "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
-      "totalCount": 450,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
     {
       "bookmarkId": "35679932_4_3384-3421",
@@ -1206,7 +1208,7 @@
       "chapterUid": 4,
       "range": "2312-2344",
       "markText": "这一切显然都是固定不变的片段，可谓是一个人四维存在的三维化表现。",
-      "totalCount": 288,
+      "totalCount": 306,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
     },
@@ -1238,6 +1240,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
     {
+      "bookmarkId": "35679932_12_4838-4882",
+      "chapterUid": 12,
+      "range": "4838-4882",
+      "markText": "当我想到她已逃脱似乎命中注定的厄运，不必再沦为腹中之物时，我难以形容自己是多么如释重负。",
+      "totalCount": 210,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=12&rangeStart=4838&rangeEnd=4882",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
+    },
+    {
       "bookmarkId": "35679932_4_1441-1467",
       "chapterUid": 4,
       "range": "1441-1467",
@@ -1245,15 +1256,6 @@
       "totalCount": 208,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
-    },
-    {
-      "bookmarkId": "35679932_12_4838-4882",
-      "chapterUid": 12,
-      "range": "4838-4882",
-      "markText": "当我想到她已逃脱似乎命中注定的厄运，不必再沦为腹中之物时，我难以形容自己是多么如释重负。",
-      "totalCount": 195,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=12&rangeStart=4838&rangeEnd=4882",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=12&rangeStart=4838&rangeEnd=4882"
     },
     {
       "bookmarkId": "35679932_4_2525-2557",
@@ -1274,6 +1276,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
     },
     {
+      "bookmarkId": "35679932_11_5435-5478",
+      "chapterUid": 11,
+      "range": "5435-5478",
+      "markText": "我对一件南美洲怪兽的皂石雕像钟爱有加，按捺不住内心的冲动，将自己的名字写在它的鼻子上。",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=11&rangeStart=5435&rangeEnd=5478",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
+    },
+    {
       "bookmarkId": "35679932_4_432-502",
       "chapterUid": 4,
       "range": "432-502",
@@ -1290,15 +1301,6 @@
       "totalCount": 162,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=4569&rangeEnd=4644",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=4569&rangeEnd=4644"
-    },
-    {
-      "bookmarkId": "35679932_11_5435-5478",
-      "chapterUid": 11,
-      "range": "5435-5478",
-      "markText": "我对一件南美洲怪兽的皂石雕像钟爱有加，按捺不住内心的冲动，将自己的名字写在它的鼻子上。",
-      "totalCount": 162,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=11&rangeStart=5435&rangeEnd=5478",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
     },
     {
       "bookmarkId": "35679932_8_6619-6681",
@@ -1319,6 +1321,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3059&rangeEnd=3083"
     },
     {
+      "bookmarkId": "35679932_4_3154-3204",
+      "chapterUid": 4,
+      "range": "3154-3204",
+      "markText": "我们的精神存在是非物质性的，虽然没有任何维度表现，但从我们出生到死亡，它始终沿着时间这一维度匀速前行",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
+    },
+    {
       "bookmarkId": "35679932_4_3528-3577",
       "chapterUid": 4,
       "range": "3528-3577",
@@ -1335,15 +1346,6 @@
       "totalCount": 153,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=10&rangeStart=5981&rangeEnd=5999",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=10&rangeStart=5981&rangeEnd=5999"
-    },
-    {
-      "bookmarkId": "35679932_4_1010-1028",
-      "chapterUid": 4,
-      "range": "1010-1028",
-      "markText": "“仅有长、宽、高的立方体也不存在。”",
-      "totalCount": 144,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
     }
   ],
   "readProgress": {
