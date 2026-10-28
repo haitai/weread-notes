@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 904,
-    "newRatingCount": 14918,
+    "newRatingCount": 14922,
     "newRatingDetail": {
-      "good": 13750,
+      "good": 13754,
       "fair": 1011,
       "poor": 157,
-      "recent": 133,
-      "deepV": 2164,
+      "recent": 137,
+      "deepV": 2165,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-10-27T21:47:44Z",
+    "lastSync": "2026-10-28T21:26:05Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -299,7 +301,7 @@
       "chapterUid": 43,
       "range": "16086-16192",
       "markText": "我的眼睛盯在那个人身上，惊讶得腿都快软了。 来人不是小松和人，也不是持刀的肥胖男子。 而是猪野诗织。",
-      "totalCount": 8514,
+      "totalCount": 8532,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=43&rangeStart=16086&rangeEnd=16192",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=43&rangeStart=16086&rangeEnd=16192"
     },
@@ -308,7 +310,7 @@
       "chapterUid": 47,
       "range": "23618-23759",
       "markText": "我现在七岁。 二〇〇一年的我，变成了什么样子？ 我变成一个很棒的女生了吗？我有男朋友了吗？ 我好期待。",
-      "totalCount": 7470,
+      "totalCount": 7488,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=47&rangeStart=23618&rangeEnd=23759",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=47&rangeStart=23618&rangeEnd=23759"
     },
@@ -344,7 +346,7 @@
       "chapterUid": 34,
       "range": "1871-1933",
       "markText": "诗织的命案发生后刚好第三年的秋天，我的女儿过世了。一场突来的事故结束了她的一生。我在工作中接到消息，甚至无法见死去的她一面。",
-      "totalCount": 4704,
+      "totalCount": 4732,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=1871&rangeEnd=1933",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=1871&rangeEnd=1933"
     },
@@ -380,7 +382,7 @@
       "chapterUid": 38,
       "range": "13877-13933",
       "markText": "就算是有记者询问，警方公布的死者服装也详尽过头了。“黑色迷你裙”“厚底长靴”“普拉达的背包”“古驰的手表”等等。",
-      "totalCount": 4090,
+      "totalCount": 4100,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=13877&rangeEnd=13933",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=13877&rangeEnd=13933"
     },
@@ -407,7 +409,7 @@
       "chapterUid": 38,
       "range": "6515-6605",
       "markText": "人命不可能有贵贱之分，原本不管任何人怎么样遇害，都是重大事件，但现实中，不同的命案，世人的关注程度也不同。是因为媒体报道，所以民众关注，还是因为民众关注，媒体才大肆报道？我不知道。",
-      "totalCount": 3598,
+      "totalCount": 3626,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=6515&rangeEnd=6605",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=6515&rangeEnd=6605"
     },
@@ -416,7 +418,7 @@
       "chapterUid": 38,
       "range": "7722-7767",
       "markText": "如果被害人有任何过错，他们唯一的错，就是相信这个“社会”是安全的，在那一瞬间身在那个地点。",
-      "totalCount": 3376,
+      "totalCount": 3392,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=7722&rangeEnd=7767",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=7722&rangeEnd=7767"
     },
