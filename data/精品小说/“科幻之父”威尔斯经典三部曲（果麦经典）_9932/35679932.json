@@ -17,21 +17,23 @@
       "good": 1179,
       "fair": 55,
       "poor": 13,
-      "recent": 30,
+      "recent": 27,
       "deepV": 468,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-10-29T22:24:51Z",
+    "lastSync": "2026-10-30T21:14:38Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1179,7 +1181,7 @@
       "chapterUid": 4,
       "range": "4698-4727",
       "markText": "“继而发现，未来社会，”我说，“有着鲜明的共产主义色彩。”",
-      "totalCount": 462,
+      "totalCount": 476,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
     },
@@ -1215,7 +1217,7 @@
       "chapterUid": 49,
       "range": "4941-5031",
       "markText": "被诱发腐烂和疾病的细菌杀死了！火星人对细菌毫无免疫力，像红草一样被悉数歼灭。正当人类束手无策之际，不曾料想它们被毫不起眼的小小细菌所征服了。多亏上帝的无穷智慧，使这些细菌降临人间。",
-      "totalCount": 255,
+      "totalCount": 285,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=49&rangeStart=4941&rangeEnd=5031",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
@@ -1238,6 +1240,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
     },
     {
+      "bookmarkId": "35679932_4_1441-1467",
+      "chapterUid": 4,
+      "range": "1441-1467",
+      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
+      "totalCount": 224,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
+    },
+    {
       "bookmarkId": "35679932_4_2075-2104",
       "chapterUid": 4,
       "range": "2075-2104",
@@ -1245,15 +1256,6 @@
       "totalCount": 210,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2075&rangeEnd=2104",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
-    },
-    {
-      "bookmarkId": "35679932_4_1441-1467",
-      "chapterUid": 4,
-      "range": "1441-1467",
-      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
-      "totalCount": 208,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
     {
       "bookmarkId": "35679932_4_2525-2557",
@@ -1310,6 +1312,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=8&rangeStart=6619&rangeEnd=6681"
     },
     {
+      "bookmarkId": "35679932_4_1010-1028",
+      "chapterUid": 4,
+      "range": "1010-1028",
+      "markText": "“仅有长、宽、高的立方体也不存在。”",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
+    },
+    {
       "bookmarkId": "35679932_4_3059-3083",
       "chapterUid": 4,
       "range": "3059-3083",
@@ -1335,15 +1346,6 @@
       "totalCount": 154,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3528&rangeEnd=3577",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3528&rangeEnd=3577"
-    },
-    {
-      "bookmarkId": "35679932_10_5981-5999",
-      "chapterUid": 10,
-      "range": "5981-5999",
-      "markText": "同时，我也决定将薇娜带回我们的时代。",
-      "totalCount": 153,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=10&rangeStart=5981&rangeEnd=5999",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=10&rangeStart=5981&rangeEnd=5999"
     }
   ],
   "readProgress": {

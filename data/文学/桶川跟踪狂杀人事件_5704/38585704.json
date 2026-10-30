@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 904,
-    "newRatingCount": 14928,
+    "newRatingCount": 14929,
     "newRatingDetail": {
-      "good": 13759,
+      "good": 13760,
       "fair": 1012,
       "poor": 157,
-      "recent": 139,
-      "deepV": 2166,
+      "recent": 135,
+      "deepV": 2167,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-10-29T22:24:44Z",
+    "lastSync": "2026-10-30T21:15:01Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -299,7 +301,7 @@
       "chapterUid": 43,
       "range": "16086-16192",
       "markText": "我的眼睛盯在那个人身上，惊讶得腿都快软了。 来人不是小松和人，也不是持刀的肥胖男子。 而是猪野诗织。",
-      "totalCount": 8550,
+      "totalCount": 8568,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=43&rangeStart=16086&rangeEnd=16192",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=43&rangeStart=16086&rangeEnd=16192"
     },
@@ -326,7 +328,7 @@
       "chapterUid": 38,
       "range": "3083-3165",
       "markText": "是要现在享乐，事后付出可怕的代价，还是立刻工作，分期处理掉麻烦？多欢乐的选择题啊。我是个劳碌命，没有选择的余地。",
-      "totalCount": 5760,
+      "totalCount": 5778,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=3083&rangeEnd=3165",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=3083&rangeEnd=3165"
     },
@@ -335,7 +337,7 @@
       "chapterUid": 38,
       "range": "1628-1653",
       "markText": "开端总是手机。对社会记者来说，手机就像恐怖的项圈。",
-      "totalCount": 4888,
+      "totalCount": 4901,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=1628&rangeEnd=1653",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=1628&rangeEnd=1653"
     },
@@ -362,7 +364,7 @@
       "chapterUid": 39,
       "range": "16482-16541",
       "markText": "“收了人家那么多礼物，才说要分手，做男人的怎么会不生气？你自己不是也拿到一堆好处了？这种男女问题，警察是不能插手的。”",
-      "totalCount": 4250,
+      "totalCount": 4260,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=39&rangeStart=16482&rangeEnd=16541",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=39&rangeStart=16482&rangeEnd=16541"
     },
@@ -416,7 +418,7 @@
       "chapterUid": 38,
       "range": "7722-7767",
       "markText": "如果被害人有任何过错，他们唯一的错，就是相信这个“社会”是安全的，在那一瞬间身在那个地点。",
-      "totalCount": 3392,
+      "totalCount": 3408,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=7722&rangeEnd=7767",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=7722&rangeEnd=7767"
     },
