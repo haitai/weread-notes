@@ -12,26 +12,28 @@
     "isbn": "9787541142185",
     "wordCount": 0,
     "newRating": 925,
-    "newRatingCount": 80548,
+    "newRatingCount": 80566,
     "newRatingDetail": {
-      "good": 75566,
-      "fair": 4598,
-      "poor": 384,
-      "recent": 447,
-      "deepV": 6233,
+      "good": 75582,
+      "fair": 4599,
+      "poor": 385,
+      "recent": 452,
+      "deepV": 6237,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=814146",
     "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439",
-    "lastSync": "2026-10-30T21:55:25Z",
+    "lastSync": "2026-10-31T20:22:08Z",
     "readingProgress": "26%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 5,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/一个叫欧维的男人决定去死（同名电影原著）_4146/814146.jpg"
   },
   "chapters": [
     {
@@ -776,7 +778,7 @@
       "chapterUid": 83,
       "range": "3301-3397",
       "markText": "这时男孩第一次放松下来，嘴角露出一丝无法察觉的微笑，那双直视着她的眼睛里充满难以抑制的骄傲，这种骄傲只有一个词可以表达： 萨博。",
-      "totalCount": 25157,
+      "totalCount": 25168,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=83&rangeStart=3301&rangeEnd=3397",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=83&rangeStart=3301&rangeEnd=3397"
     },
@@ -785,7 +787,7 @@
       "chapterUid": 55,
       "range": "4478-4523",
       "markText": "每个人的生命中总有那么一刻决定他们将成为什么样的人。要是你不了解那个故事，就不了解那个人。",
-      "totalCount": 24695,
+      "totalCount": 24706,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=55&rangeStart=4478&rangeEnd=4523",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=55&rangeStart=4478&rangeEnd=4523"
     },
@@ -794,7 +796,7 @@
       "chapterUid": 46,
       "range": "8519-8529",
       "markText": "明天得装上那个钩子。",
-      "totalCount": 24208,
+      "totalCount": 24224,
       "appLink": "weread://bestbookmark?bookId=814146&chapterUid=46&rangeStart=8519&rangeEnd=8529",
       "webLink": "https://weread.qq.com/web/reader/04832c405c6c4204842b439?chapterUid=46&rangeStart=8519&rangeEnd=8529"
     },

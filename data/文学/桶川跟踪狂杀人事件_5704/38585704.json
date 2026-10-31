@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 904,
-    "newRatingCount": 14929,
+    "newRatingCount": 14935,
     "newRatingDetail": {
-      "good": 13760,
-      "fair": 1012,
+      "good": 13765,
+      "fair": 1013,
       "poor": 157,
-      "recent": 135,
-      "deepV": 2167,
+      "recent": 138,
+      "deepV": 2170,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-10-30T21:55:10Z",
+    "lastSync": "2026-10-31T20:21:42Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -470,7 +472,7 @@
       "chapterUid": 47,
       "range": "23425-23510",
       "markText": "案发后一年的时候，诗织的父母收到了一张明信片。寄件人是诗织，无人预期的诗织来信。那是十六年前，年幼的诗织与家人一同参加筑波科学万国博览会时，在那里写给未来的自己的明信片。",
-      "totalCount": 2664,
+      "totalCount": 2682,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=47&rangeStart=23425&rangeEnd=23510",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=47&rangeStart=23425&rangeEnd=23510"
     }

@@ -17,21 +17,23 @@
       "good": 1179,
       "fair": 55,
       "poor": 13,
-      "recent": 27,
+      "recent": 25,
       "deepV": 468,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-10-30T21:55:17Z",
+    "lastSync": "2026-10-31T20:21:12Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1220,6 +1222,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=49&rangeStart=4941&rangeEnd=5031"
     },
     {
+      "bookmarkId": "35679932_4_1441-1467",
+      "chapterUid": 4,
+      "range": "1441-1467",
+      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
+      "totalCount": 240,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
+    },
+    {
       "bookmarkId": "35679932_12_4838-4882",
       "chapterUid": 12,
       "range": "4838-4882",
@@ -1236,15 +1247,6 @@
       "totalCount": 224,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1372&rangeEnd=1418",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1372&rangeEnd=1418"
-    },
-    {
-      "bookmarkId": "35679932_4_1441-1467",
-      "chapterUid": 4,
-      "range": "1441-1467",
-      "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
-      "totalCount": 224,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
     {
       "bookmarkId": "35679932_4_2075-2104",
@@ -1283,6 +1285,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
     },
     {
+      "bookmarkId": "35679932_4_3059-3083",
+      "chapterUid": 4,
+      "range": "3059-3083",
+      "markText": "但是你根本无法在时间中移动，无法离开此时此刻。”",
+      "totalCount": 168,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3059&rangeEnd=3083",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3059&rangeEnd=3083"
+    },
+    {
       "bookmarkId": "35679932_4_432-502",
       "chapterUid": 4,
       "range": "432-502",
@@ -1319,15 +1330,6 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
     },
     {
-      "bookmarkId": "35679932_4_3059-3083",
-      "chapterUid": 4,
-      "range": "3059-3083",
-      "markText": "但是你根本无法在时间中移动，无法离开此时此刻。”",
-      "totalCount": 156,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3059&rangeEnd=3083",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3059&rangeEnd=3083"
-    },
-    {
       "bookmarkId": "35679932_4_3154-3204",
       "chapterUid": 4,
       "range": "3154-3204",
@@ -1337,13 +1339,13 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
     },
     {
-      "bookmarkId": "35679932_4_3528-3577",
-      "chapterUid": 4,
-      "range": "3528-3577",
-      "markText": "既然如此，他为何不能指望自己终有一天能够在时间这一维度中停止或者加速前进，甚至转过身来逆向后退呢？",
-      "totalCount": 154,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3528&rangeEnd=3577",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3528&rangeEnd=3577"
+      "bookmarkId": "35679932_7_6538-6552",
+      "chapterUid": 7,
+      "range": "6538-6552",
+      "markText": "需求催生力量，安逸助长衰颓。",
+      "totalCount": 156,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=7&rangeStart=6538&rangeEnd=6552",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=7&rangeStart=6538&rangeEnd=6552"
     }
   ],
   "readProgress": {
