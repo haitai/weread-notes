@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 904,
-    "newRatingCount": 14935,
+    "newRatingCount": 14940,
     "newRatingDetail": {
-      "good": 13765,
+      "good": 13770,
       "fair": 1013,
       "poor": 157,
-      "recent": 138,
-      "deepV": 2170,
+      "recent": 141,
+      "deepV": 2173,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-10-31T20:57:31Z",
+    "lastSync": "2026-11-01T20:54:28Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -344,7 +346,7 @@
       "chapterUid": 34,
       "range": "1871-1933",
       "markText": "诗织的命案发生后刚好第三年的秋天，我的女儿过世了。一场突来的事故结束了她的一生。我在工作中接到消息，甚至无法见死去的她一面。",
-      "totalCount": 4732,
+      "totalCount": 4746,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=1871&rangeEnd=1933",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=1871&rangeEnd=1933"
     },
@@ -461,7 +463,7 @@
       "chapterUid": 34,
       "range": "2203-2259",
       "markText": "世上是有无可奈何的事的。 而死亡，就是再也见不到那个人。",
-      "totalCount": 2870,
+      "totalCount": 2884,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=2203&rangeEnd=2259",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=2203&rangeEnd=2259"
     },
