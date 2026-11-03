@@ -12,19 +12,19 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 942,
-    "newRatingCount": 1252,
+    "newRatingCount": 1253,
     "newRatingDetail": {
-      "good": 1183,
+      "good": 1184,
       "fair": 56,
       "poor": 13,
-      "recent": 28,
+      "recent": 29,
       "deepV": 470,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-11-02T23:44:37Z",
+    "lastSync": "2026-11-03T22:08:14Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
@@ -1276,6 +1276,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
     },
     {
+      "bookmarkId": "35679932_4_1010-1028",
+      "chapterUid": 4,
+      "range": "1010-1028",
+      "markText": "“仅有长、宽、高的立方体也不存在。”",
+      "totalCount": 180,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
+    },
+    {
       "bookmarkId": "35679932_4_3059-3083",
       "chapterUid": 4,
       "range": "3059-3083",
@@ -1292,15 +1301,6 @@
       "totalCount": 180,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=11&rangeStart=5435&rangeEnd=5478",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
-    },
-    {
-      "bookmarkId": "35679932_4_1010-1028",
-      "chapterUid": 4,
-      "range": "1010-1028",
-      "markText": "“仅有长、宽、高的立方体也不存在。”",
-      "totalCount": 168,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
     },
     {
       "bookmarkId": "35679932_4_432-502",
