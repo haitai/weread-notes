@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 942,
-    "newRatingCount": 1253,
+    "newRatingCount": 1254,
     "newRatingDetail": {
-      "good": 1184,
+      "good": 1185,
       "fair": 56,
       "poor": 13,
-      "recent": 29,
-      "deepV": 470,
+      "recent": 30,
+      "deepV": 471,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-11-03T22:52:36Z",
+    "lastSync": "2026-11-04T22:16:39Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1170,7 +1172,7 @@
       "chapterUid": 4,
       "range": "1230-1254",
       "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
-      "totalCount": 504,
+      "totalCount": 522,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
@@ -1224,7 +1226,7 @@
       "chapterUid": 4,
       "range": "1441-1467",
       "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
-      "totalCount": 240,
+      "totalCount": 256,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
@@ -1256,6 +1258,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2075&rangeEnd=2104"
     },
     {
+      "bookmarkId": "35679932_4_2525-2557",
+      "chapterUid": 4,
+      "range": "2525-2557",
+      "markText": "但它必定是沿着某一特定轨迹运动，由此判断，这一轨迹就是时间维度。",
+      "totalCount": 204,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2525&rangeEnd=2557",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
+    },
+    {
       "bookmarkId": "35679932_4_7279-7323",
       "chapterUid": 4,
       "range": "7279-7323",
@@ -1263,15 +1274,6 @@
       "totalCount": 198,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=7279&rangeEnd=7323",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=7279&rangeEnd=7323"
-    },
-    {
-      "bookmarkId": "35679932_4_2525-2557",
-      "chapterUid": 4,
-      "range": "2525-2557",
-      "markText": "但它必定是沿着某一特定轨迹运动，由此判断，这一轨迹就是时间维度。",
-      "totalCount": 187,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2525&rangeEnd=2557",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2525&rangeEnd=2557"
     },
     {
       "bookmarkId": "35679932_4_1010-1028",

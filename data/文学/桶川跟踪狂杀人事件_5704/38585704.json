@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 904,
-    "newRatingCount": 14945,
+    "newRatingCount": 14950,
     "newRatingDetail": {
-      "good": 13773,
+      "good": 13778,
       "fair": 1015,
       "poor": 157,
-      "recent": 135,
-      "deepV": 2176,
+      "recent": 137,
+      "deepV": 2179,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-03T22:52:21Z",
+    "lastSync": "2026-11-04T22:16:56Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -308,7 +310,7 @@
       "chapterUid": 47,
       "range": "23618-23759",
       "markText": "我现在七岁。 二〇〇一年的我，变成了什么样子？ 我变成一个很棒的女生了吗？我有男朋友了吗？ 我好期待。",
-      "totalCount": 7506,
+      "totalCount": 7524,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=47&rangeStart=23618&rangeEnd=23759",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=47&rangeStart=23618&rangeEnd=23759"
     },
@@ -317,7 +319,7 @@
       "chapterUid": 46,
       "range": "18457-18504",
       "markText": "没有人想要被卷入命案。每个人都希望被害人与自己毫无共通之处，距离自己居住的世界愈遥远就愈放心。",
-      "totalCount": 6192,
+      "totalCount": 6210,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=46&rangeStart=18457&rangeEnd=18504",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=46&rangeStart=18457&rangeEnd=18504"
     },
@@ -344,7 +346,7 @@
       "chapterUid": 34,
       "range": "1871-1933",
       "markText": "诗织的命案发生后刚好第三年的秋天，我的女儿过世了。一场突来的事故结束了她的一生。我在工作中接到消息，甚至无法见死去的她一面。",
-      "totalCount": 4746,
+      "totalCount": 4760,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=1871&rangeEnd=1933",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=1871&rangeEnd=1933"
     },
@@ -353,7 +355,7 @@
       "chapterUid": 32,
       "range": "2467-2494",
       "markText": "最后，比什么都更重要的是，愿诗织小姐在天之灵能够安息。",
-      "totalCount": 4560,
+      "totalCount": 4576,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=32&rangeStart=2467&rangeEnd=2494",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=32&rangeStart=2467&rangeEnd=2494"
     },
@@ -371,7 +373,7 @@
       "chapterUid": 34,
       "range": "2454-2481",
       "markText": "我为小女取的名字、往后再也无法呼唤的名字，叫作清水梓。",
-      "totalCount": 4140,
+      "totalCount": 4158,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=2454&rangeEnd=2481",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=2454&rangeEnd=2481"
     },
