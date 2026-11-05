@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 942,
-    "newRatingCount": 1254,
+    "newRatingCount": 1255,
     "newRatingDetail": {
-      "good": 1185,
+      "good": 1186,
       "fair": 56,
       "poor": 13,
-      "recent": 30,
+      "recent": 31,
       "deepV": 471,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-11-04T23:10:36Z",
+    "lastSync": "2026-11-05T22:27:08Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1206,7 +1208,7 @@
       "chapterUid": 4,
       "range": "2312-2344",
       "markText": "这一切显然都是固定不变的片段，可谓是一个人四维存在的三维化表现。",
-      "totalCount": 306,
+      "totalCount": 324,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2312&rangeEnd=2344",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2312&rangeEnd=2344"
     },
@@ -1278,7 +1280,7 @@
       "chapterUid": 4,
       "range": "1010-1028",
       "markText": "“仅有长、宽、高的立方体也不存在。”",
-      "totalCount": 180,
+      "totalCount": 192,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1010&rangeEnd=1028",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1010&rangeEnd=1028"
     },

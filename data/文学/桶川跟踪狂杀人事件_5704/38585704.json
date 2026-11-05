@@ -11,27 +11,29 @@
     "publishTime": "2021-02-01 00:00:00",
     "isbn": "9787220118906",
     "wordCount": 0,
-    "newRating": 904,
-    "newRatingCount": 14950,
+    "newRating": 903,
+    "newRatingCount": 14955,
     "newRatingDetail": {
-      "good": 13778,
-      "fair": 1015,
+      "good": 13782,
+      "fair": 1016,
       "poor": 157,
-      "recent": 137,
-      "deepV": 2179,
+      "recent": 141,
+      "deepV": 2183,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-04T23:10:21Z",
+    "lastSync": "2026-11-05T22:27:34Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -299,7 +301,7 @@
       "chapterUid": 43,
       "range": "16086-16192",
       "markText": "我的眼睛盯在那个人身上，惊讶得腿都快软了。 来人不是小松和人，也不是持刀的肥胖男子。 而是猪野诗织。",
-      "totalCount": 8586,
+      "totalCount": 8604,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=43&rangeStart=16086&rangeEnd=16192",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=43&rangeStart=16086&rangeEnd=16192"
     },
@@ -335,7 +337,7 @@
       "chapterUid": 38,
       "range": "1628-1653",
       "markText": "开端总是手机。对社会记者来说，手机就像恐怖的项圈。",
-      "totalCount": 4901,
+      "totalCount": 4888,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=1628&rangeEnd=1653",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=1628&rangeEnd=1653"
     },
@@ -416,7 +418,7 @@
       "chapterUid": 38,
       "range": "7722-7767",
       "markText": "如果被害人有任何过错，他们唯一的错，就是相信这个“社会”是安全的，在那一瞬间身在那个地点。",
-      "totalCount": 3408,
+      "totalCount": 3392,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=7722&rangeEnd=7767",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=7722&rangeEnd=7767"
     },
@@ -443,7 +445,7 @@
       "chapterUid": 21,
       "range": "1977-2062",
       "markText": "被害人诗织看不到今年春天的樱花，也听不到夏季的蝉鸣。往后都再也看不到、听不到了。同龄女性应该会在往后经历恋爱、结婚、生子等充满各种喜悦的人生，她的人生却在那个秋天结束了。",
-      "totalCount": 3111,
+      "totalCount": 3128,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=21&rangeStart=1977&rangeEnd=2062",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=21&rangeStart=1977&rangeEnd=2062"
     },
@@ -470,7 +472,7 @@
       "chapterUid": 47,
       "range": "23425-23510",
       "markText": "案发后一年的时候，诗织的父母收到了一张明信片。寄件人是诗织，无人预期的诗织来信。那是十六年前，年幼的诗织与家人一同参加筑波科学万国博览会时，在那里写给未来的自己的明信片。",
-      "totalCount": 2682,
+      "totalCount": 2700,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=47&rangeStart=23425&rangeEnd=23510",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=47&rangeStart=23425&rangeEnd=23510"
     }
