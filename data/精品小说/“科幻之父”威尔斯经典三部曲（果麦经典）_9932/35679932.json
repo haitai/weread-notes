@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 942,
-    "newRatingCount": 1255,
+    "newRatingCount": 1256,
     "newRatingDetail": {
-      "good": 1186,
+      "good": 1187,
       "fair": 56,
       "poor": 13,
-      "recent": 31,
+      "recent": 32,
       "deepV": 471,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-11-05T23:14:30Z",
+    "lastSync": "2026-11-06T21:52:36Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1224,7 +1226,7 @@
       "chapterUid": 4,
       "range": "1441-1467",
       "markText": "因为我们的意识自始至终都朝着时间这一维度间歇性运动。",
-      "totalCount": 256,
+      "totalCount": 272,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1441&rangeEnd=1467",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1441&rangeEnd=1467"
     },
