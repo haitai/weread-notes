@@ -12,26 +12,28 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 942,
-    "newRatingCount": 1262,
+    "newRatingCount": 1263,
     "newRatingDetail": {
-      "good": 1192,
+      "good": 1193,
       "fair": 57,
       "poor": 13,
-      "recent": 34,
+      "recent": 32,
       "deepV": 473,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-11-12T00:00:33Z",
+    "lastSync": "2026-11-12T22:29:31Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1175,6 +1177,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
     {
+      "bookmarkId": "35679932_4_3384-3421",
+      "chapterUid": 4,
+      "range": "3384-3421",
+      "markText": "倘若一件往事栩栩如生地浮现在我脑海，我便身临其境地回到当初它发生的那一时刻",
+      "totalCount": 490,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3384&rangeEnd=3421",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
+    },
+    {
       "bookmarkId": "35679932_4_4698-4727",
       "chapterUid": 4,
       "range": "4698-4727",
@@ -1182,15 +1193,6 @@
       "totalCount": 490,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=4698&rangeEnd=4727",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=4698&rangeEnd=4727"
-    },
-    {
-      "bookmarkId": "35679932_4_3384-3421",
-      "chapterUid": 4,
-      "range": "3384-3421",
-      "markText": "倘若一件往事栩栩如生地浮现在我脑海，我便身临其境地回到当初它发生的那一时刻",
-      "totalCount": 476,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3384&rangeEnd=3421",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3384&rangeEnd=3421"
     },
     {
       "bookmarkId": "35679932_4_552-572",
@@ -1310,6 +1312,15 @@
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=11&rangeStart=5435&rangeEnd=5478"
     },
     {
+      "bookmarkId": "35679932_10_5981-5999",
+      "chapterUid": 10,
+      "range": "5981-5999",
+      "markText": "同时，我也决定将薇娜带回我们的时代。",
+      "totalCount": 170,
+      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=10&rangeStart=5981&rangeEnd=5999",
+      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=10&rangeStart=5981&rangeEnd=5999"
+    },
+    {
       "bookmarkId": "35679932_4_432-502",
       "chapterUid": 4,
       "range": "432-502",
@@ -1335,15 +1346,6 @@
       "totalCount": 156,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=2411&rangeEnd=2423",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=2411&rangeEnd=2423"
-    },
-    {
-      "bookmarkId": "35679932_4_3154-3204",
-      "chapterUid": 4,
-      "range": "3154-3204",
-      "markText": "我们的精神存在是非物质性的，虽然没有任何维度表现，但从我们出生到死亡，它始终沿着时间这一维度匀速前行",
-      "totalCount": 156,
-      "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=3154&rangeEnd=3204",
-      "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=3154&rangeEnd=3204"
     }
   ],
   "readProgress": {

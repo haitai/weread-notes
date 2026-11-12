@@ -12,26 +12,28 @@
     "isbn": "9787513350068",
     "wordCount": 0,
     "newRating": 782,
-    "newRatingCount": 4046,
+    "newRatingCount": 4048,
     "newRatingDetail": {
-      "good": 3100,
+      "good": 3102,
       "fair": 796,
       "poor": 150,
-      "recent": 26,
+      "recent": 29,
       "deepV": 1146,
       "myRating": "",
       "title": "值得一读"
     },
     "appLink": "weread://reading?bId=3300054893",
     "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230",
-    "lastSync": "2026-11-12T00:01:23Z",
+    "lastSync": "2026-11-12T22:30:34Z",
     "readingProgress": "15%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 3,
     "reviewCount": 5,
     "bookmarkCount": 0,
-    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56"
+    "contentHash": "293744c1679f14ca5962937a3277d8d93d67e4b25036f9e2b1ed18a2f2e78d56",
+    "coverDownloaded": true,
+    "localCover": "data/科学技术/成瘾：在放纵中寻找平衡_4893/3300054893.jpg"
   },
   "chapters": [
     {
@@ -570,7 +572,7 @@
       "chapterUid": 4,
       "range": "2134-2168",
       "markText": "放弃那些在短期内给他带来快乐的事情，从长远来看，可能会使他更加快乐。",
-      "totalCount": 1674,
+      "totalCount": 1692,
       "appLink": "weread://bestbookmark?bookId=3300054893&chapterUid=4&rangeStart=2134&rangeEnd=2168",
       "webLink": "https://weread.qq.com/web/reader/9e8321b0813ab7bf1g013230?chapterUid=4&rangeStart=2134&rangeEnd=2168"
     },

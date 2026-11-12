@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 903,
-    "newRatingCount": 14973,
+    "newRatingCount": 14977,
     "newRatingDetail": {
-      "good": 13800,
+      "good": 13804,
       "fair": 1016,
       "poor": 157,
-      "recent": 138,
-      "deepV": 2192,
+      "recent": 135,
+      "deepV": 2194,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-12T00:00:24Z",
+    "lastSync": "2026-11-12T22:29:58Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -335,7 +337,7 @@
       "chapterUid": 38,
       "range": "1628-1653",
       "markText": "开端总是手机。对社会记者来说，手机就像恐怖的项圈。",
-      "totalCount": 4888,
+      "totalCount": 4901,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=1628&rangeEnd=1653",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=1628&rangeEnd=1653"
     },
@@ -380,7 +382,7 @@
       "chapterUid": 38,
       "range": "13877-13933",
       "markText": "就算是有记者询问，警方公布的死者服装也详尽过头了。“黑色迷你裙”“厚底长靴”“普拉达的背包”“古驰的手表”等等。",
-      "totalCount": 4100,
+      "totalCount": 4110,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=13877&rangeEnd=13933",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=13877&rangeEnd=13933"
     },
@@ -425,7 +427,7 @@
       "chapterUid": 21,
       "range": "774-800",
       "markText": "新闻上报道的全是扭曲的被害人形象，调查本身则触礁了。",
-      "totalCount": 3248,
+      "totalCount": 3262,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=21&rangeStart=774&rangeEnd=800",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=21&rangeStart=774&rangeEnd=800"
     },
@@ -443,7 +445,7 @@
       "chapterUid": 21,
       "range": "1977-2062",
       "markText": "被害人诗织看不到今年春天的樱花，也听不到夏季的蝉鸣。往后都再也看不到、听不到了。同龄女性应该会在往后经历恋爱、结婚、生子等充满各种喜悦的人生，她的人生却在那个秋天结束了。",
-      "totalCount": 3128,
+      "totalCount": 3145,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=21&rangeStart=1977&rangeEnd=2062",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=21&rangeStart=1977&rangeEnd=2062"
     },
