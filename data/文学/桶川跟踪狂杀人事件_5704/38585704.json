@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 903,
-    "newRatingCount": 14977,
+    "newRatingCount": 14981,
     "newRatingDetail": {
-      "good": 13804,
-      "fair": 1016,
+      "good": 13807,
+      "fair": 1017,
       "poor": 157,
-      "recent": 135,
+      "recent": 133,
       "deepV": 2194,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-12T23:10:47Z",
+    "lastSync": "2026-11-13T22:17:52Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -308,7 +310,7 @@
       "chapterUid": 47,
       "range": "23618-23759",
       "markText": "我现在七岁。 二〇〇一年的我，变成了什么样子？ 我变成一个很棒的女生了吗？我有男朋友了吗？ 我好期待。",
-      "totalCount": 7560,
+      "totalCount": 7578,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=47&rangeStart=23618&rangeEnd=23759",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=47&rangeStart=23618&rangeEnd=23759"
     },
