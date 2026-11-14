@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 903,
-    "newRatingCount": 14981,
+    "newRatingCount": 14983,
     "newRatingDetail": {
-      "good": 13807,
+      "good": 13809,
       "fair": 1017,
       "poor": 157,
-      "recent": 133,
-      "deepV": 2194,
+      "recent": 132,
+      "deepV": 2195,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-13T23:13:15Z",
+    "lastSync": "2026-11-14T21:00:57Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -308,7 +310,7 @@
       "chapterUid": 47,
       "range": "23618-23759",
       "markText": "我现在七岁。 二〇〇一年的我，变成了什么样子？ 我变成一个很棒的女生了吗？我有男朋友了吗？ 我好期待。",
-      "totalCount": 7578,
+      "totalCount": 7596,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=47&rangeStart=23618&rangeEnd=23759",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=47&rangeStart=23618&rangeEnd=23759"
     },
@@ -317,7 +319,7 @@
       "chapterUid": 46,
       "range": "18457-18504",
       "markText": "没有人想要被卷入命案。每个人都希望被害人与自己毫无共通之处，距离自己居住的世界愈遥远就愈放心。",
-      "totalCount": 6210,
+      "totalCount": 6228,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=46&rangeStart=18457&rangeEnd=18504",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=46&rangeStart=18457&rangeEnd=18504"
     },
@@ -335,7 +337,7 @@
       "chapterUid": 38,
       "range": "1628-1653",
       "markText": "开端总是手机。对社会记者来说，手机就像恐怖的项圈。",
-      "totalCount": 4901,
+      "totalCount": 4914,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=1628&rangeEnd=1653",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=1628&rangeEnd=1653"
     },
@@ -389,7 +391,7 @@
       "chapterUid": 41,
       "range": "20418-20504",
       "markText": "我听着渡边的话，手机用力按在耳朵上，按到耳朵几乎发痛了。脑袋一片空白，空白的脑袋里，“拍到了”这三个字就像彩纸般漫天飞舞。拍到了拍到了拍到了拍到了拍到了拍到了拍到了拍到了！",
-      "totalCount": 3948,
+      "totalCount": 3962,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=41&rangeStart=20418&rangeEnd=20504",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=41&rangeStart=20418&rangeEnd=20504"
     },
@@ -407,7 +409,7 @@
       "chapterUid": 38,
       "range": "6515-6605",
       "markText": "人命不可能有贵贱之分，原本不管任何人怎么样遇害，都是重大事件，但现实中，不同的命案，世人的关注程度也不同。是因为媒体报道，所以民众关注，还是因为民众关注，媒体才大肆报道？我不知道。",
-      "totalCount": 3640,
+      "totalCount": 3654,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=6515&rangeEnd=6605",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=6515&rangeEnd=6605"
     },
