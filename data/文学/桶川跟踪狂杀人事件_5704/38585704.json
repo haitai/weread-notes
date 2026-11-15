@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 903,
-    "newRatingCount": 14983,
+    "newRatingCount": 14989,
     "newRatingDetail": {
-      "good": 13809,
+      "good": 13815,
       "fair": 1017,
       "poor": 157,
-      "recent": 132,
-      "deepV": 2195,
+      "recent": 133,
+      "deepV": 2196,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-14T21:56:51Z",
+    "lastSync": "2026-11-15T21:25:00Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -326,7 +328,7 @@
       "chapterUid": 38,
       "range": "3083-3165",
       "markText": "是要现在享乐，事后付出可怕的代价，还是立刻工作，分期处理掉麻烦？多欢乐的选择题啊。我是个劳碌命，没有选择的余地。",
-      "totalCount": 5778,
+      "totalCount": 5796,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=3083&rangeEnd=3165",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=3083&rangeEnd=3165"
     },
@@ -362,7 +364,7 @@
       "chapterUid": 39,
       "range": "16482-16541",
       "markText": "“收了人家那么多礼物，才说要分手，做男人的怎么会不生气？你自己不是也拿到一堆好处了？这种男女问题，警察是不能插手的。”",
-      "totalCount": 4260,
+      "totalCount": 4270,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=39&rangeStart=16482&rangeEnd=16541",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=39&rangeStart=16482&rangeEnd=16541"
     },
@@ -371,7 +373,7 @@
       "chapterUid": 34,
       "range": "2454-2481",
       "markText": "我为小女取的名字、往后再也无法呼唤的名字，叫作清水梓。",
-      "totalCount": 4194,
+      "totalCount": 4212,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=2454&rangeEnd=2481",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=2454&rangeEnd=2481"
     },
@@ -425,7 +427,7 @@
       "chapterUid": 21,
       "range": "774-800",
       "markText": "新闻上报道的全是扭曲的被害人形象，调查本身则触礁了。",
-      "totalCount": 3262,
+      "totalCount": 3276,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=21&rangeStart=774&rangeEnd=800",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=21&rangeStart=774&rangeEnd=800"
     },
@@ -434,7 +436,7 @@
       "chapterUid": 39,
       "range": "20176-20228",
       "markText": "次日二十四日，父亲急忙带着信件去警署求助，然而负责的刑警却只是笑着说：“这纸质很不错呢，做得很用心嘛。”",
-      "totalCount": 3234,
+      "totalCount": 3245,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=39&rangeStart=20176&rangeEnd=20228",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=39&rangeStart=20176&rangeEnd=20228"
     },
@@ -461,7 +463,7 @@
       "chapterUid": 34,
       "range": "2203-2259",
       "markText": "世上是有无可奈何的事的。 而死亡，就是再也见不到那个人。",
-      "totalCount": 2884,
+      "totalCount": 2898,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=2203&rangeEnd=2259",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=2203&rangeEnd=2259"
     },
