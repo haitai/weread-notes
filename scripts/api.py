@@ -43,6 +43,8 @@ class WeReadClient:
         self.skill_version = config["weread"]["skill_version"]
         self.timeout = config["sync"]["timeout_seconds"]
         self.retry_times = config["sync"]["retry_times"]
+        # 升级提示只记录一次，避免 123 本书每本书都刷屏
+        self._upgrade_notified = False
 
         api_key = get_env("WEREAD_API_KEY")
         if not api_key:
@@ -83,10 +85,24 @@ class WeReadClient:
                 resp.raise_for_status()
                 data = resp.json()
 
-                # 检查升级信息
-                if "upgrade_info" in data:
-                    upgrade_msg = data["upgrade_info"].get("message", "请升级")
-                    raise UpgradeRequiredError(upgrade_msg)
+                # 检查升级信息：仅作提示，不阻断本次请求
+                # API 明确要求「本次请求已正常处理，先用当前回包完成用户请求，
+                # 不要因升级提示重试本次请求」，因此这里只记录警告并继续
+                # 使用当前回包完成同步；升级动作留到同步结束后由维护者处理。
+                if "upgrade_info" in data and not self._upgrade_notified:
+                    upgrade = data.get("upgrade_info") or {}
+                    upgrade_msg = upgrade.get("message", "请升级")
+                    upgrade_url = (
+                        upgrade.get("upgradeUrl")
+                        or upgrade.get("upgrade_url")
+                        or ""
+                    )
+                    suffix = f" | 下载地址: {upgrade_url}" if upgrade_url else ""
+                    logger.warning(
+                        "[%s] 检测到 Skill 新版本（本次请求仍使用当前回包）: %s%s",
+                        api_name, upgrade_msg, suffix,
+                    )
+                    self._upgrade_notified = True
 
                 # 检查错误码
                 errcode = data.get("errcode", 0)
@@ -96,6 +112,7 @@ class WeReadClient:
 
                 return data
 
+            # 兼容保留：正常流程已不再抛出升级异常
             except UpgradeRequiredError:
                 raise
             except WeReadAPIError as e:
