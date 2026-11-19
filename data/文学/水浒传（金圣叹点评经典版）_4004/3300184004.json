@@ -11,7 +11,7 @@
     "publishTime": "2025-10-01 00:00:00",
     "isbn": "",
     "wordCount": 0,
-    "newRating": 865,
+    "newRating": 864,
     "newRatingCount": 42,
     "newRatingDetail": {
       "good": 33,
@@ -24,7 +24,7 @@
     },
     "appLink": "weread://reading?bId=3300184004",
     "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96",
-    "lastSync": "2026-11-17T00:34:11Z",
+    "lastSync": "2026-11-19T23:20:23Z",
     "readingProgress": "100%",
     "readingTime": "0分钟",
     "finishedDate": "2026-02-11",
@@ -1055,6 +1055,15 @@
       "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=4&rangeStart=716&rangeEnd=742"
     },
     {
+      "bookmarkId": "3300184004_5_18266-18273",
+      "chapterUid": 5,
+      "range": "18266-18273",
+      "markText": "鲁达却不识字。",
+      "totalCount": 28,
+      "appLink": "weread://bestbookmark?bookId=3300184004&chapterUid=5&rangeStart=18266&rangeEnd=18273",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=5&rangeStart=18266&rangeEnd=18273"
+    },
+    {
       "bookmarkId": "3300184004_14_5317-5366",
       "chapterUid": 14,
       "range": "5317-5366",
@@ -1098,6 +1107,15 @@
       "totalCount": 20,
       "appLink": "weread://bestbookmark?bookId=3300184004&chapterUid=23&rangeStart=426&rangeEnd=454",
       "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=23&rangeStart=426&rangeEnd=454"
+    },
+    {
+      "bookmarkId": "3300184004_30_14477-14529",
+      "chapterUid": 30,
+      "range": "14477-14529",
+      "markText": "武松再把右手去地里一提，提将起来，望空只一掷，掷起去离地一丈来高；武松双手只一接，接来轻轻地放在原旧安处",
+      "totalCount": 20,
+      "appLink": "weread://bestbookmark?bookId=3300184004&chapterUid=30&rangeStart=14477&rangeEnd=14529",
+      "webLink": "https://weread.qq.com/web/reader/12832510813abae60g014a96?chapterUid=30&rangeStart=14477&rangeEnd=14529"
     }
   ],
   "readProgress": {
