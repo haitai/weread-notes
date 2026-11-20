@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 903,
-    "newRatingCount": 15011,
+    "newRatingCount": 15016,
     "newRatingDetail": {
-      "good": 13832,
-      "fair": 1022,
+      "good": 13836,
+      "fair": 1023,
       "poor": 157,
-      "recent": 137,
-      "deepV": 2207,
+      "recent": 139,
+      "deepV": 2210,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-20T00:16:43Z",
+    "lastSync": "2026-11-20T22:52:37Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -344,7 +346,7 @@
       "chapterUid": 34,
       "range": "1871-1933",
       "markText": "诗织的命案发生后刚好第三年的秋天，我的女儿过世了。一场突来的事故结束了她的一生。我在工作中接到消息，甚至无法见死去的她一面。",
-      "totalCount": 4802,
+      "totalCount": 4816,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=34&rangeStart=1871&rangeEnd=1933",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=34&rangeStart=1871&rangeEnd=1933"
     },
@@ -380,7 +382,7 @@
       "chapterUid": 38,
       "range": "13877-13933",
       "markText": "就算是有记者询问，警方公布的死者服装也详尽过头了。“黑色迷你裙”“厚底长靴”“普拉达的背包”“古驰的手表”等等。",
-      "totalCount": 4110,
+      "totalCount": 4120,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=13877&rangeEnd=13933",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=13877&rangeEnd=13933"
     },
@@ -416,9 +418,18 @@
       "chapterUid": 38,
       "range": "7722-7767",
       "markText": "如果被害人有任何过错，他们唯一的错，就是相信这个“社会”是安全的，在那一瞬间身在那个地点。",
-      "totalCount": 3392,
+      "totalCount": 3408,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=38&rangeStart=7722&rangeEnd=7767",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=38&rangeStart=7722&rangeEnd=7767"
+    },
+    {
+      "bookmarkId": "38585704_39_20176-20228",
+      "chapterUid": 39,
+      "range": "20176-20228",
+      "markText": "次日二十四日，父亲急忙带着信件去警署求助，然而负责的刑警却只是笑着说：“这纸质很不错呢，做得很用心嘛。”",
+      "totalCount": 3278,
+      "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=39&rangeStart=20176&rangeEnd=20228",
+      "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=39&rangeStart=20176&rangeEnd=20228"
     },
     {
       "bookmarkId": "38585704_21_774-800",
@@ -428,15 +439,6 @@
       "totalCount": 3276,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=21&rangeStart=774&rangeEnd=800",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=21&rangeStart=774&rangeEnd=800"
-    },
-    {
-      "bookmarkId": "38585704_39_20176-20228",
-      "chapterUid": 39,
-      "range": "20176-20228",
-      "markText": "次日二十四日，父亲急忙带着信件去警署求助，然而负责的刑警却只是笑着说：“这纸质很不错呢，做得很用心嘛。”",
-      "totalCount": 3256,
-      "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=39&rangeStart=20176&rangeEnd=20228",
-      "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=39&rangeStart=20176&rangeEnd=20228"
     },
     {
       "bookmarkId": "38585704_21_1977-2062",
