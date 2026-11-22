@@ -12,26 +12,28 @@
     "isbn": "9787220118906",
     "wordCount": 0,
     "newRating": 903,
-    "newRatingCount": 15021,
+    "newRatingCount": 15029,
     "newRatingDetail": {
-      "good": 13840,
+      "good": 13848,
       "fair": 1024,
       "poor": 157,
-      "recent": 143,
-      "deepV": 2211,
+      "recent": 148,
+      "deepV": 2215,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-21T22:44:47Z",
+    "lastSync": "2026-11-22T22:14:42Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
   },
   "chapters": [
     {
@@ -353,7 +355,7 @@
       "chapterUid": 32,
       "range": "2467-2494",
       "markText": "最后，比什么都更重要的是，愿诗织小姐在天之灵能够安息。",
-      "totalCount": 4608,
+      "totalCount": 4624,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=32&rangeStart=2467&rangeEnd=2494",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=32&rangeStart=2467&rangeEnd=2494"
     },
@@ -362,7 +364,7 @@
       "chapterUid": 39,
       "range": "16482-16541",
       "markText": "“收了人家那么多礼物，才说要分手，做男人的怎么会不生气？你自己不是也拿到一堆好处了？这种男女问题，警察是不能插手的。”",
-      "totalCount": 4290,
+      "totalCount": 4280,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=39&rangeStart=16482&rangeEnd=16541",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=39&rangeStart=16482&rangeEnd=16541"
     },
@@ -452,7 +454,7 @@
       "chapterUid": 41,
       "range": "9434-9456",
       "markText": "更何况穿什么衣服，能构成一个人被杀的理由吗？",
-      "totalCount": 3072,
+      "totalCount": 3084,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=41&rangeStart=9434&rangeEnd=9456",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=41&rangeStart=9434&rangeEnd=9456"
     },
@@ -470,7 +472,7 @@
       "chapterUid": 47,
       "range": "23425-23510",
       "markText": "案发后一年的时候，诗织的父母收到了一张明信片。寄件人是诗织，无人预期的诗织来信。那是十六年前，年幼的诗织与家人一同参加筑波科学万国博览会时，在那里写给未来的自己的明信片。",
-      "totalCount": 2772,
+      "totalCount": 2790,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=47&rangeStart=23425&rangeEnd=23510",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=47&rangeStart=23425&rangeEnd=23510"
     }

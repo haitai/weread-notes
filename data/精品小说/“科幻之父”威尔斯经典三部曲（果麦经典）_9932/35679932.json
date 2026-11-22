@@ -12,9 +12,9 @@
     "isbn": "",
     "wordCount": 0,
     "newRating": 940,
-    "newRatingCount": 1266,
+    "newRatingCount": 1268,
     "newRatingDetail": {
-      "good": 1194,
+      "good": 1196,
       "fair": 59,
       "poor": 13,
       "recent": 30,
@@ -24,14 +24,16 @@
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-11-21T22:44:55Z",
+    "lastSync": "2026-11-22T22:13:59Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
