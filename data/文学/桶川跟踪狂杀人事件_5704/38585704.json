@@ -17,23 +17,21 @@
       "good": 13855,
       "fair": 1024,
       "poor": 157,
-      "recent": 148,
+      "recent": 147,
       "deepV": 2219,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=38585704",
     "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355",
-    "lastSync": "2026-11-25T01:11:59Z",
+    "lastSync": "2026-11-25T01:53:33Z",
     "readingProgress": "12%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
-    "coverDownloaded": true,
-    "localCover": "data/文学/桶川跟踪狂杀人事件_5704/38585704.jpg"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
   },
   "chapters": [
     {
@@ -427,7 +425,7 @@
       "chapterUid": 39,
       "range": "20176-20228",
       "markText": "次日二十四日，父亲急忙带着信件去警署求助，然而负责的刑警却只是笑着说：“这纸质很不错呢，做得很用心嘛。”",
-      "totalCount": 3278,
+      "totalCount": 3289,
       "appLink": "weread://bestbookmark?bookId=38585704&chapterUid=39&rangeStart=20176&rangeEnd=20228",
       "webLink": "https://weread.qq.com/web/reader/63332500724cc5686333355?chapterUid=39&rangeStart=20176&rangeEnd=20228"
     },
