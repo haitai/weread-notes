@@ -17,21 +17,23 @@
       "good": 1196,
       "fair": 58,
       "poor": 13,
-      "recent": 27,
+      "recent": 25,
       "deepV": 472,
       "myRating": "",
       "title": "神作"
     },
     "appLink": "weread://reading?bId=35679932",
     "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb",
-    "lastSync": "2026-11-27T01:28:15Z",
+    "lastSync": "2026-11-28T00:18:13Z",
     "readingProgress": "3%",
     "readingTime": "0分钟",
     "finishedDate": "",
     "noteCount": 1,
     "reviewCount": 0,
     "bookmarkCount": 0,
-    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5"
+    "contentHash": "1554c478c4d830556818bf61ed9916fa8929ea43c180cd5641446ad6dd2c3ec5",
+    "coverDownloaded": true,
+    "localCover": "data/精品小说/“科幻之父”威尔斯经典三部曲（果麦经典）_9932/35679932.jpg"
   },
   "chapters": [
     {
@@ -1170,7 +1172,7 @@
       "chapterUid": 4,
       "range": "1230-1254",
       "markText": "“一个存在时间为零的立方体，现实中能够存在吗？”",
-      "totalCount": 522,
+      "totalCount": 540,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=1230&rangeEnd=1254",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=1230&rangeEnd=1254"
     },
@@ -1197,7 +1199,7 @@
       "chapterUid": 4,
       "range": "552-572",
       "markText": "这椅子与其说是供人入座，不如说是拥人入怀",
-      "totalCount": 408,
+      "totalCount": 425,
       "appLink": "weread://bestbookmark?bookId=35679932&chapterUid=4&rangeStart=552&rangeEnd=572",
       "webLink": "https://weread.qq.com/web/reader/f3132bb072206ebcf31d6eb?chapterUid=4&rangeStart=552&rangeEnd=572"
     },
